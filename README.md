@@ -6,6 +6,16 @@ A full-stack companion site for **Teamfight Tactics — Set 17: Space Gods**. Br
 
 ---
 
+## 📸 Screenshots
+
+| Comp Tier List | Composition Detail |
+|:---:|:---:|
+| ![Comp tier list](docs/screenshots/tier-list.png) | ![Composition detail](docs/screenshots/comp-detail.png) |
+| **Team Builder** | **Shop Odds** |
+| ![Team builder](docs/screenshots/team-builder.png) | ![Shop odds](docs/screenshots/shop-odds.png) |
+
+---
+
 ## ✨ Features
 
 **Comps & meta**
