@@ -1,6 +1,19 @@
+<div align="center">
+
+<img src="frontend/public/logo.png" alt="TFTools logo" width="120" />
+
 # TFTools
 
-A full-stack companion site for **Teamfight Tactics — Set 17: Space Gods**. Browse the comp tier list, dig into champion/trait/item/augment data, theory-craft in a drag-and-drop team builder, and export your board straight into the in-game Team Planner.
+**A full-stack companion site for Teamfight Tactics — Set 17: Space Gods**
+
+Browse the comp tier list, dig into champion/trait/item/augment data, theory-craft in a drag-and-drop team builder, and export your board straight into the in-game Team Planner.
+
+![React](https://img.shields.io/badge/React-61dafb?logo=react&logoColor=000&style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-646cff?logo=vite&logoColor=fff&style=flat-square)
+![.NET](https://img.shields.io/badge/ASP.NET_Core-512bd4?logo=dotnet&logoColor=fff&style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL_Server-cc2927?logo=microsoftsqlserver&logoColor=fff&style=flat-square)
+
+</div>
 
 > Not affiliated with or endorsed by Riot Games. All game assets and trademarks are the property of Riot Games, Inc.
 
