@@ -49,6 +49,10 @@ Browse the comp tier list, dig into champion/trait/item/augment data, theory-cra
 - **Shop Odds**, **Beginner Guide**, and a **Glossary**
 - Global search across everything, plus an admin panel for editing comps and stats
 
+**Installable (PWA)**
+- Install to your phone home screen or desktop — runs in its own window, no browser chrome
+- Offline-friendly: app shell is precached and champion/item art is runtime-cached, so it loads instantly on repeat visits and survives a flaky connection
+
 ---
 
 ## 🛠️ Tech Stack
@@ -58,6 +62,7 @@ Browse the comp tier list, dig into champion/trait/item/augment data, theory-cra
 | Frontend | React, Vite, React Router, Axios, lucide-react / react-icons |
 | Backend | ASP.NET Core Web API (C#), Entity Framework Core |
 | Database | SQL Server |
+| PWA | vite-plugin-pwa (Workbox service worker, installable web manifest) |
 | Assets | CommunityDragon (champion/trait/item images, team-planner codes) |
 
 ---
