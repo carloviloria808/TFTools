@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="frontend/public/logo.png" alt="TFTools logo" width="120" />
+<img src="frontend/public/tftools-whitelogo.png" alt="TFTools logo" width="120" />
 
 # TFTools
 
