@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="frontend/public/tftools-whitelogo.png" alt="TFTools logo" width="120" />
-
-# TFTools
+<img src="frontend/public/tftools-white.png" alt="TFTools logo" width="120" />
 
 **A full-stack companion site for Teamfight Tactics — Set 17: Space Gods**
 
