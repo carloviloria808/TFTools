@@ -1,0 +1,19 @@
+[
+  {
+    "Id": 1007,
+    "CompositionId": 20,
+    "Name": "In the Groove",
+    "Tier": "S",
+    "ChangeType": "updated",
+    "Note": "Tier A → S",
+    "Timestamp": "2026-06-11T01:22:07.2596020"
+  },
+  {
+    "Id": 1008,
+    "CompositionId": 1,
+    "Name": "Yi Marauders",
+    "Tier": "B",
+    "ChangeType": "updated",
+    "Timestamp": "2026-06-12T13:32:24.8629062"
+  }
+]

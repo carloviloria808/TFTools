@@ -1,0 +1,443 @@
+[
+  {
+    "Id": 1,
+    "Name": "Aatrox",
+    "Cost": 1,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_aatrox/hud/tft17_aatrox_square.tft_set17.png",
+    "Role": "Attack Tank"
+  },
+  {
+    "Id": 2,
+    "Name": "Briar",
+    "Cost": 1,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_briar/hud/tft17_briar_square.tft_set17.png",
+    "Role": "Attack Fighter"
+  },
+  {
+    "Id": 3,
+    "Name": "Caitlyn",
+    "Cost": 1,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_caitlyn/hud/tft17_caitlyn_square.tft_set17.png",
+    "Role": "Attack Specialist"
+  },
+  {
+    "Id": 4,
+    "Name": "Chogath",
+    "Cost": 1,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_chogath/hud/tft17_chogath_square.tft_set17.png",
+    "Role": "Magic Tank"
+  },
+  {
+    "Id": 5,
+    "Name": "Ezreal",
+    "Cost": 1,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_ezreal/hud/tft17_ezreal_square.tft_set17.png",
+    "Role": "Attack Caster"
+  },
+  {
+    "Id": 6,
+    "Name": "Leona",
+    "Cost": 1,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_leona/hud/tft17_leona_square.tft_set17.png",
+    "Role": "Magic Tank"
+  },
+  {
+    "Id": 7,
+    "Name": "Lissandra",
+    "Cost": 1,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_lissandra/hud/tft17_lissandra_square.tft_set17.png",
+    "Role": "Magic Caster"
+  },
+  {
+    "Id": 8,
+    "Name": "Nasus",
+    "Cost": 1,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_nasus/hud/tft17_nasus_square.tft_set17.png",
+    "Role": "Magic Tank"
+  },
+  {
+    "Id": 9,
+    "Name": "Poppy",
+    "Cost": 1,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_poppy/hud/tft17_poppy_square.tft_set17.png",
+    "Role": "Magic Tank"
+  },
+  {
+    "Id": 10,
+    "Name": "RekSai",
+    "Cost": 1,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_reksai/hud/tft17_reksai_square.tft_set17.png",
+    "Role": "Magic Tank"
+  },
+  {
+    "Id": 11,
+    "Name": "Talon",
+    "Cost": 1,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_talon/hud/tft17_talon_square.tft_set17.png",
+    "Role": "Attack Assassin"
+  },
+  {
+    "Id": 12,
+    "Name": "Teemo",
+    "Cost": 1,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_teemo/hud/tft17_teemo_square.tft_set17.png",
+    "Role": "Magic Marksman"
+  },
+  {
+    "Id": 13,
+    "Name": "Twisted Fate",
+    "Cost": 1,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_twistedfate/hud/tft17_twistedfate_square.tft_set17.png",
+    "Role": "Magic Caster"
+  },
+  {
+    "Id": 14,
+    "Name": "Veigar",
+    "Cost": 1,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_veigar/hud/tft17_veigar_square.tft_set17.png",
+    "Role": "Magic Caster"
+  },
+  {
+    "Id": 15,
+    "Name": "Akali",
+    "Cost": 2,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_akali/hud/tft17_akali_square.tft_set17.png",
+    "Role": "Attack Fighter"
+  },
+  {
+    "Id": 16,
+    "Name": "Belveth",
+    "Cost": 2,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_belveth/hud/tft17_belveth_square.tft_set17.png",
+    "Role": "Attack Fighter"
+  },
+  {
+    "Id": 17,
+    "Name": "Gnar",
+    "Cost": 2,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_gnar/hud/tft17_gnar_square.tft_set17.png",
+    "Role": "Attack Specialist"
+  },
+  {
+    "Id": 18,
+    "Name": "Gragas",
+    "Cost": 2,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_gragas/hud/tft17_gragas_square.tft_set17.png",
+    "Role": "Magic Tank"
+  },
+  {
+    "Id": 20,
+    "Name": "Gwen",
+    "Cost": 2,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_gwen/hud/tft17_gwen_square.tft_set17.png",
+    "Role": "Magic Assassin"
+  },
+  {
+    "Id": 21,
+    "Name": "Jax",
+    "Cost": 2,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_jax/hud/tft17_jax_square.tft_set17.png",
+    "Role": "Magic Tank"
+  },
+  {
+    "Id": 22,
+    "Name": "Jinx",
+    "Cost": 2,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_jinx/hud/tft17_jinx_square.tft_set17.png",
+    "Role": "Attack Marksman"
+  },
+  {
+    "Id": 23,
+    "Name": "Meepsie",
+    "Cost": 2,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_ivernminion/skins/base/images/tft17_ivernminion_splash_tile_27.tft_set17.png",
+    "Role": "Magic Tank"
+  },
+  {
+    "Id": 24,
+    "Name": "Milio",
+    "Cost": 2,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_milio/hud/tft17_milio_square.tft_set17.png",
+    "Role": "Magic Caster"
+  },
+  {
+    "Id": 25,
+    "Name": "Mordekaiser",
+    "Cost": 2,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_mordekaiser/hud/tft17_mordekaiser_square.tft_set17.png",
+    "Role": "Magic Tank"
+  },
+  {
+    "Id": 26,
+    "Name": "Pantheon",
+    "Cost": 2,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_pantheon/hud/tft17_pantheon_square.tft_set17.png",
+    "Role": "Attack Tank"
+  },
+  {
+    "Id": 27,
+    "Name": "Pyke",
+    "Cost": 2,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_pyke/hud/tft17_pyke_square.tft_set17.png",
+    "Role": "Attack Assassin"
+  },
+  {
+    "Id": 28,
+    "Name": "Zoe",
+    "Cost": 2,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_zoe/hud/tft17_zoe_square.tft_set17.png",
+    "Role": "Magic Caster"
+  },
+  {
+    "Id": 29,
+    "Name": "Aurora",
+    "Cost": 3,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_aurora/hud/tft17_aurora_square.tft_set17.png",
+    "Role": "Magic Caster"
+  },
+  {
+    "Id": 30,
+    "Name": "Diana",
+    "Cost": 3,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_diana/hud/tft17_diana_square.tft_set17.png",
+    "Role": "Magic Fighter"
+  },
+  {
+    "Id": 31,
+    "Name": "Fizz",
+    "Cost": 3,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_fizz/hud/tft17_fizz_square.tft_set17.png",
+    "Role": "Magic Assassin"
+  },
+  {
+    "Id": 32,
+    "Name": "Illaoi",
+    "Cost": 3,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_illaoi/hud/tft17_illaoi_square.tft_set17.png",
+    "Role": "Magic Tank"
+  },
+  {
+    "Id": 33,
+    "Name": "Kaisa",
+    "Cost": 3,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_kaisa/hud/tft17_kaisa_square.tft_set17.png",
+    "Role": "Attack Caster"
+  },
+  {
+    "Id": 34,
+    "Name": "Lulu",
+    "Cost": 3,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_lulu/hud/tft17_lulu_square.tft_set17.png",
+    "Role": "Magic Caster"
+  },
+  {
+    "Id": 35,
+    "Name": "Maokai",
+    "Cost": 3,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_maokai/hud/tft17_maokai_square.tft_set17.png",
+    "Role": "Magic Tank"
+  },
+  {
+    "Id": 36,
+    "Name": "Miss Fortune",
+    "Cost": 3,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_missfortune/hud/tft17_missfortune_square.tft_set17.png",
+    "Role": ""
+  },
+  {
+    "Id": 37,
+    "Name": "Ornn",
+    "Cost": 4,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_ornn/hud/tft17_ornn_square.tft_set17.png",
+    "Role": "Magic Tank"
+  },
+  {
+    "Id": 38,
+    "Name": "Rhaast",
+    "Cost": 3,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_rhaast/skins/base/images/tft17_kaynsplash_tile.tft_set17.png",
+    "Role": "Attack Tank"
+  },
+  {
+    "Id": 39,
+    "Name": "Samira",
+    "Cost": 3,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_samira/hud/tft17_samira_square.tft_set17.png",
+    "Role": "Attack Caster"
+  },
+  {
+    "Id": 40,
+    "Name": "Urgot",
+    "Cost": 3,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_urgot/hud/tft17_urgot_square.tft_set17.png",
+    "Role": "Attack Fighter"
+  },
+  {
+    "Id": 41,
+    "Name": "Viktor",
+    "Cost": 3,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_viktor/hud/tft17_viktor_square.tft_set17.png",
+    "Role": "Magic Caster"
+  },
+  {
+    "Id": 42,
+    "Name": "Aurelion Sol",
+    "Cost": 4,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_aurelionsol/hud/tft17_aurelionsol_square.tft_set17.png",
+    "Role": "Magic Caster"
+  },
+  {
+    "Id": 43,
+    "Name": "Corki",
+    "Cost": 4,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_corki/hud/tft17_corki_square.tft_set17.png",
+    "Role": "Attack Caster"
+  },
+  {
+    "Id": 44,
+    "Name": "Karma",
+    "Cost": 4,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_karma/hud/tft17_karma_square.tft_set17.png",
+    "Role": "Magic Caster"
+  },
+  {
+    "Id": 45,
+    "Name": "Kindred",
+    "Cost": 4,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_kindred/hud/tft17_kindred_square.tft_set17.png",
+    "Role": "Attack Marksman"
+  },
+  {
+    "Id": 46,
+    "Name": "Leblanc",
+    "Cost": 4,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_leblanc/hud/tft17_leblanc_square.tft_set17.png",
+    "Role": "Magic Marksman"
+  },
+  {
+    "Id": 47,
+    "Name": "Master Yi",
+    "Cost": 4,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_masteryi/hud/tft17_masteryi_square.tft_set17.png",
+    "Role": "Attack Fighter"
+  },
+  {
+    "Id": 48,
+    "Name": "Nami",
+    "Cost": 4,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_nami/hud/tft17_nami_square.tft_set17.png",
+    "Role": "Magic Caster"
+  },
+  {
+    "Id": 49,
+    "Name": "Nunu",
+    "Cost": 4,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_nunu/hud/tft17_nunu_square.tft_set17.png",
+    "Role": "Magic Tank"
+  },
+  {
+    "Id": 50,
+    "Name": "Rammus",
+    "Cost": 4,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_rammus/hud/tft17_rammus_square.tft_set17.png",
+    "Role": "Magic Tank"
+  },
+  {
+    "Id": 51,
+    "Name": "Riven",
+    "Cost": 4,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_riven/hud/tft17_riven_square.tft_set17.png",
+    "Role": "Hybrid Fighter"
+  },
+  {
+    "Id": 52,
+    "Name": "Tahm Kench",
+    "Cost": 4,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_tahmkench/hud/tft17_tahmkench_square.tft_set17.png",
+    "Role": "Magic Tank"
+  },
+  {
+    "Id": 53,
+    "Name": "The Mighty Mech",
+    "Cost": 4,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_galio/hud/tft17_galio_square.tft_set17.png",
+    "Role": "Attack Tank"
+  },
+  {
+    "Id": 54,
+    "Name": "Xayah",
+    "Cost": 4,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_xayah/hud/tft17_xayah_square.tft_set17.png",
+    "Role": "Attack Marksman"
+  },
+  {
+    "Id": 55,
+    "Name": "Bard",
+    "Cost": 5,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_bard/hud/tft17_bard_square.tft_set17.png",
+    "Role": "Magic Caster"
+  },
+  {
+    "Id": 56,
+    "Name": "Blitzcrank",
+    "Cost": 5,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_blitzcrank/hud/tft17_blitzcrank_square.tft_set17.png",
+    "Role": "Magic Fighter"
+  },
+  {
+    "Id": 57,
+    "Name": "Fiora",
+    "Cost": 5,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_fiora/hud/tft17_fiora_square.tft_set17.png",
+    "Role": "Attack Fighter"
+  },
+  {
+    "Id": 58,
+    "Name": "Graves",
+    "Cost": 5,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_graves/hud/tft17_graves_square.tft_set17.png",
+    "Role": "Attack Marksman"
+  },
+  {
+    "Id": 59,
+    "Name": "Jhin",
+    "Cost": 5,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_jhin/hud/tft17_jhin_square.tft_set17.png",
+    "Role": "Attack Marksman"
+  },
+  {
+    "Id": 60,
+    "Name": "Morgana",
+    "Cost": 4,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_morgana/hud/tft17_morgana_square.tft_set17.png",
+    "Role": "Magic Tank"
+  },
+  {
+    "Id": 61,
+    "Name": "Shen",
+    "Cost": 5,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_shen/hud/tft17_shen_square.tft_set17.png",
+    "Role": "Magic Fighter"
+  },
+  {
+    "Id": 62,
+    "Name": "Sona",
+    "Cost": 5,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_sona/hud/tft17_sona_square.tft_set17.png",
+    "Role": "Magic Caster"
+  },
+  {
+    "Id": 63,
+    "Name": "Vex",
+    "Cost": 5,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_vex/hud/tft17_vex_square.tft_set17.png",
+    "Role": "Magic Marksman"
+  },
+  {
+    "Id": 64,
+    "Name": "Zed",
+    "Cost": 5,
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_zed/hud/tft17_zed_square.tft_set17.png",
+    "Role": "Attack Fighter"
+  }
+]

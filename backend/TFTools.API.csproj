@@ -8,7 +8,7 @@
 
   <!-- Copy seed JSON to output directory so SeedService can find it at runtime -->
   <ItemGroup>
-    <Content Update="Data\Seeds\compositions-seed.json">
+    <Content Update="Data\Seeds\*.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>

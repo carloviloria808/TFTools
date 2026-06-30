@@ -1,0 +1,443 @@
+[
+  {
+    "Id": 7,
+    "Name": "Stellar Slash",
+    "Description": "Heals based on ability power, then deals physical damage to the current target. N.O.V.A. Strike cleaves across the battlefield, briefly launching all enemies into the air while dealing additional physical damage.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_aatrox/hud/icons2d/tft17_aatrox_q2.tft_set17.png",
+    "ChampionId": 1
+  },
+  {
+    "Id": 8,
+    "Name": "Star Strike",
+    "Description": "Repositions next to the target to strike multiple enemies, throwing piercing kunai dealing physical damage with reduced damage to subsequent targets. The kunai remove armor. N.O.V.A. Strike slices all enemies, applying Wound and a bleed dealing physical damage per second.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_akali/hud/icons2d/tft17_akali_q.tft_set17.png",
+    "ChampionId": 15
+  },
+  {
+    "Id": 9,
+    "Name": "Deathbeam",
+    "Description": "Channels a beam toward the current target for a duration, dealing magic damage per second. Innately ignores a percentage of enemy magic resistance.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_aurelionsol/hud/icons2d/tft17_aurelionsolq.tft_set17.png",
+    "ChampionId": 42
+  },
+  {
+    "Id": 10,
+    "Name": "Hopped-Up Hacks",
+    "Description": "Opens a hex rift that hacks enemies for a duration, dealing magic damage. Hacked enemies store a percentage of damage taken, then receive true damage equal to that stored amount when the hack ends. Ends early if it would kill the target.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_aurora/hud/icons2d/tft17_aurorae.tft_set17.png",
+    "ChampionId": 29
+  },
+  {
+    "Id": 11,
+    "Name": "Ultra Friendly Object",
+    "Description": "Summons a flying saucer above the target that inflicts magic damage each second to the primary target and additional magic damage to nearby enemies. If an enemy dies while under the saucer, Bard has a chance to abduct them and spawn a 1-star copy on the bench.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_bard/hud/icons2d/tft17_bard_e.tft_set17.png",
+    "ChampionId": 55
+  },
+  {
+    "Id": 12,
+    "Name": "Tidal Slashes",
+    "Description": "Unleashes a flurry of slashes at the current target over a duration, dealing physical damage each. Scales with both attack damage and ability power.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_belveth/hud/icons2d/tft17_belvethe.tft_set17.png",
+    "ChampionId": 16
+  },
+  {
+    "Id": 13,
+    "Name": "Party Crasher",
+    "Description": "Passive: calls down bolts on the highest health nearby enemy dealing magic damage. Active: summons a disco ball at the largest enemy clump, then uppercuts the current target for magic damage with a knockup. Enemies crash into the disco ball, dealing magic damage in a three hex radius.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_blitzcrank/hud/icons2d/tft17_blitzcrankw.tft_set17.png",
+    "ChampionId": 56
+  },
+  {
+    "Id": 14,
+    "Name": "Fish Frenzy",
+    "Description": "Passive: grants attack speed based on missing health percentage. Active: deals physical damage to a target, with increased damage if the target is a tank.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_briar/hud/icons2d/tft17_briarq.tft_set17.png",
+    "ChampionId": 2
+  },
+  {
+    "Id": 15,
+    "Name": "Aim For The Head",
+    "Description": "Passive: attacks have a Lucky chance to fire an empowered Headshot dealing physical damage. N.O.V.A. Strike marks all enemies and when marked targets fall below a health threshold, they receive a Headshot dealing physical damage.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_caitlyn/hud/icons2d/tft17_caitlyn_headshot.tft_set17.png",
+    "ChampionId": 3
+  },
+  {
+    "Id": 16,
+    "Name": "Devour",
+    "Description": "Deals magic damage to the lowest health enemy in range and permanently gains maximum health. If this kills them, devours them and permanently gains even more maximum health.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_chogath/hud/icons2d/greenterror_feast.tft_set17.png",
+    "ChampionId": 4
+  },
+  {
+    "Id": 17,
+    "Name": "Asteroid Blaster",
+    "Description": "Strafes to a nearby position while unleashing missiles at the target and all enemies within two hexes, dealing physical damage. Has a Lucky chance to fire a mega missile dealing increased damage. Meep Bonus launches an Explosive Meep at the target dealing physical damage in a one hex radius.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_corki/hud/icons2d/tft17_corki_missilebarrage.tft_set17.png",
+    "ChampionId": 43
+  },
+  {
+    "Id": 18,
+    "Name": "Pale Cascade",
+    "Description": "Passive: attacks deal bonus magic damage. Active: gains a shield and summons 3 encircling orbs for a duration. Orbs deal magic damage to enemies they pass through and rotate faster based on attack speed.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_diana/hud/icons2d/tft17_diana_w_lunarshower.tft_set17.png",
+    "ChampionId": 30
+  },
+  {
+    "Id": 19,
+    "Name": "Temporal Shot",
+    "Description": "Fires a blast at the current target dealing physical damage. Every X takedowns, gains a drone that deals physical damage to the current target on cast.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_ezreal/hud/icons2d/tft17_ezreal_passive.tft_set17.png",
+    "ChampionId": 5
+  },
+  {
+    "Id": 20,
+    "Name": "Perfect Bladework",
+    "Description": "Passive: every X attacks reveals a Vital on the target. Attacking a Vital deals bonus true damage and heals. Active: reveals all Vitals and rapidly attacks them. If the target dies, remaining Vitals transfer to the nearest enemy. Striking the final Vital creates a two-hex healing aura for nearby allies.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_fiora/hud/icons2d/tft17_fiora_p.tft_set17.png",
+    "ChampionId": 57
+  },
+  {
+    "Id": 21,
+    "Name": "Meep Bait",
+    "Description": "Dashes through the current target dealing magic damage. Every third cast summons a Mega Meep after a delay that briefly knocks the target up and deals magic damage in a one-hex radius.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_fizz/hud/icons2d/tft17_fizz_r.tft_set17.png",
+    "ChampionId": 31
+  },
+  {
+    "Id": 22,
+    "Name": "Slingshot Maneuver",
+    "Description": "Passive: every 5th attack launches a boomerang at the target that travels two hexes past the first enemy hit, dealing physical damage reduced per hit. Meep Bonus allows Meeps to attack alongside Gnar dealing physical damage.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_gnar/hud/icons2d/tft17_gnar_q.tft_set17.png",
+    "ChampionId": 17
+  },
+  {
+    "Id": 23,
+    "Name": "Chemical Rage",
+    "Description": "Heals over a duration based on ability power, then deals magic damage to adjacent enemies while inflicting Chill, reducing their attack speed by 30%.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_gragas/hud/icons2d/tft17_gragasdrunkenrage.tft_set17.png",
+    "ChampionId": 18
+  },
+  {
+    "Id": 24,
+    "Name": "Collateral Damage",
+    "Description": "Passive: attacks fire projectiles in a cone dealing physical damage. Active: fires an explosive shell dealing physical damage to the target and all enemies within a one hex radius.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_graves/hud/icons2d/tft17_gravesr.tft_set17.png",
+    "ChampionId": 58
+  },
+  {
+    "Id": 25,
+    "Name": "Dance n' Dice",
+    "Description": "Passive: attacks deal magic damage and enters the Groove while targeting enemies below a health threshold. Active: dashes to a nearby hex to attack the lowest health enemy, dealing magic damage in a cone. If the attack kills the enemy, she dashes and attacks again at reduced damage.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_gwen/hud/icons2d/tft17_gwen_e.tft_set17.png",
+    "ChampionId": 20
+  },
+  {
+    "Id": 26,
+    "Name": "Test of Spirit",
+    "Description": "Gains a shield for a duration. Over the duration, drains health from the nearest enemies. Then slams down dealing magic damage to all enemies within 2 hexes.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_illaoi/hud/icons2d/tft17_illaoi_e_debuff.tft_set17.png",
+    "ChampionId": 32
+  },
+  {
+    "Id": 27,
+    "Name": "Counter Star-ike",
+    "Description": "Enters a defensive stance for a duration, reducing incoming damage and gaining a shield. When the stance concludes, strikes all nearby enemies dealing magic damage and stunning them.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_jax/hud/icons2d/tft17_jaxe.tft_set17.png",
+    "ChampionId": 21
+  },
+  {
+    "Id": 28,
+    "Name": "Space Opera",
+    "Description": "Passive: grants fixed attack speed while converting bonus attack speed into bonus attack damage. Active: summons spectral hands that fire alongside him, each dealing physical damage and reducing enemy armor. Final shots deal increased damage and pierce through enemies in a line.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_jhin/hud/icons2d/tft17_jhin_spell_icon.tft_set17.png",
+    "ChampionId": 59
+  },
+  {
+    "Id": 29,
+    "Name": "Fishbones!",
+    "Description": "Fires a barrage of bullets in a cone, each dealing physical damage to the first target hit.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_jinx/hud/icons2d/tft17_jinx_q1.tft_set17.png",
+    "ChampionId": 22
+  },
+  {
+    "Id": 30,
+    "Name": "Bullet Cluster",
+    "Description": "Passive: gains mana upon takedowns. Active: fires missiles in a hex radius around the current target, dealing physical damage each.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_kaisa/hud/icons2d/tft17_kaisa_q2.tft_set17.png",
+    "ChampionId": 33
+  },
+  {
+    "Id": 31,
+    "Name": "Singularity",
+    "Description": "Gathers the force of a black hole, dealing magic damage split between the target and the closest enemies to them. The target takes additional magic damage.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_karma/hud/icons2d/tft17_karma_q1.tft_set17.png",
+    "ChampionId": 44
+  },
+  {
+    "Id": 32,
+    "Name": "Cosmic Pursuit",
+    "Description": "Passive: marks targets when attacking or using abilities. When an enemy accumulates enough marks, Wolf consumes them and deals physical damage. Active: jumps and fires arrows at the nearest targets, each dealing physical damage. N.O.V.A. Strike grants damage amplification and adds a mark to all enemies.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_kindred/hud/icons2d/tft17_kindred_q.tft_set17.png",
+    "ChampionId": 45
+  },
+  {
+    "Id": 33,
+    "Name": "Fracture Reality",
+    "Description": "Passive: attacks deal magic damage instead. Active: summons clones that attack alongside LeBlanc dealing damage. For their final attack, clones fire a bolt dealing magic damage.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_leblanc/hud/icons2d/tft17_leblancw.tft_set17.png",
+    "ChampionId": 46
+  },
+  {
+    "Id": 34,
+    "Name": "Shield of Daybreak",
+    "Description": "Gains a shield for 4 seconds. Bashes the current target, dealing magic damage and stunning them.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_leona/hud/icons2d/tft17_leonaq.tft_set17.png",
+    "ChampionId": 6
+  },
+  {
+    "Id": 35,
+    "Name": "Dark Matter",
+    "Description": "Hurls a dagger at the current target dealing magic damage on impact. After hitting its initial target or at its final destination, the dagger explodes dealing magic damage to nearby targets.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_lissandra/hud/icons2d/tft17_lissandra_q.tft_set17.png",
+    "ChampionId": 7
+  },
+  {
+    "Id": 36,
+    "Name": "It's Raining Stars",
+    "Description": "Passive: grants a different secondary effect each game based on the Stargazer constellation. Active: calls down something from the sky dealing magic damage to nearby enemies, with a special effect determined by the active constellation.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_lulu/hud/icons2d/tft17_lulu_glitterbolt.tft_set17.png",
+    "ChampionId": 34
+  },
+  {
+    "Id": 37,
+    "Name": "Grasp of Convergence",
+    "Description": "Passive: gains increased maximum health from all sources. Active: converges an X-shaped pattern of vines onto a target, dealing magic damage and briefly stunning enemies struck. N.O.V.A. Strike unleashes a dragon wave to stun all enemies, and basic attacks deal bonus physical damage scaling with health.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_maokai/hud/icons2d/tft17_maokai_w.tft_set17.png",
+    "ChampionId": 35
+  },
+  {
+    "Id": 38,
+    "Name": "Psi Strikes",
+    "Description": "Passive: every third attack strikes an additional time for bonus physical damage. Active: enters a Psi-State gaining Omnivamp, Attack Speed, and increased movement speed while firing psychic projections at random enemies.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_masteryi/hud/icons2d/tft17_masteryi_q.tft_set17.png",
+    "ChampionId": 47
+  },
+  {
+    "Id": 39,
+    "Name": "Meep Impact",
+    "Description": "Heals over time while slamming a target with magic damage and knocking them up. The impact generates meepwaves dealing a percentage of these effects to enemies in the target's row. Meep Bonus: Meeps water Meepsie's flower, increasing all incoming healing and shielding.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_ivernminion/hud/icons2d/tft17_ivernminion_r.tft_set17.png",
+    "ChampionId": 23
+  },
+  {
+    "Id": 40,
+    "Name": "ULTRA MEGA TIME KICK",
+    "Description": "Kicks a ball at an enemy dealing magic damage. Upon impact, the ball has a 100% Lucky chance to bounce to a new target also dealing magic damage. Bounces can trigger additional bounces, but the odds halve with each bounce.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_milio/hud/icons2d/tft17_milio_q.tft_set17.png",
+    "ChampionId": 24
+  },
+  {
+    "Id": 41,
+    "Name": "Gun Goddess Arsenal",
+    "Description": "Choose Conduit Mode, Challenger Mode, or Replicator Mode to determine her ability and trait. Conduit Mode: channels a volley of bullets at the nearest enemies. Challenger Mode: fires a shot that ricochets and marks both targets. Replicator Mode: rains bullets through a line of enemies.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_missfortune/hud/icons2d/tft17_missfortune_w.tft_set17.png",
+    "ChampionId": 36
+  },
+  {
+    "Id": 42,
+    "Name": "Indestructible",
+    "Description": "Gains a shield based on ability power. Each second for a duration, receives additional shield and deals magic damage to nearby enemies. When the ability concludes, leftover shield converts into a heal equal to a percentage of remaining shield.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_mordekaiser/hud/icons2d/tft17_mordekaiserw.tft_set17.png",
+    "ChampionId": 25
+  },
+  {
+    "Id": 43,
+    "Name": "Dark Form",
+    "Description": "Transforms into Dark Form for a duration, receiving a shield. While transformed, tethers nearby enemies dealing magic damage per second and healing proportionally. When transformation ends, deals additional magic damage to all tethered enemies.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_morgana/hud/icons2d/fallenangel_empathize.tft_set17.png",
+    "ChampionId": 60
+  },
+  {
+    "Id": 44,
+    "Name": "Bubble Pop",
+    "Description": "Tosses a disco bubble at a target dealing magic damage split between enemies in a one hex radius. The explosion sends globs toward nearby enemies dealing magic damage. Upon casting, enters the Groove for a duration.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_nami/hud/icons2d/tft17_namiq.tft_set17.png",
+    "ChampionId": 48
+  },
+  {
+    "Id": 45,
+    "Name": "Groovin' Susan",
+    "Description": "Transforms for a duration, gaining increased maximum health and dealing magic damage to nearby enemies each second. While transformed, enters the Groove state.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_nasus/hud/icons2d/tft17_nasus_r.tft_set17.png",
+    "ChampionId": 8
+  },
+  {
+    "Id": 46,
+    "Name": "Calamity",
+    "Description": "Gains a shield and summons an astrolabe that crashes onto the most enemies within 2 hexes, dealing magic damage. The astrolabe then pushes toward the board's end, dealing additional magic damage and knocking up all enemies hit.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_nunu/hud/icons2d/tft17_nunue.tft_set17.png",
+    "ChampionId": 49
+  },
+  {
+    "Id": 47,
+    "Name": "Disco Inferno",
+    "Description": "Passive: forges a temporary completed item at combat start, or makes a random item Radiant if already at 3 items. Active: gains a shield, then breathes fire in a cone dealing magic damage. After the shield expires, enters the Groove gaining attack speed and health regeneration.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_ornn/hud/icons2d/tft17_ornnw.tft_set17.png",
+    "ChampionId": 37
+  },
+  {
+    "Id": 48,
+    "Name": "Advanced Defences",
+    "Description": "Grants a shield and durability boost for a duration. During this time, deals physical damage each second to enemies in a cone-shaped area in front.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_pantheon/hud/icons2d/tft17_pantheon_e1.tft_set17.png",
+    "ChampionId": 26
+  },
+  {
+    "Id": 49,
+    "Name": "Huddle Up!",
+    "Description": "Gains a shield for a duration. Nearby allies within two hexes receive armor and magic resistance bonuses. Meep units grant shield effects to the nearest amplified allies.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_poppy/hud/icons2d/tft17_poppy_w.tft_set17.png",
+    "ChampionId": 9
+  },
+  {
+    "Id": 50,
+    "Name": "Marked for Death",
+    "Description": "Repositions to throw a harpoon at the furthest enemy, pulling the first enemy hit one hex forward and dealing physical damage. Then teleports behind them and cleaves, dealing physical damage to them and nearby enemies.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_pyke/hud/icons2d/tft17_pykeq.tft_set17.png",
+    "ChampionId": 27
+  },
+  {
+    "Id": 51,
+    "Name": "Gravitational Spin",
+    "Description": "Grants a shield and strikes multiple enemies in a three-hex line dealing magic damage based on ability power and armor. Meep Bonus reduces incoming attack damage. After receiving X attacks, deals armor-based magic damage in a two-hex radius.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_rammus/hud/icons2d/armordillo_powerball.tft_set17.png",
+    "ChampionId": 50
+  },
+  {
+    "Id": 52,
+    "Name": "Upheaval",
+    "Description": "Heals, then briefly knocks up adjacent enemies and deals magic damage.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_reksai/hud/icons2d/tft17_reksai_w2.tft_set17.png",
+    "ChampionId": 10
+  },
+  {
+    "Id": 53,
+    "Name": "Alien Scythe",
+    "Description": "Gains durability for a duration while healing. After this period ends, slashes forward in a straight line dealing physical damage to enemies struck and launching them upward briefly.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_rhaast/hud/icons2d/tft17_kayn_passive_slay.tft_set17.png",
+    "ChampionId": 38
+  },
+  {
+    "Id": 54,
+    "Name": "Time Warp",
+    "Description": "Adapts based on whether Attack Damage or Ability Power is higher, dealing corresponding damage types. Dashes to a nearby hex gaining a shield and slashing adjacent enemies. Every third cast triggers a leap launching an energy wave in a line.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_riven/hud/icons2d/tft17_rivenpathoftheexile.tft_set17.png",
+    "ChampionId": 51
+  },
+  {
+    "Id": 55,
+    "Name": "Jump and Jive",
+    "Description": "Passive: whenever an enemy is knocked up, shoots them for physical damage and enters the Groove. Active: unleashes a volley of bullets at a target, dealing physical damage and knocking them up.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_samira/hud/icons2d/tft17_samirae.tft_set17.png",
+    "ChampionId": 39
+  },
+  {
+    "Id": 56,
+    "Name": "Reality Tear",
+    "Description": "Passive: stacking magic damage on attacks, converting to true damage from the third cast onward. Active: gains a shield, then slices open a rift on the largest group of champions dealing passive bonus damage to all enemies within. Enemies have attack speed slowed while allies gain attack speed.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_shen/hud/icons2d/tft17_shen_rshield.tft_set17.png",
+    "ChampionId": 61
+  },
+  {
+    "Id": 57,
+    "Name": "Psionic Crush",
+    "Description": "Hurls magnetic debris at the nearest target dealing magic damage and attaching it to them. If an enemy with debris dies, it transfers to the nearest enemy. Every X casts, rips off all debris dealing magic damage then crushes it onto the target, causing magic damage and briefly stunning.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_sona/hud/icons2d/tft17_sona_e.tft_set17.png",
+    "ChampionId": 62
+  },
+  {
+    "Id": 58,
+    "Name": "Tongue Lash",
+    "Description": "Passive: once per combat after dropping below 35% health, gains a shield equal to 40% of healing received this combat. Active: deals damage to the current target.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_tahmkench/hud/icons2d/tft17_tahmkenchq.tft_set17.png",
+    "ChampionId": 52
+  },
+  {
+    "Id": 59,
+    "Name": "Diviner's Judgment",
+    "Description": "Stabs a target inflicting bleeding damage over a duration based on attack damage and ability power. After attacking, leaps to the highest health percentage enemy within range.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_talon/hud/icons2d/tft17_talone.tft_set17.png",
+    "ChampionId": 11
+  },
+  {
+    "Id": 60,
+    "Name": "Double Time",
+    "Description": "Passive: attacks deal bonus magic damage and an additional stacking magic damage over time. While an enemy has enough stacks, enters the Groove. Active: gains attack speed for a duration.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_teemo/hud/icons2d/tft17_teemow.tft_set17.png",
+    "ChampionId": 12
+  },
+  {
+    "Id": 61,
+    "Name": "Gravity Matrix",
+    "Description": "Enters a defensive stance for a duration, attracting nearby enemy projectiles and healing over the duration. When the stance ends, releases a shockwave dealing physical damage based on Armor and Magic Resistance.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_galio/hud/icons2d/tft17_galio_w.tft_set17.png",
+    "ChampionId": 53
+  },
+  {
+    "Id": 62,
+    "Name": "Stacked Deck",
+    "Description": "Draws a card with a value between 1 and 9 by Lucky chance and throws it at the target, dealing magic damage based on the card value. Overkill damage bounces to the nearest enemy.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_twistedfate/hud/icons2d/cardmaster_fatesgambit.tft_set17.png",
+    "ChampionId": 13
+  },
+  {
+    "Id": 63,
+    "Name": "Unstoppable Dreadnought",
+    "Description": "Passive: whenever an enemy enters a hex radius within range, fires a blast in a cone dealing physical damage with falloff per hex. Active: gains a shield and dashes behind the current target, resetting the Proximity Blast cooldowns.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_urgot/hud/icons2d/tft17_urgot_e.tft_set17.png",
+    "ChampionId": 40
+  },
+  {
+    "Id": 64,
+    "Name": "Meepteor Shower",
+    "Description": "Calls down a Meepteor on the target dealing magic damage. Meep Bonus: an additional mini Meepteor is called down on nearby targets dealing magic damage each.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_veigar/hud/icons2d/tft17_veigardarkmatter.tft_set17.png",
+    "ChampionId": 14
+  },
+  {
+    "Id": 65,
+    "Name": "Lend Me a Hand, Shadow!",
+    "Description": "Passive: every time Vex attacks, Shadow strikes a nearby enemy. Whenever an enemy is struck enough times by Shadow, Shadow strikes them again. Active: Shadow launches empowered strikes dealing magic damage instead.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_vex/hud/icons2d/icons_tft17_vex_e01.tft_set17.png",
+    "ChampionId": 63
+  },
+  {
+    "Id": 66,
+    "Name": "Psionic Storm",
+    "Description": "Channels a one-hex psionic storm that follows enemies for a duration. Each second it grows larger and deals magic damage to enemies within, reduced per hex from the epicenter.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_viktor/hud/icons2d/tft17_viktor_r1.tft_set17.png",
+    "ChampionId": 41
+  },
+  {
+    "Id": 67,
+    "Name": "Stellar Ricochet",
+    "Description": "Passive: attacks bounce to strike multiple times dealing reduced damage per target hit and leaving a Feather behind the final target. Active: grants increased attack speed for a duration. When the buff expires, recalls all Feathers dealing physical damage to the closest enemies.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_xayah/hud/icons2d/tft17_xayahw.tft_set17.png",
+    "ChampionId": 54
+  },
+  {
+    "Id": 68,
+    "Name": "Quantum Clone",
+    "Description": "Creates a duplicate positioned behind the target with diminished maximum health. The clone receives the original's items, statistics, and current health, and can itself cast Quantum Clone.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_zed/hud/icons2d/3.tft_set17.png",
+    "ChampionId": 64
+  },
+  {
+    "Id": 69,
+    "Name": "Paddle Star",
+    "Description": "Fires a projectile at the target dealing magic damage to the first enemy hit and additional damage to others it passes through. Once the missile reaches its destination, it redirects toward a distant enemy with increased speed and repeats. This redirection can happen multiple times.",
+    "ImageUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_zoe/hud/icons2d/tft17_zoe_q2.tft_set17.png",
+    "ChampionId": 28
+  }
+]

@@ -49,7 +49,7 @@ using (var scope = app.Services.CreateScope())
     var db     = scope.ServiceProvider.GetRequiredService<TFToolsDbContext>();
     var logger = scope.ServiceProvider.GetRequiredService<ILogger<Program>>();
     db.Database.Migrate();
-    await TFTools.API.Data.SeedService.SeedCompositionsAsync(db, logger);
+    await TFTools.API.Data.SeedService.SeedAllAsync(db, logger);
 }
 
 // Only show the API docs page when running locally, not in production

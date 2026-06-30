@@ -1,0 +1,1650 @@
+[
+  {
+    "Id": 4,
+    "Name": "B.F. Sword",
+    "Description": "+10% Attack Damage",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_bfsword.png",
+    "IsComponent": true,
+    "TierRating": ""
+  },
+  {
+    "Id": 5,
+    "Name": "Recurve Bow",
+    "Description": "+10% Attack Speed",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_recurvebow.png",
+    "IsComponent": true,
+    "TierRating": ""
+  },
+  {
+    "Id": 6,
+    "Name": "Needlessly Large Rod",
+    "Description": "+10 Ability Power",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_needlesslylargerod.png",
+    "IsComponent": true,
+    "TierRating": ""
+  },
+  {
+    "Id": 7,
+    "Name": "Tear of the Goddess",
+    "Description": "+1 Mana Regen",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_tearofthegoddess.png",
+    "IsComponent": true,
+    "TierRating": ""
+  },
+  {
+    "Id": 8,
+    "Name": "Chain Vest",
+    "Description": "+20 Armor",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_chainvest.png",
+    "IsComponent": true,
+    "TierRating": ""
+  },
+  {
+    "Id": 9,
+    "Name": "Negatron Cloak",
+    "Description": "+20 Magic Resist",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_negatroncloak.png",
+    "IsComponent": true,
+    "TierRating": ""
+  },
+  {
+    "Id": 10,
+    "Name": "Giant's Belt",
+    "Description": "+150 Health",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_giantsbelt.png",
+    "IsComponent": true,
+    "TierRating": ""
+  },
+  {
+    "Id": 11,
+    "Name": "Spatula",
+    "Description": "It must do something...",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_spatula.png",
+    "IsComponent": true,
+    "TierRating": ""
+  },
+  {
+    "Id": 15,
+    "Name": "Frying Pan",
+    "Description": "..why else would it be here?",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_fryingpan.png",
+    "IsComponent": true,
+    "TierRating": ""
+  },
+  {
+    "Id": 17,
+    "Name": "Sparring Gloves",
+    "Description": "+20 Critical Strike Cahnce",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_sparringgloves.png",
+    "IsComponent": true,
+    "TierRating": ""
+  },
+  {
+    "Id": 18,
+    "Name": "Bloodthirster",
+    "Description": "Once per combat at 40% Health, gain a 25% max Health Shield that lasts up to 5 seconds.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_bloodthirster.png",
+    "IsComponent": false,
+    "Component1Id": 4,
+    "Component2Id": 9,
+    "TierRating": "B"
+  },
+  {
+    "Id": 20,
+    "Name": "Dark Star Emblem",
+    "Description": "The holder gains the Dark Star trait.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_darkstaremblemitem.png",
+    "IsComponent": false,
+    "Component1Id": 4,
+    "Component2Id": 11,
+    "TierRating": ""
+  },
+  {
+    "Id": 21,
+    "Name": "Deathblade",
+    "Description": "Perfect peace and calm for the holder - and all who face it.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_deathblade.png",
+    "IsComponent": false,
+    "Component1Id": 4,
+    "Component2Id": 4,
+    "TierRating": "S"
+  },
+  {
+    "Id": 22,
+    "Name": "Edge of Night",
+    "Description": "At 60% Health, briefly become untargetable, shed negative effects, and heal 20% missing health.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_guardianangel.png",
+    "IsComponent": false,
+    "Component1Id": 4,
+    "Component2Id": 8,
+    "TierRating": "A"
+  },
+  {
+    "Id": 24,
+    "Name": "Giant Slayer",
+    "Description": "Gain 15% additional Damage Amp against Tanks.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_madredsbloodrazor.png",
+    "IsComponent": false,
+    "Component1Id": 4,
+    "Component2Id": 5,
+    "TierRating": "A"
+  },
+  {
+    "Id": 25,
+    "Name": "Hextech Gunblade",
+    "Description": "Heal the lowest percent Health ally for 20% of damage dealt.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_hextechgunblade.png",
+    "IsComponent": false,
+    "Component1Id": 4,
+    "Component2Id": 6,
+    "TierRating": "A"
+  },
+  {
+    "Id": 26,
+    "Name": "Infinity Edge",
+    "Description": "Gain Precision",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_infinityedge.png",
+    "IsComponent": false,
+    "Component1Id": 4,
+    "Component2Id": 17,
+    "TierRating": "B"
+  },
+  {
+    "Id": 27,
+    "Name": "Marauder Emblem",
+    "Description": "The holder gains the Marauder trait and has a 33% chance to drop 1 gold on kill.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_meleetraitemblemitem.png",
+    "IsComponent": false,
+    "Component1Id": 4,
+    "Component2Id": 15,
+    "TierRating": ""
+  },
+  {
+    "Id": 28,
+    "Name": "Spear of Shojin",
+    "Description": "Attacks grant 5 bonus Mana.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_spearofshojin.png",
+    "IsComponent": false,
+    "Component1Id": 4,
+    "Component2Id": 7,
+    "TierRating": "A"
+  },
+  {
+    "Id": 29,
+    "Name": "Sterak's Gage",
+    "Description": "At 60% Health, gain a Shield equal to 40% of the wearer's maximum Health that rapidly decays over 4 seconds.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_steraksgage.png",
+    "IsComponent": false,
+    "Component1Id": 4,
+    "Component2Id": 10,
+    "TierRating": "A"
+  },
+  {
+    "Id": 30,
+    "Name": "Archangel's Staff",
+    "Description": "Combat start: Gain 20% Ability Power every 5 seconds in combat.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_archangelsstaff.png",
+    "IsComponent": false,
+    "Component1Id": 6,
+    "Component2Id": 7,
+    "TierRating": "B"
+  },
+  {
+    "Id": 31,
+    "Name": "Crownguard",
+    "Description": "Combat Start: Gain a 25% max Health Shield for 8 seconds.When the Shield expires, gain 25% Ability Power.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_crownguard.png",
+    "IsComponent": false,
+    "Component1Id": 6,
+    "Component2Id": 8,
+    "TierRating": "S"
+  },
+  {
+    "Id": 32,
+    "Name": "Guinsoo's Rageblade",
+    "Description": "Gain 7% stacking Attack Speed every second.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_guinsoosrageblade.png",
+    "IsComponent": false,
+    "Component1Id": 6,
+    "Component2Id": 5,
+    "TierRating": "A"
+  },
+  {
+    "Id": 34,
+    "Name": "Ionic Spark",
+    "Description": "30% Shred enemies within 2 hexes. When enemies cast an Ability, deal magic damage equal to 150% of the Mana spent",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_ionicspark.png",
+    "IsComponent": false,
+    "Component1Id": 6,
+    "Component2Id": 9,
+    "TierRating": "A"
+  },
+  {
+    "Id": 35,
+    "Name": "Morellonomicon",
+    "Description": "Attacks and Abilities deal 1% Burn and 33% Wound to enemies for 10 seconds.Burn: Deals a percent of the target's max Health as true damage every second Wound: Reduces healing received",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_morellonomicon.png",
+    "IsComponent": false,
+    "Component1Id": 6,
+    "Component2Id": 10,
+    "TierRating": "S"
+  },
+  {
+    "Id": 36,
+    "Name": "Jeweled Gauntlet",
+    "Description": "Gain Precision. Precision: Ability damage can critically strike.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_jeweledgauntlet.png",
+    "IsComponent": false,
+    "Component1Id": 6,
+    "Component2Id": 17,
+    "TierRating": "A"
+  },
+  {
+    "Id": 37,
+    "Name": "Rabadon's Deathcap",
+    "Description": "This humble hat can help you make, or unmake, the world itself.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_rabadonsdeathcap.png",
+    "IsComponent": false,
+    "Component1Id": 6,
+    "Component2Id": 6,
+    "TierRating": "S"
+  },
+  {
+    "Id": 38,
+    "Name": "Stargazer Emblem",
+    "Description": "The holder gains the Stargazer trait.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_stargazeremblemitem.png",
+    "IsComponent": false,
+    "Component1Id": 6,
+    "Component2Id": 11,
+    "TierRating": ""
+  },
+  {
+    "Id": 39,
+    "Name": "Voyager Emblem",
+    "Description": "The holder gains the Voyager trait.Combat Start: Gain and grant adjacent allies bonuses based on the holder's role. - Tanks: 20 Armor and Magic Resist - Fighters/Assassins: 18% Omnivamp - Other Roles: 15% Attack Speed",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_flextraitemblemitem.png",
+    "IsComponent": false,
+    "Component1Id": 6,
+    "Component2Id": 15,
+    "TierRating": ""
+  },
+  {
+    "Id": 40,
+    "Name": "Adaptive Helm",
+    "Description": "Gain an additional 15% Mana from all sources. The holder gains an additional bonus based on their Role:Tanks and Fighters: Gain 30 Armor and Magic Resistance.Other Roles: Gain 10% Attack Damage and Ability Power.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_adaptivehelm.png",
+    "IsComponent": false,
+    "Component1Id": 9,
+    "Component2Id": 7,
+    "TierRating": "A"
+  },
+  {
+    "Id": 41,
+    "Name": "Arbiter Emblem",
+    "Description": "The holder gains the Arbiter trait.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_favoredemblemitem.png",
+    "IsComponent": false,
+    "Component1Id": 9,
+    "Component2Id": 11,
+    "TierRating": ""
+  },
+  {
+    "Id": 43,
+    "Name": "Dragon's Claw",
+    "Description": "Gain 6% max health.Every 2 seconds, heal 2.5% max Health. Every 2 seconds, heal 2.5% max Health.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_dragonsclaw.png",
+    "IsComponent": false,
+    "Component1Id": 9,
+    "Component2Id": 9,
+    "TierRating": "B"
+  },
+  {
+    "Id": 45,
+    "Name": "Evenshroud",
+    "Description": "30% Sunder enemies within 2 hexes. Gain 15 Armor and Magic Resist for the first 15 seconds of combat. Sunder: Reduce Armor",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_spectralgauntlet.png",
+    "IsComponent": false,
+    "Component1Id": 9,
+    "Component2Id": 10,
+    "TierRating": "B"
+  },
+  {
+    "Id": 46,
+    "Name": "Gargoyle Stoneplate",
+    "Description": "Gain 10 Armor and 10 Magic Resist for each enemy targeting the holder.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_gargoylestoneplate.png",
+    "IsComponent": false,
+    "Component1Id": 9,
+    "Component2Id": 8,
+    "TierRating": "A"
+  },
+  {
+    "Id": 48,
+    "Name": "Kraken's Fury",
+    "Description": "Attacks grant 3.5% stacking Attack Damage, up to 15 attacks. After 15 attacks, gain 15% Attack Speed.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_runaanshurricane.png?v=1",
+    "IsComponent": false,
+    "Component1Id": 9,
+    "Component2Id": 5,
+    "TierRating": "B"
+  },
+  {
+    "Id": 49,
+    "Name": "Quicksilver",
+    "Description": "Combat Start: Gain immunity to crowd control for 18 seconds. Gain 3% stacking Attack Speed every second.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_quicksilver.png",
+    "IsComponent": false,
+    "Component1Id": 9,
+    "Component2Id": 17,
+    "TierRating": "A"
+  },
+  {
+    "Id": 50,
+    "Name": "Vanguard Emblem",
+    "Description": "The holder gains the Vanguard trait. Gain 3% Ability Power whenever an ally gains a shield.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_shieldtankemblemitem.png",
+    "IsComponent": false,
+    "Component1Id": 9,
+    "Component2Id": 15,
+    "TierRating": ""
+  },
+  {
+    "Id": 51,
+    "Name": "Hand of Justice",
+    "Description": "Gain 2 effects:15% Attack Damage and 15% Ability Power.12% Omnivamp. While above 50% health, double the Attack Damage and Ability Power. While below 50% Health, double the Omnivamp.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_unstableconcoction.png",
+    "IsComponent": false,
+    "Component1Id": 17,
+    "Component2Id": 7,
+    "TierRating": "A"
+  },
+  {
+    "Id": 52,
+    "Name": "Last Whisper",
+    "Description": "Damage from attacks and Abilities 30% Sunder the target for 3 seconds. This effect does not stack. Sunder: Reduce Armor",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_lastwhisper.png",
+    "IsComponent": false,
+    "Component1Id": 17,
+    "Component2Id": 5,
+    "TierRating": "A"
+  },
+  {
+    "Id": 53,
+    "Name": "N.O.V.A Emblem",
+    "Description": "The holder gains the N.O.V.A. trait. N.O.V.A. Strike: Gain 45% Attack Speed and 40 Armor and Magic Resist. Other allies gain 10% Attack Speed and 20 Armor and Magic Resist. ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_drxemblemitem.png",
+    "IsComponent": false,
+    "Component1Id": 17,
+    "Component2Id": 11,
+    "TierRating": ""
+  },
+  {
+    "Id": 55,
+    "Name": "Rogue Emblem",
+    "Description": "The holder gains the Rogue trait. At 50% health, gain 40% Omnivamp and immunity to crowd control for 5 seconds.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_assassintraitemblemitem.png",
+    "IsComponent": false,
+    "Component1Id": 17,
+    "Component2Id": 15,
+    "TierRating": ""
+  },
+  {
+    "Id": 56,
+    "Name": "Steadfast Heart",
+    "Description": "Gain 5% Durability. While above 50% Health, instead gain 15% Durability.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_nightharvester.png",
+    "IsComponent": false,
+    "Component1Id": 17,
+    "Component2Id": 8,
+    "TierRating": "A"
+  },
+  {
+    "Id": 57,
+    "Name": "Striker's Flail",
+    "Description": "Critical Strikes grant 5% Damage Amp for 5 seconds, stacking up to 4 times.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_powergauntlet.png",
+    "IsComponent": false,
+    "Component1Id": 17,
+    "Component2Id": 10,
+    "TierRating": "S"
+  },
+  {
+    "Id": 58,
+    "Name": "Thief's Gloves",
+    "Description": "Each round: Equip 2 random items. Consumes 3 item slots.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_thiefsgloves.png",
+    "IsComponent": false,
+    "Component1Id": 17,
+    "Component2Id": 17,
+    "TierRating": "A"
+  },
+  {
+    "Id": 59,
+    "Name": "Blue Buff",
+    "Description": "Gain 10% additional Attack Damage and Ability Power from all sources.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_bluebuff.png",
+    "IsComponent": false,
+    "Component1Id": 7,
+    "Component2Id": 7,
+    "TierRating": "B"
+  },
+  {
+    "Id": 60,
+    "Name": "Protector's Vow",
+    "Description": "Combat Start: Gain 20 Mana. At 40% Health, gain 15 Mana and a Shield equal to 20% max Health. ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_frozenheart.png",
+    "IsComponent": false,
+    "Component1Id": 7,
+    "Component2Id": 8,
+    "TierRating": "S"
+  },
+  {
+    "Id": 63,
+    "Name": "Shepherd Emblem",
+    "Description": "The holder gains the Shepherd trait. On cast, grant 12% of max Mana to the Bond of the Stars.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_summontraitemblemitem.png",
+    "IsComponent": false,
+    "Component1Id": 7,
+    "Component2Id": 15,
+    "TierRating": ""
+  },
+  {
+    "Id": 64,
+    "Name": "Space Groove Emblem",
+    "Description": "The holder gains the Space Groove trait. On cast, the holder enters The Groove for 3 seconds.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_spacegrooveemblemitem.png",
+    "IsComponent": false,
+    "Component1Id": 7,
+    "Component2Id": 11,
+    "TierRating": ""
+  },
+  {
+    "Id": 65,
+    "Name": "Spirit Visage",
+    "Description": "Regenerate 2% of missing Health each second.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_redemption.png?v=1",
+    "IsComponent": false,
+    "Component1Id": 7,
+    "Component2Id": 10,
+    "TierRating": "B"
+  },
+  {
+    "Id": 67,
+    "Name": "Void Staff",
+    "Description": "Damage from attacks and Abilities 30% Shred the target for 5 seconds. This effect does not stack. Shred: Reduce Magic Resist",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_statikkshiv.png?v=1",
+    "IsComponent": false,
+    "Component1Id": 7,
+    "Component2Id": 5,
+    "TierRating": "S"
+  },
+  {
+    "Id": 68,
+    "Name": "Brawler Emblem",
+    "Description": "The holder gains the Brawler trait. Attacks deals 3% of the holder's max health as magic damage.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_hptankemblemitem.png",
+    "IsComponent": false,
+    "Component1Id": 10,
+    "Component2Id": 15,
+    "TierRating": ""
+  },
+  {
+    "Id": 69,
+    "Name": "Nashor's Tooth",
+    "Description": "Attacks grant 2 bonus Mana, increased to 4 if they critically strike.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_leviathan.png",
+    "IsComponent": false,
+    "Component1Id": 10,
+    "Component2Id": 5,
+    "TierRating": "B"
+  },
+  {
+    "Id": 70,
+    "Name": "Primordian Emblem",
+    "Description": "The holder gains the Primordian trait.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_primordianemblemitem.png",
+    "IsComponent": false,
+    "Component1Id": 10,
+    "Component2Id": 11,
+    "TierRating": ""
+  },
+  {
+    "Id": 71,
+    "Name": "Sunfire Cape",
+    "Description": "Gain 8% max Health. Every 2 seconds, deal 1% Burn and 33% Wound to an enemy within 2 hexes for 10 seconds. Burn: Deals a percent of the target's max Health as true damage every second Wound: Reduces healing received  ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_redbuff.png",
+    "IsComponent": false,
+    "Component1Id": 10,
+    "Component2Id": 8,
+    "TierRating": "A"
+  },
+  {
+    "Id": 72,
+    "Name": "Warmog's Armor",
+    "Description": "Gain 18% max Health.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_warmogsarmor.png",
+    "IsComponent": false,
+    "Component1Id": 10,
+    "Component2Id": 10,
+    "TierRating": "B"
+  },
+  {
+    "Id": 73,
+    "Name": "Bastion Emblem",
+    "Description": "The holder gains the Bastion trait. After the first 10 seconds of combat, the holder gains 70% Attack Speed.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_resisttankemblemitem.png",
+    "IsComponent": false,
+    "Component1Id": 8,
+    "Component2Id": 15,
+    "TierRating": ""
+  },
+  {
+    "Id": 75,
+    "Name": "Bramble Vest",
+    "Description": "Gain 6% max health. Take 5% reduced damage from attacks. When struck by any attack, deal 100 magic damage to all adjacent enemies. Cooldown: 2 seconds  ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_bramblevest.png",
+    "IsComponent": false,
+    "Component1Id": 8,
+    "Component2Id": 8,
+    "TierRating": "A"
+  },
+  {
+    "Id": 76,
+    "Name": "Meeple Emblem",
+    "Description": "The holder gains the Meeple trait and 1 additional Mana Regen per.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_astronautemblemitem.png",
+    "IsComponent": false,
+    "Component1Id": 8,
+    "Component2Id": 11,
+    "TierRating": ""
+  },
+  {
+    "Id": 77,
+    "Name": "Titan's Resolve",
+    "Description": "Gain 2% Attack Damage and 2% Ability Power when attacking or taking damage, stacking up to 25 times. At full stacks, gain 10% Damage Amp and gain immunity to crowd control.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_titansresolve.png",
+    "IsComponent": false,
+    "Component1Id": 8,
+    "Component2Id": 5,
+    "TierRating": "A"
+  },
+  {
+    "Id": 78,
+    "Name": "Challenger Emblem",
+    "Description": "The holder gains the Challenger trait. On takedown, the holder's next 3 attacks each heal for 5% of max health.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_astraitemblemitem.png",
+    "IsComponent": false,
+    "Component1Id": 5,
+    "Component2Id": 15,
+    "TierRating": ""
+  },
+  {
+    "Id": 79,
+    "Name": "Red Buff",
+    "Description": "Attacks and Abilities 1% Burn and 33% Wound enemies for 5 seconds. Burn: Deals a percent of the target's max Health as true damage every second Wound: Reduces healing received ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_rapidfirecannon.png",
+    "IsComponent": false,
+    "Component1Id": 5,
+    "Component2Id": 5,
+    "TierRating": "A"
+  },
+  {
+    "Id": 80,
+    "Name": "Timebreaker Emblem",
+    "Description": "The holder gains the Timebreaker trait. ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_pulsefireemblemitem.png",
+    "IsComponent": false,
+    "Component1Id": 5,
+    "Component2Id": 11,
+    "TierRating": ""
+  },
+  {
+    "Id": 81,
+    "Name": "Animapocalypse",
+    "Description": "Store 20% of damage dealt. Every 6 seconds and on death, deal the stored damage as true damage to all enemies, reduced by 5% for each hex they are from the epicenter. Recommended Roles: Attack or Magic Caster ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier3_annihilator.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 83,
+    "Name": "Battle Bunny Crossbow",
+    "Description": "Gain Precision. Every 4 critical strikes, fire 5 piercing arrows that can critically strike towards the target. Each deals 80% physical damage. Precision: Ability damage can critically strike. Additional Precision grants 10% Critical Strike Damage. Max 3 stacks per Ability cast. Recommended Roles: Attack Marksman or Fighter ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier2_battlebunnycrossbow.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 84,
+    "Name": "Broken Prototype",
+    "Description": "Combat start: Gain a 15% max Health shield. ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier0_clunkyprototype.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 86,
+    "Name": "Bunny Prime Ballista",
+    "Description": "Gain Precision. Every 3 critical strikes, fire 6 piercing arrows that can critically strike towards the target. Each deals 100% physical damage. On takedown, fire a burst of 12 arrows from the target. Precision: Ability damage can critically strike. Additional Precision grants 10% Critical Strike Damage. Max 3 stacks per Ability cast. Recommended Roles: Attack Marksman or Fighter  ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier3_battlebunnycrossbow.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 87,
+    "Name": "Cyclonic Slicers",
+    "Description": "Gain 3 orbiting razors. Razors deal ? magic damage, and 30% Shred and Sunder enemies for 4 seconds. Deal 10% increased damage to Shredded or Sundered enemies. Damage increases based on Stage. Recommended Roles: Attack or Magic Fighter",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier2_cyclonicslicers.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 88,
+    "Name": "Deep Freeze",
+    "Description": "The first time you fall below 90%, 60%, 40%, and 20% health, gain a 20% max health shield for 4 seconds. When this happens, release a frost nova that stuns enemies within 2 hexes for 2 seconds and deals magic damage equal to 15% of their max Health. The radius increases by 1 each nova. Recommended Roles: Attack or Magic Tank ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier3_iceblastarmor.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 91,
+    "Name": "Echoing Batblades",
+    "Description": "Every 3 attacks, fire 10 batblades split between the 3 nearest enemies. Each blade deals 50% physical damage. Recommended Role: Attack Marksman",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier2_echoingbatblades.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 94,
+    "Name": "Evolved Embershot",
+    "Description": "For every 15 mana spent, fire a projectile at a nearby enemy dealing ? + 50% of the holder's Ability Power magic damage, and applying 1% Burn and 33% Wound to enemies for 10 seconds. Each projectile leaves a lingering field that deals ? magic damage to enemies each second. Damage increases based on Stage. Burn: Deals a percent of the target's max Health as true damage every second Wound: Reduces healing received Recommended Roles: Magic Caster",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier3_searingshortbow.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 95,
+    "Name": "Guiding Hex",
+    "Description": "Every 3 seconds, fire a bolt at a random enemy in Attack Range, dealing ? magic damage. Aurora Bonus: If this item is equipped on Aurora, she gains 9 Ability Power when the bolt hits. Damage increases based on Stage.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier1_guidinghex.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 98,
+    "Name": "Iceblast Armor",
+    "Description": "The first time you fall below 70% and 35% health, gain a 25% max health shield for 4 seconds and release a frost nova that stuns enemies within 3 hexes for 2 seconds. Recommended Roles: Attack or Magic Tank ",
+    "ImageUrl": "https://wiki.leagueoflegends.com/en-us/images/thumb/Iceblast_Armor_TFT_item.png/64px-Iceblast_Armor_TFT_item.png?62448",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 99,
+    "Name": "Leaky Prototype",
+    "Description": "Every 5 seconds, this item loses 3 Ability Power and gains 1 Mana Regen",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier0_leakyprototype.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 101,
+    "Name": "Leonine Lamentation",
+    "Description": "Every 15% max health lost, fire crescent projectiles in 3 lines dealing physical damage equal to 50% of the holder's Armor and Magic Resist. Steal 10 Armor and Magic Resist from all enemies hit. Recommended Roles: Attack or Magic Tank",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier3_lionesslament.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 103,
+    "Name": "Lioness's Lament",
+    "Description": "Every 15% max health lost, fire crescent projectiles in 3 lines dealing physical damage equal to 50% of the holder's Armor and Magic Resist. Steal 10 Armor and Magic Resist from all enemies hit. Recommended Roles: Attack or Magic Tank",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier2_lionesslament.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 105,
+    "Name": "Omniweapon",
+    "Description": "Every 15% max health lost, fire crescent projectiles in 3 lines dealing physical damage equal to 50% of the holder's Armor and Magic Resist. Steal 10 Armor and Magic Resist from all enemies hit. Recommended Roles: Attack or Magic Tank",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier4_omniweapon.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 106,
+    "Name": "OwO Blaster",
+    "Description": "Every attack, fire 9 laser blasts random targets in range, dealing 40% of the holder's Attack Damage as physical damage. Recommended Roles: Attack Marksman",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier3_uwublaster.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 108,
+    "Name": "Radiant Field",
+    "Description": "Gain 20% max health. Every second, deal magic damage in a 1-hex radius equal to 3% of the holder's max Health. Radius increases every 6 seconds. Recommended Roles: Attack or Magic Tank",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier2_radiantfield.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 109,
+    "Name": "Rocket Swarm",
+    "Description": "Every 30 Mana spent, fire a barrage of 4 rockets at the target, each dealing 30% physical damage. Jinx Bonus: If this item is equipped on Jinx, instead replace all ability bullets with rockets that deal 45% increased damage.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier1_rocketswarm.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 110,
+    "Name": "Savage Slicer",
+    "Description": "Attacks hit the target and all adjacent enemies for 30% of Basic Attack Damage. Omnivamp applies 150% to this damage. Briar Bonus: If this item is equipped on Briar, on cast this effect happens 6 times.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier1_savageslicer.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 111,
+    "Name": "Searing Shortbow",
+    "Description": "For every 20 mana spent, fire a projectile at a nearby enemy, dealing ? + 75% of the holder's Ability Power magic damage and applying 1% Burn and 33% Wound to enemies for 3 seconds. Damage increases based on Stage. Burn: Deals a percent of the target's max Health as true damage every second Wound: Reduces healing received Recommended Role: Magic Caster ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier2_searingshortbow.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 113,
+    "Name": "Solar Eclipse",
+    "Description": "Gain 18% max Health. Every second, deal magic damage in a 2 hex radius equal to 5% of the holder's max Health, and gain max Health equal to 20% of damage dealt. Radius increases every 6 seconds. Recommended Roles: Attack or Magic Tank",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier3_radiantfield.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 114,
+    "Name": "Sparking Prototype",
+    "Description": "Every 4 seconds, gain 30% Attack Speed for 4 seconds.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier0_sparkingprototype.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 116,
+    "Name": "Tentacle Slam",
+    "Description": "Every 5 seconds, summon a tentacle that slams down on the target, dealing ? physical damage and healing the holder for 12% max health. Illaoi Bonus: If this item is equipped on Illaoi, an additional tentacle slams targets drained by her ability at 35% effectiveness. Damage increases based on Stage",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier1_tentacleslam.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 117,
+    "Name": "The Annihilator",
+    "Description": "Store 20% of damage dealt. On death or after 18 seconds in combat, deal the stored damage as true damage to all enemies, reduced by 15% for each hex they are away from the epicenter. Recommended Roles: Attack or Magic Caster.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier2_annihilator.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 118,
+    "Name": "Unceasing Cyclone",
+    "Description": "Gain 6 orbiting razors. Razors deal ? true damage, and 30% Shred and Sunder enemies for the rest of combat. Deal 30% increased damage to Shredded or Sundered enemies. Damage increases based on Stage. Recommended Roles: Attack or Magic Fighter ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier3_cyclonicslicers.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 119,
+    "Name": "UwU Blaster",
+    "Description": "Every attack, fire 3 laser blasts random targets in range, dealing 40% of the holder's Attack Damage as physical damage. Recommended Role: Attack Marksman ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier2_uwublaster.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 120,
+    "Name": "Vayne's Chromablades",
+    "Description": "Every 5 attacks, fire 30 chromablades split between all enemies. Each blade deals 50% physical damage. Recommended Role: Attack Marksman",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_animasquaditem_tier3_echoingbatblades.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 121,
+    "Name": "Biomatter Preserver",
+    "Description": "Gain 5% max Health and deploy 3 Life Orbs. Every 8 seconds of combat, one drops restoring 18% of the holder's missing Health. Recommended user: Gragas.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_psyops_grenademod_radiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 122,
+    "Name": "Drone Uplink",
+    "Description": "A drone repeats 25% of damage from the holder's attacks and Abilities to the same targets every 3 seconds.. Recommended users: Sona and Viktor.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_psyops_dronemod.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 123,
+    "Name": "Malware Matrix",
+    "Description": "Dealing physical damage to an enemy reduces the target's Armor by 2. (Ability Damage Cooldown: 0.75 seconds). Recommended users: Master Yi and Pyke.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_psyops_chemicalcapacitormod.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 124,
+    "Name": "Sympathetic Implant",
+    "Description": "Every 5 seconds, gain 1 additional Mana Regen. Recommended users: Sona and Viktor.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_psyops_sympatheticimplantmod.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 125,
+    "Name": "Target-Lock Optics",
+    "Description": "The holder's first attack on each enemy deals 150 additional damage. Recommended users: Pyke and Master Yi",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_psyops_targetlockmod_radiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 126,
+    "Name": "Radiant Adaptive Helm",
+    "Description": "Gain an additional 30% Mana from all sources. The wearer gains an additional bonus based on their Role: Tank/Fighter: Gain 80 Armor and Magic Resistance. Marksman/Caster: Gain 25% Attack Damage and Ability Power. ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_adaptivehelmradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 134,
+    "Name": "Radiant Archangel's Staff",
+    "Description": "Combat start: Gain 40% Ability Power every 5 seconds in combat.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_archangelsstaffradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 135,
+    "Name": "Radiant Bloodthirster",
+    "Description": "Once per combat: At 40% Health, gain a 50% max Health Shield that lasts up to 5 seconds.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_bloodthirsterradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 136,
+    "Name": "Radiant Blue Buff",
+    "Description": "Gain 20% additional Attack Damage and Ability Power from all sources.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_bluebuffradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 137,
+    "Name": "Radiant Bramble Vest",
+    "Description": "Gain 12% max health. Take 10% reduced damage from attacks. When struck by any attack, deal 200 magic damage to all adjacent enemies. Cooldown: 2 seconds",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_bramblevestradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 138,
+    "Name": "Radiant Crownguard",
+    "Description": "Combat Start: Gain a 50% max Health Shield for 8 seconds. When the Shield expires, gain 50% Ability Power.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_crownguardradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 140,
+    "Name": "Radiant Deathblade",
+    "Description": "It glows in the presence of enemies. Or friends. Or anything alive, really.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_deathbladeradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 141,
+    "Name": "Radiant Dragon's Claw",
+    "Description": "Gain 22% max health. Every 2 seconds, heal 5% max Health. ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_dragonsclawradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 142,
+    "Name": "Radiant Edge of Night",
+    "Description": "At 60% Health, briefly become untargetable, shed negative effects, and heal all missing health.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_guardianangelradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 144,
+    "Name": "Radiant Evenshroud",
+    "Description": "30% Sunder enemies within 3 hexes. Gain 50 Armor and Magic Resist for the first 20 seconds of combat. Sunder: Reduce Armor",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_spectralgauntletradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 145,
+    "Name": "Radiant Gargoyle's Stoneplate",
+    "Description": "Gain 25 Armor and 25 Magic Resist for each enemy targeting the holder.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_gargoylestoneplateradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 146,
+    "Name": "Radiant Giant Slayer",
+    "Description": "Gain 30% additional Damage Amp against Tanks.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_giantslayerradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 147,
+    "Name": "Radiant Guinsoo's Rageblade",
+    "Description": "Gain 14% stacking Attack Speed every second.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_guinsoosragebladeradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 148,
+    "Name": "Radiant Hand of Justice",
+    "Description": "Gain 2 effects:30% Attack Damage and 30% Ability Power.24% Omnivamp. While above 50% health, double the Attack Damage and Ability Power. While below 50% Health, double the Omnivamp.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_handofjusticeradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 150,
+    "Name": "Radiant Hextech Gunblade",
+    "Description": "Heal the lowest percent Health ally for 40% of damage dealt.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_hextechgunbladeradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 151,
+    "Name": "Radiant Infinity Edge",
+    "Description": "Gain Precision.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_infinityedgeradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 152,
+    "Name": "Radiant Ionic Spark",
+    "Description": "30% Shred enemies within 2 hexes. When enemies cast an Ability, deal magic damage equal to 300% of the Mana spent. Shred: Reduce Magic Resist",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_ionicsparkradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 153,
+    "Name": "Radiant Jeweled Gauntlet",
+    "Description": "Gain Precision.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_jeweledgauntletradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 154,
+    "Name": "Radiant Kraken's Fury",
+    "Description": "Attacks grant 7% stacking Attack Damage, up to 15 attacks. After 15 attacks, gain 30% Attack Speed.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_runaanshurricaneradiant.png?v=1",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 156,
+    "Name": "Radiant Last Whisper",
+    "Description": "Damage from attacks and Abilities 30% Sunder the target for the rest of combat. This effect does not stack. Sunder: Reduce Armor",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_lastwhisperradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 157,
+    "Name": "Radiant Morellonomicon",
+    "Description": "Attacks and Abilities deal 2% Burn and 33% Wound to enemies for 10 seconds. Burn: Deals a percent of the target's max Health as true damage every second Wound: Reduces healing received",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_morellonomiconradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 158,
+    "Name": "Radiant Nashor's Tooth",
+    "Description": "Attacks grant 4 bonus Mana, increased to 8 if they critically strike.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_leviathanradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 159,
+    "Name": "Radiant Protector's Vow",
+    "Description": "Combat Start: Gain 40 Mana. At 40% Health, gain 30 Mana and a Shield equal to 40% max Health. ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_frozenheartradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 160,
+    "Name": "Radiant Quicksilver",
+    "Description": "Combat Start: Gain immunity to crowd control for 45 seconds. Gain 6% stacking Attack Speed every second.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_quicksilverradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 161,
+    "Name": "Radiant Rabadon's Deathcap",
+    "Description": "It's witnessed - and unleashed - miracles and calamities both.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_rabadonsdeathcapradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 163,
+    "Name": "Radiant Red Buff",
+    "Description": "Attacks and Abilities 2% Burn and 33% Wound enemies for 5 seconds. Burn: Deals a percent of the target's max Health as true damage every second Wound: Reduces healing received",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_rapidfirecannonradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 165,
+    "Name": "Radiant Spear of Shojin",
+    "Description": "Attacks grant 10 bonus Mana.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_spearofshojinradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 166,
+    "Name": "Radiant Spirit Visage",
+    "Description": "Regenerate 4% of missing Health each second.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_redemptionradiant.png?v=1",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 168,
+    "Name": "Radiant Steadfast Heart",
+    "Description": "Gain 10% durability. While above 50% Health, instead gain 30% Durability.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_nightharvesterradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 169,
+    "Name": "Radiant Sterak's Gage",
+    "Description": "At 60% Health, gain a Shield equal to 80% of the wearer's maximum Health that rapidly decays over 6 seconds.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_steraksgageradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 170,
+    "Name": "Radiant Striker's Flail",
+    "Description": "Critical Strikes grant 10% Damage Amp for 5 seconds, stacking up to 4 times.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_trapclawradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 173,
+    "Name": "Radiant Sunfire Cape",
+    "Description": "Gain 16% max Health. Every 2 seconds, deal 2% Burn and 33% Wound to an enemy within 2 hexes for 10 seconds. Burn: Deals a percent of the target's max Health as true damage every second Wound: reduces healing received ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_sunfirecaperadiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 174,
+    "Name": "Radiant Thief's Gloves",
+    "Description": "Each round: Equip 2 random Radiant items. Consumes 3 item slots.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_thiefsglovesradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 175,
+    "Name": "Radiant Titan's Resolve",
+    "Description": "Gain 4% Attack Damage and 4% Ability Power when attacking or taking damage, stacking up to 25 times. At full stacks, gain 20% Damage Amp and gain immunity to crowd control. ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_titansresolveradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 176,
+    "Name": "Radiant Void Staff",
+    "Description": "Damage from attacks and Abilities 30% Shred the target for the rest of combat. This effect does not stack. Shred: Reduce Magic Resist",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_statikkshivradiant.png?v=1",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 177,
+    "Name": "Radiant Warmog's Armor",
+    "Description": "Gain 36% max Health",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft5_item_warmogsarmorradiant.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 179,
+    "Name": "Anima Emblem",
+    "Description": "The holder gains the Anima trait.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_animasquademblemitem.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 181,
+    "Name": "Anomaly",
+    "Description": "Evolve the holder, granting an effect based on their role. Tank: Gain 1100 health and grow in size. Marksman: Gain 60% Attack Speed. On cast, knock back their target if within 3 hexes of them. Fighter/Assassin: Gain 30 Ability Power & 30% Attack Damage. Triple it when below 85% Health. Caster: For every 50 Mana spent, throw a 2-hex fireball that deals 6% max Health true damage, 33% Wounds, and 1% Burns for 5 seconds. Specialist: Gain 6 stars that orbit this champion. Each star deals 85 magic damage and the orbit expands to hit the champion's current target. ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_ekkooffering_anomalyitem.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 182,
+    "Name": "Crown of Demacia",
+    "Description": "If the holder is a Tank, regenerate 3-21% maximum Health every 2 seconds (based on stage). Otherwise, gain 10% Attack Damage and Ability Power every 2 seconds instead. If the holder of this item dies, you instantly lose the fight. You can remove this item by benching the holder. ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft9_item_crownofdemacia.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 184,
+    "Name": "Psionic Emblem",
+    "Description": "\r\nThe holder gains the Psionic trait.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_psyopsemblemitem.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 185,
+    "Name": "Sniper Emblem",
+    "Description": "he holder gains the Sniper trait and +1 Attack Range.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_rangedtraitemblemitem.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 186,
+    "Name": "Champion Duplicator",
+    "Description": "Use on a champion to create a 1-star copy on your bench. Consumable - This item disappears when used.",
+    "ImageUrl": "https://wiki.leagueoflegends.com/en-us/images/thumb/Champion_Duplicator_TFT_item.png/64px-Champion_Duplicator_TFT_item.png?482cc",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 187,
+    "Name": "Lesser Champion Duplicator",
+    "Description": "Use on a 3-cost champion or less to create a 1-star copy on your bench. Consumable - This item disappears when used.",
+    "ImageUrl": "https://wiki.leagueoflegends.com/en-us/images/thumb/Lesser_Champion_Duplicator_TFT_item.png/64px-Lesser_Champion_Duplicator_TFT_item.png?e41f2",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 190,
+    "Name": "Magnetic Remover",
+    "Description": "Use on a champion to unequip all items. Cannot be used on champions in combat.",
+    "ImageUrl": "https://wiki.leagueoflegends.com/en-us/images/Heimerdinger_Hextech_Affinity.png?81c7c",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 191,
+    "Name": "Reforger",
+    "Description": "Unequip all items and randomly transform them into new ones of a similar type and quality. Consumable - This item disappears when used.",
+    "ImageUrl": "https://wiki.leagueoflegends.com/en-us/images/Ornn_Living_Forge.png?52272",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 192,
+    "Name": "Aegis of Dawn",
+    "Description": "Every 2.5 seconds, steal 3 Armor from enemies within 1-hex and heal % of the holder's Armor. If Aegis of Dusk is also equipped, trigger this item's effect every 1.25 seconds instead. Healing increases based on Stage.  ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_aegisofdawn.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 193,
+    "Name": "Aegis of Dusk",
+    "Description": "Every 2.5 seconds, steal 3 Magic Resist from enemies within 1 hex and deal % of the holder's Magic Resist as magic damage. If Aegis of Dawn is also equipped, trigger this item's effect every 1.25 seconds instead. Damage increases based on Stage.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_aegisofdusk.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 194,
+    "Name": "Ahri's Aura",
+    "Description": "The holder is orbited by 3 foxfires. Each one deals 55 (Ability power) magic damage and the orbit expands to hit the holder's current target. For every 20 Mana the holder spends, foxfires travel 5% faster for the rest of combat.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_artifact_ahriartifact.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 195,
+    "Name": "Blighting Jewel",
+    "Description": "Dealing magic damage reduces the target's Magic Resist by 4. If their Magic Resist is 0, grant the holder 2 Mana instead. Ability damage can only trigger on each enemy once every 0.5 seconds.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_blightingjewel.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 196,
+    "Name": "Cappa Juice",
+    "Description": "The holder dons a Hat on each takedown. The holder gains 1% Attack Damage and Ability Power per Hat. On death lose 20% of all Hats.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_cappajuice.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 197,
+    "Name": "Dawncore",
+    "Description": "Reduce the holder's max Mana by 10. Subsequent spellcasts reduce max Mana by 10%, to a minimum of 10.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_dawncore.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 199,
+    "Name": "Deathfire Grasp",
+    "Description": "Combat start: Blast the current target for 40% of their max Health as magic damage. Repeat this every 13 seconds.",
+    "ImageUrl": "https://wiki.leagueoflegends.com/en-us/images/thumb/Deathfire_Grasp_TFT_item.png/64px-Deathfire_Grasp_TFT_item.png?f0282",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 200,
+    "Name": "Death's Defiance",
+    "Description": "50% of the damage the holder receives is instead dealt over 4 seconds as non-lethal damage. Unique - only 1 per champion",
+    "ImageUrl": "https://ap.tft.tools/img/items_s14/4OrnnDeathsDefiance.png?w=30",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 201,
+    "Name": "Ekko's Patience",
+    "Description": "Total Ability damage is increased by 45%, but is dealt over 2 seconds instead.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_artifact_ekkoartifact.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 202,
+    "Name": "Eternal Pact",
+    "Description": "Combat start: Form a pact with the highest Health allied champion, if they die, gain 10 Mana regen and 40% Ability Power. When the ally uses their ability, gain 15 Mana. Every 6 seconds, shield your ally for 200% of the holder's Ability Power. ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_eternalpact.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 203,
+    "Name": "Evelynn's Instinct",
+    "Description": "When switching targets, blink to the next target. Attacks and Abilities execute the holder's target below 12% of their Health. Kills grant the holder 50% Attack Speed decaying over 3 seconds.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_artifact_evelynnartifact.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 204,
+    "Name": "Fishbones",
+    "Description": "The holder's attacks target random enemies.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_fishbones.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 205,
+    "Name": "Flickerblade",
+    "Description": "Attacks grant 5% stacking Attack Speed. Every 3 attacks also grant 2% Attack Damage and 2% Ability Power.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_navoriflickerblades.png?v=1",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 207,
+    "Name": "Gambler's Blade",
+    "Description": "Grant 1% bonus Attack Speed per gold in your bank (up to 30 gold). Each attack has a 6% chance to drop 1 gold. Gold generated this game: Unique - only 1 per champion  ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft7_item_shimmerscalegamblersblade.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 208,
+    "Name": "Gold Collector",
+    "Description": "Attacks and Abilities execute enemies below 12% of their maximum Health. Executions have a 33% chance to drop 1 gold. Gold Collected: g Unique - only 1 per champion",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft4_item_ornnthecollector.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 209,
+    "Name": "Hellfire Hatchet",
+    "Description": "Attacks deal 3% of the holder's max Health as bonus physical damage. For every 1% missing Health, gain 1% Attack Speed.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_hellfirehatchet.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 210,
+    "Name": "Horizon Focus",
+    "Description": "[DISABLED] Stunning an enemy causes lightning to strike them, dealing 30% of their max Health as magic damage.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_horizonfocus.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 211,
+    "Name": "Hullcrusher",
+    "Description": "Combat Start: If there are no adjacent allies, gain 400 Health, 10% Attack Damage, and 10% Ability Power.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft9_item_ornnhullbreaker.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 215,
+    "Name": "Indomitable Gauntlet",
+    "Description": "The holder's Move Speed is drastically reduced. Gain 15% max Health, stun immunity, and pull the current target into melee range. ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_theindomitable.png?v=1",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 216,
+    "Name": "Infinity Force",
+    "Description": "Tons of EVERYTHING!",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft4_item_ornninfinityforce.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 217,
+    "Name": "Innervating Locket",
+    "Description": "The holder gains 1% of their total Mana whenever they're hit by an attack. Each cast restores 20% of the holder's max Health over 3 seconds.",
+    "ImageUrl": "https://wiki.leagueoflegends.com/en-us/images/thumb/Innervating_Locket_TFT_item.png/64px-Innervating_Locket_TFT_item.png?d43af",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 218,
+    "Name": "Kayle's Exaltation",
+    "Description": "After 18 seconds of combat, this and all completed items on the holder become Radiant.",
+    "ImageUrl": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kayle%27s_Exaltation_TFT_item.png/64px-Kayle%27s_Exaltation_TFT_item.png?206e2",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 219,
+    "Name": "Kayle's Radiant Exaltation",
+    "Description": "Behold, the righteous flame!",
+    "ImageUrl": "https://wiki.leagueoflegends.com/en-us/images/thumb/Kayle%27s_Radiant_Exaltation_TFT_item.png/64px-Kayle%27s_Radiant_Exaltation_TFT_item.png?206e2",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 221,
+    "Name": "Lesser Mirrored Persona",
+    "Description": "Share 15% of the holder's bonus Attack Damage, Ability Power, Attack Speed, Armor, Magic Resist, and Health with other Mirrored Persona holders. Can't be Reforged Unique: one per champion",
+    "ImageUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set17/TFT_Item_Artifact_MirroredPersona.webp",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 222,
+    "Name": "Lich Bane",
+    "Description": "The holder's first attack after each Ability cast deals bonus magic damage. Damage increases based on Stage.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_lichbane.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 223,
+    "Name": "Lightshield Crest",
+    "Description": "Every 3 seconds, Shields the lowest percent Health ally for 70% of the holder's combined Armor and Magic Resist for 5 seconds. On death grants this shield to all allies. ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_lightshieldcrest.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 225,
+    "Name": "Luden's Tempest",
+    "Description": "100% of overkill damage plus 100 is dealt as magic damage to the three enemies nearest the target.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_ludenstempest.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 227,
+    "Name": "Manazane",
+    "Description": "After casting the first time in combat, gain 100 Mana over 5 seconds. Unique - only 1 per champion",
+    "ImageUrl": "https://wiki.leagueoflegends.com/en-us/images/thumb/Manazane_TFT_item.png/64px-Manazane_TFT_item.png?0cf88",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 228,
+    "Name": "Mending Echoes",
+    "Description": "Increase healing on the holder by 25%. When the holder gives or receives a heal, grant 40% of the heals value to the lowest health ally as well.",
+    "ImageUrl": "https://ggmeo.com/riot-images/TFTSet17/item/TFT_Item_Artifact_MendingEchoes.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 229,
+    "Name": "Mirrored Persona",
+    "Description": "Every 6 player combats gain a lesser copy of Mirrored Persona (/6). Share 15% of the holder's bonus Attack Damage, Ability Power, Attack Speed, Armor, Magic Resist, and Health with other Mirrored Persona holders. Can't be Reforged, Lesser copies do not produce copies. Unique: one per champion",
+    "ImageUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set17/TFT_Item_Artifact_MirroredPersona.webp",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 230,
+    "Name": "Mittens",
+    "Description": "Shrinks the holder, granting them increased movement speed and immunity to Slow, Burn, and Wound.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_mittens.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 231,
+    "Name": "Mogul's Mail",
+    "Description": "Grants 1 Armor, 1 Magic Resist, and 8 Health when taking damage, stacking up to 35 times. At full stacks, grant 1 gold and continue gaining 1 gold every 11 seconds.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft7_item_shimmerscalemogulsmail.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 232,
+    "Name": "Prowler's Claw",
+    "Description": "After killing a target, shed negative effects and dash to the farthest target within 4 hexes. The next 2 critical attacks deal 50% bonus Critical Strike Damage.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_prowlersclaw.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 233,
+    "Name": "Rapid Firecannon",
+    "Description": "Gain +1 Attack Range, increased by 1 whenever the holder kills an enemy.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_rapidfirecannon.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 234,
+    "Name": "Shadow Puppet",
+    "Description": "Spawn a clone that copies the holder's items. The clone has 60% max Health and deals 40% damage. Unique - only 1 per champion",
+    "ImageUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set17/TFT_Item_Artifact_ShadowPuppet.webp",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 236,
+    "Name": "Silvermere Dawn",
+    "Description": "Grants immunity to Stuns and the holder's attacks Stun the target for 0.8 seconds. The holder's Attack Speed is locked at 0.5. ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_silvermeredawn.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 237,
+    "Name": "Sniper's Focus",
+    "Description": "Gain 40% Damage Amp against targets 4 or more hexes away.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft9_item_ornnhorizonfocus.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 238,
+    "Name": "Soraka's Miracle",
+    "Description": "The first 2 times the holder drops below 50% Health, a Miracle occurs, healing them for 20% of their max Health. If the holder survives player combat, gain 1 player Health for each Miracle this combat. ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_artifact_sorakaartifact.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 239,
+    "Name": "Spectral Cutlass",
+    "Description": "Combat start: Teleport the holder to the mirrored hex on the enemy's side of the board. After 8 seconds, the holder returns to their original location.",
+    "ImageUrl": "https://wiki.leagueoflegends.com/en-us/images/thumb/Spectral_Cutlass_TFT_item.png/64px-Spectral_Cutlass_TFT_item.png?c4f0c",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 240,
+    "Name": "Statikk Shiv",
+    "Description": "Every 3rd attack deals 30 + 50% of the holder's Ability Power as additional magic damage to 4 enemies.",
+    "ImageUrl": "https://ap.tft.tools/img/items_s14/Artifact_StatikkShiv.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 241,
+    "Name": "Suspicious Trench Coat",
+    "Description": "Once per combat at 60% Health, the holder splits into 3 copies of themself each with 33% of their max Health. Unique - only 1 per champion",
+    "ImageUrl": "https://wiki.leagueoflegends.com/en-us/images/thumb/Suspicious_Trench_Coat_TFT_item.png/64px-Suspicious_Trench_Coat_TFT_item.png?2fc0d",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 242,
+    "Name": "Talisman Of Ascension",
+    "Description": "After 22 seconds gain 100% max Health and 120% Damage Amp for the rest of combat.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_talismanofascension.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 244,
+    "Name": "The Darkin Aegis",
+    "Description": "The holder gains the Darkin trait. Every second, deal 1% of the holder's max Health as magic damage to enemies within 2 hexes. When units die in the area, heal for 2% max Health.",
+    "ImageUrl": "https://wiki.leagueoflegends.com/en-us/images/thumb/The_Darkin_Aegis_TFT_item.png/64px-The_Darkin_Aegis_TFT_item.png?b3523",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 245,
+    "Name": "The Darkin Bow",
+    "Description": "The holder gains the Darkin trait. Every 10 attacks, fire an arrow that passes through the current target, dealing 500% Basic Attack Damage as physical damage, reduced by 33% per enemy hit. ",
+    "ImageUrl": "https://wiki.leagueoflegends.com/en-us/images/thumb/The_Darkin_Bow_TFT_item.png/64px-The_Darkin_Bow_TFT_item.png?b3523",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 247,
+    "Name": "The Darkin Scythe",
+    "Description": "The holder gains the Darkin trait. Every 4 seconds, slash adjacent enemies for 150% Basic Attack Damage as physical damage. On takedown or when the holder dashes, slash again. Dash Cooldown: 1.5 second",
+    "ImageUrl": "https://wiki.leagueoflegends.com/en-us/images/thumb/The_Darkin_Scythe_TFT_item.png/64px-The_Darkin_Scythe_TFT_item.png?b3523",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 249,
+    "Name": "The Darkin Staff",
+    "Description": "The holder gains the Darkin trait. For every 20 Mana spent, launch a tendril at enemies near the current target, dealing magic damage. Damage increases based on Stage ",
+    "ImageUrl": "https://wiki.leagueoflegends.com/en-us/images/thumb/The_Darkin_Staff_TFT_item.png/64px-The_Darkin_Staff_TFT_item.png?b3523",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 250,
+    "Name": "Thresh's Lantern",
+    "Description": "After 6 seconds of combat, pull the leftmost benched unit onto the battlefield. While that unit lives, 20% of all damage the holder would take is redirected to them. Traits of champions flung onto the board do not become active ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_artifact_threshlantern.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 251,
+    "Name": "Titanic Hydra",
+    "Description": "Attacks deal 4% of the holder's max Health plus 8% of their Attack Damage as bonus physical damage to the target and adjacent enemies.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_titanichydra.png?v=1",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 252,
+    "Name": "Trickster's Glass",
+    "Description": "Summon a clone with 70% base Health and +10% max Mana. You cannot equip items to the clone. The clone benefits from active traits. Unique - only 1 per champion ",
+    "ImageUrl": "https://wiki.leagueoflegends.com/en-us/images/thumb/Trickster%27s_Glass_TFT_item.png/64px-Trickster%27s_Glass_TFT_item.png?c2b81",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 253,
+    "Name": "Unending Despair",
+    "Description": "Whenever a Shield on the holder breaks, 150% of that Shield's initial value is dealt to the nearest enemy as magic damage.",
+    "ImageUrl": "https://wiki.leagueoflegends.com/en-us/images/thumb/Unending_Despair_TFT_item.png/64px-Unending_Despair_TFT_item.png?2ef06",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 254,
+    "Name": "Varus's Obsession",
+    "Description": "Combat Start: Your strongest Tank becomes the Soulmate. For each second they are alive, the holder gains 3% stacking Attack Damage and Ability Power. The Soulmate heals for 20% of damage the holder deals. ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_artifact_varusartifact.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 256,
+    "Name": "Void Gauntlet",
+    "Description": "Combat start: Store 30% max Health and 2.5% more every second. On death, unleash the stored Health as magic damage split between enemies within 4-hexes. Unique - only 1 per champion",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_voidgauntlet.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 257,
+    "Name": "Wit's End",
+    "Description": "Attacks deal bonus magic damage. Heals the holder for 30% of all magic damage dealt. Damage increases based on Stage. ",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft_item_artifact_witsend.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 261,
+    "Name": "Yasuo's Bladework",
+    "Description": "Every 3.5 seconds, your next attack is a double attack.",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft17_item_artifact_yasuoartifact.png",
+    "IsComponent": false,
+    "TierRating": ""
+  },
+  {
+    "Id": 263,
+    "Name": "Zhonya's Paradox",
+    "Description": "Once per combat at 40% Health, become invulnerable and untargetable for 3 seconds. Unique - only 1 per champion",
+    "ImageUrl": "https://cdn.metatft.com/cdn-cgi/image/width=48,height=48,format=auto/https://cdn.metatft.com/file/metatft/items/tft4_item_ornnzhonyasparadox.png",
+    "IsComponent": false,
+    "TierRating": ""
+  }
+]

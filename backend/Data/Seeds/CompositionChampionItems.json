@@ -1,0 +1,764 @@
+[
+  {
+    "Id": 1,
+    "CompositionChampionId": 7,
+    "ItemId": 37,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 2,
+    "CompositionChampionId": 7,
+    "ItemId": 36,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 3,
+    "CompositionChampionId": 7,
+    "ItemId": 59,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 10,
+    "CompositionChampionId": 29,
+    "ItemId": 37,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 11,
+    "CompositionChampionId": 29,
+    "ItemId": 36,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 12,
+    "CompositionChampionId": 29,
+    "ItemId": 35,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 16,
+    "CompositionChampionId": 44,
+    "ItemId": 28,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 17,
+    "CompositionChampionId": 44,
+    "ItemId": 30,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 18,
+    "CompositionChampionId": 44,
+    "ItemId": 36,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 19,
+    "CompositionChampionId": 52,
+    "ItemId": 32,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 20,
+    "CompositionChampionId": 52,
+    "ItemId": 52,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 21,
+    "CompositionChampionId": 52,
+    "ItemId": 77,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 22,
+    "CompositionChampionId": 59,
+    "ItemId": 30,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 23,
+    "CompositionChampionId": 59,
+    "ItemId": 36,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 24,
+    "CompositionChampionId": 59,
+    "ItemId": 35,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 28,
+    "CompositionChampionId": 75,
+    "ItemId": 30,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 29,
+    "CompositionChampionId": 75,
+    "ItemId": 36,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 30,
+    "CompositionChampionId": 75,
+    "ItemId": 37,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 31,
+    "CompositionChampionId": 82,
+    "ItemId": 32,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 32,
+    "CompositionChampionId": 82,
+    "ItemId": 28,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 33,
+    "CompositionChampionId": 82,
+    "ItemId": 26,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 37,
+    "CompositionChampionId": 95,
+    "ItemId": 36,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 38,
+    "CompositionChampionId": 95,
+    "ItemId": 37,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 39,
+    "CompositionChampionId": 95,
+    "ItemId": 35,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 40,
+    "CompositionChampionId": 96,
+    "ItemId": 30,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 41,
+    "CompositionChampionId": 96,
+    "ItemId": 36,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 42,
+    "CompositionChampionId": 96,
+    "ItemId": 67,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 43,
+    "CompositionChampionId": 103,
+    "ItemId": 26,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 44,
+    "CompositionChampionId": 103,
+    "ItemId": 52,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 45,
+    "CompositionChampionId": 103,
+    "ItemId": 24,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 46,
+    "CompositionChampionId": 110,
+    "ItemId": 52,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 47,
+    "CompositionChampionId": 110,
+    "ItemId": 24,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 48,
+    "CompositionChampionId": 110,
+    "ItemId": 49,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 49,
+    "CompositionChampionId": 111,
+    "ItemId": 37,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 50,
+    "CompositionChampionId": 111,
+    "ItemId": 36,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 51,
+    "CompositionChampionId": 111,
+    "ItemId": 35,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 52,
+    "CompositionChampionId": 119,
+    "ItemId": 30,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 53,
+    "CompositionChampionId": 119,
+    "ItemId": 37,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 54,
+    "CompositionChampionId": 119,
+    "ItemId": 36,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 55,
+    "CompositionChampionId": 127,
+    "ItemId": 36,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 56,
+    "CompositionChampionId": 127,
+    "ItemId": 37,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 57,
+    "CompositionChampionId": 127,
+    "ItemId": 35,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 58,
+    "CompositionChampionId": 135,
+    "ItemId": 37,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 59,
+    "CompositionChampionId": 135,
+    "ItemId": 36,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 60,
+    "CompositionChampionId": 135,
+    "ItemId": 30,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 64,
+    "CompositionChampionId": 150,
+    "ItemId": 30,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 65,
+    "CompositionChampionId": 150,
+    "ItemId": 37,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 66,
+    "CompositionChampionId": 150,
+    "ItemId": 36,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 70,
+    "CompositionChampionId": 165,
+    "ItemId": 30,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 71,
+    "CompositionChampionId": 165,
+    "ItemId": 37,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 72,
+    "CompositionChampionId": 165,
+    "ItemId": 36,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 73,
+    "CompositionChampionId": 173,
+    "ItemId": 26,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 74,
+    "CompositionChampionId": 173,
+    "ItemId": 52,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 75,
+    "CompositionChampionId": 173,
+    "ItemId": 22,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 76,
+    "CompositionChampionId": 181,
+    "ItemId": 37,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 77,
+    "CompositionChampionId": 181,
+    "ItemId": 36,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 78,
+    "CompositionChampionId": 181,
+    "ItemId": 59,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 79,
+    "CompositionChampionId": 189,
+    "ItemId": 77,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 80,
+    "CompositionChampionId": 189,
+    "ItemId": 72,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 81,
+    "CompositionChampionId": 189,
+    "ItemId": 37,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 82,
+    "CompositionChampionId": 197,
+    "ItemId": 77,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 83,
+    "CompositionChampionId": 197,
+    "ItemId": 29,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 84,
+    "CompositionChampionId": 197,
+    "ItemId": 72,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 85,
+    "CompositionChampionId": 205,
+    "ItemId": 77,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 86,
+    "CompositionChampionId": 205,
+    "ItemId": 72,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 87,
+    "CompositionChampionId": 205,
+    "ItemId": 29,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 88,
+    "CompositionChampionId": 213,
+    "ItemId": 21,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 89,
+    "CompositionChampionId": 213,
+    "ItemId": 26,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 90,
+    "CompositionChampionId": 213,
+    "ItemId": 22,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 94,
+    "CompositionChampionId": 228,
+    "ItemId": 26,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 95,
+    "CompositionChampionId": 228,
+    "ItemId": 52,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 96,
+    "CompositionChampionId": 228,
+    "ItemId": 24,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 97,
+    "CompositionChampionId": 236,
+    "ItemId": 37,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 98,
+    "CompositionChampionId": 236,
+    "ItemId": 36,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 99,
+    "CompositionChampionId": 236,
+    "ItemId": 30,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 100,
+    "CompositionChampionId": 244,
+    "ItemId": 30,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 101,
+    "CompositionChampionId": 244,
+    "ItemId": 36,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 102,
+    "CompositionChampionId": 244,
+    "ItemId": 37,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 103,
+    "CompositionChampionId": 252,
+    "ItemId": 77,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 104,
+    "CompositionChampionId": 252,
+    "ItemId": 72,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 105,
+    "CompositionChampionId": 252,
+    "ItemId": 29,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 106,
+    "CompositionChampionId": 260,
+    "ItemId": 77,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 107,
+    "CompositionChampionId": 260,
+    "ItemId": 72,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 108,
+    "CompositionChampionId": 260,
+    "ItemId": 29,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 109,
+    "CompositionChampionId": 267,
+    "ItemId": 32,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 110,
+    "CompositionChampionId": 267,
+    "ItemId": 18,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 111,
+    "CompositionChampionId": 267,
+    "ItemId": 77,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 112,
+    "CompositionChampionId": 274,
+    "ItemId": 21,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 113,
+    "CompositionChampionId": 274,
+    "ItemId": 52,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 114,
+    "CompositionChampionId": 274,
+    "ItemId": 32,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 115,
+    "CompositionChampionId": 280,
+    "ItemId": 26,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 116,
+    "CompositionChampionId": 280,
+    "ItemId": 52,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 117,
+    "CompositionChampionId": 280,
+    "ItemId": 24,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 142,
+    "CompositionChampionId": 298,
+    "ItemId": 79,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 143,
+    "CompositionChampionId": 298,
+    "ItemId": 48,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 144,
+    "CompositionChampionId": 298,
+    "ItemId": 21,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 145,
+    "CompositionChampionId": 300,
+    "ItemId": 48,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 146,
+    "CompositionChampionId": 300,
+    "ItemId": 49,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 147,
+    "CompositionChampionId": 300,
+    "ItemId": 32,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 148,
+    "CompositionChampionId": 301,
+    "ItemId": 18,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 149,
+    "CompositionChampionId": 301,
+    "ItemId": 22,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 150,
+    "CompositionChampionId": 301,
+    "ItemId": 36,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 151,
+    "CompositionChampionId": 302,
+    "ItemId": 46,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 152,
+    "CompositionChampionId": 302,
+    "ItemId": 46,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 153,
+    "CompositionChampionId": 302,
+    "ItemId": 31,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 184,
+    "CompositionChampionId": 335,
+    "ItemId": 26,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 185,
+    "CompositionChampionId": 335,
+    "ItemId": 52,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 186,
+    "CompositionChampionId": 335,
+    "ItemId": 21,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 187,
+    "CompositionChampionId": 336,
+    "ItemId": 69,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 188,
+    "CompositionChampionId": 336,
+    "ItemId": 69,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 189,
+    "CompositionChampionId": 336,
+    "ItemId": 36,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 190,
+    "CompositionChampionId": 339,
+    "ItemId": 58,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 191,
+    "CompositionChampionId": 340,
+    "ItemId": 60,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 192,
+    "CompositionChampionId": 340,
+    "ItemId": 65,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 193,
+    "CompositionChampionId": 340,
+    "ItemId": 72,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 206,
+    "CompositionChampionId": 350,
+    "ItemId": 69,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 207,
+    "CompositionChampionId": 350,
+    "ItemId": 36,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 208,
+    "CompositionChampionId": 350,
+    "ItemId": 69,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 209,
+    "CompositionChampionId": 352,
+    "ItemId": 64,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 210,
+    "CompositionChampionId": 352,
+    "ItemId": 18,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 211,
+    "CompositionChampionId": 352,
+    "ItemId": 29,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 212,
+    "CompositionChampionId": 354,
+    "ItemId": 65,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 213,
+    "CompositionChampionId": 354,
+    "ItemId": 31,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 214,
+    "CompositionChampionId": 354,
+    "ItemId": 56,
+    "SlotIndex": 2
+  },
+  {
+    "Id": 215,
+    "CompositionChampionId": 355,
+    "ItemId": 34,
+    "SlotIndex": 0
+  },
+  {
+    "Id": 216,
+    "CompositionChampionId": 355,
+    "ItemId": 18,
+    "SlotIndex": 1
+  },
+  {
+    "Id": 217,
+    "CompositionChampionId": 355,
+    "ItemId": 35,
+    "SlotIndex": 2
+  }
+]

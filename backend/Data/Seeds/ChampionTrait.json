@@ -1,0 +1,522 @@
+[
+  {
+    "ChampionsId": 1,
+    "TraitsId": 18
+  },
+  {
+    "ChampionsId": 1,
+    "TraitsId": 37
+  },
+  {
+    "ChampionsId": 2,
+    "TraitsId": 5
+  },
+  {
+    "ChampionsId": 2,
+    "TraitsId": 25
+  },
+  {
+    "ChampionsId": 2,
+    "TraitsId": 34
+  },
+  {
+    "ChampionsId": 3,
+    "TraitsId": 29
+  },
+  {
+    "ChampionsId": 3,
+    "TraitsId": 37
+  },
+  {
+    "ChampionsId": 4,
+    "TraitsId": 9
+  },
+  {
+    "ChampionsId": 4,
+    "TraitsId": 19
+  },
+  {
+    "ChampionsId": 5,
+    "TraitsId": 17
+  },
+  {
+    "ChampionsId": 5,
+    "TraitsId": 26
+  },
+  {
+    "ChampionsId": 6,
+    "TraitsId": 8
+  },
+  {
+    "ChampionsId": 6,
+    "TraitsId": 24
+  },
+  {
+    "ChampionsId": 7,
+    "TraitsId": 9
+  },
+  {
+    "ChampionsId": 7,
+    "TraitsId": 21
+  },
+  {
+    "ChampionsId": 7,
+    "TraitsId": 27
+  },
+  {
+    "ChampionsId": 8,
+    "TraitsId": 13
+  },
+  {
+    "ChampionsId": 8,
+    "TraitsId": 24
+  },
+  {
+    "ChampionsId": 9,
+    "TraitsId": 15
+  },
+  {
+    "ChampionsId": 9,
+    "TraitsId": 18
+  },
+  {
+    "ChampionsId": 10,
+    "TraitsId": 19
+  },
+  {
+    "ChampionsId": 10,
+    "TraitsId": 34
+  },
+  {
+    "ChampionsId": 11,
+    "TraitsId": 16
+  },
+  {
+    "ChampionsId": 11,
+    "TraitsId": 25
+  },
+  {
+    "ChampionsId": 12,
+    "TraitsId": 13
+  },
+  {
+    "ChampionsId": 12,
+    "TraitsId": 21
+  },
+  {
+    "ChampionsId": 13,
+    "TraitsId": 16
+  },
+  {
+    "ChampionsId": 13,
+    "TraitsId": 29
+  },
+  {
+    "ChampionsId": 14,
+    "TraitsId": 15
+  },
+  {
+    "ChampionsId": 14,
+    "TraitsId": 27
+  },
+  {
+    "ChampionsId": 15,
+    "TraitsId": 28
+  },
+  {
+    "ChampionsId": 15,
+    "TraitsId": 37
+  },
+  {
+    "ChampionsId": 16,
+    "TraitsId": 20
+  },
+  {
+    "ChampionsId": 16,
+    "TraitsId": 28
+  },
+  {
+    "ChampionsId": 16,
+    "TraitsId": 34
+  },
+  {
+    "ChampionsId": 17,
+    "TraitsId": 26
+  },
+  {
+    "ChampionsId": 18,
+    "TraitsId": 19
+  },
+  {
+    "ChampionsId": 18,
+    "TraitsId": 33
+  },
+  {
+    "ChampionsId": 20,
+    "TraitsId": 13
+  },
+  {
+    "ChampionsId": 20,
+    "TraitsId": 25
+  },
+  {
+    "ChampionsId": 21,
+    "TraitsId": 16
+  },
+  {
+    "ChampionsId": 21,
+    "TraitsId": 18
+  },
+  {
+    "ChampionsId": 22,
+    "TraitsId": 5
+  },
+  {
+    "ChampionsId": 22,
+    "TraitsId": 20
+  },
+  {
+    "ChampionsId": 23,
+    "TraitsId": 15
+  },
+  {
+    "ChampionsId": 23,
+    "TraitsId": 21
+  },
+  {
+    "ChampionsId": 23,
+    "TraitsId": 23
+  },
+  {
+    "ChampionsId": 24,
+    "TraitsId": 17
+  },
+  {
+    "ChampionsId": 25,
+    "TraitsId": 9
+  },
+  {
+    "ChampionsId": 25,
+    "TraitsId": 24
+  },
+  {
+    "ChampionsId": 25,
+    "TraitsId": 31
+  },
+  {
+    "ChampionsId": 26,
+    "TraitsId": 17
+  },
+  {
+    "ChampionsId": 26,
+    "TraitsId": 19
+  },
+  {
+    "ChampionsId": 26,
+    "TraitsId": 27
+  },
+  {
+    "ChampionsId": 27,
+    "TraitsId": 23
+  },
+  {
+    "ChampionsId": 27,
+    "TraitsId": 33
+  },
+  {
+    "ChampionsId": 28,
+    "TraitsId": 8
+  },
+  {
+    "ChampionsId": 28,
+    "TraitsId": 31
+  },
+  {
+    "ChampionsId": 29,
+    "TraitsId": 5
+  },
+  {
+    "ChampionsId": 29,
+    "TraitsId": 23
+  },
+  {
+    "ChampionsId": 30,
+    "TraitsId": 8
+  },
+  {
+    "ChampionsId": 30,
+    "TraitsId": 20
+  },
+  {
+    "ChampionsId": 31,
+    "TraitsId": 15
+  },
+  {
+    "ChampionsId": 31,
+    "TraitsId": 25
+  },
+  {
+    "ChampionsId": 32,
+    "TraitsId": 5
+  },
+  {
+    "ChampionsId": 32,
+    "TraitsId": 21
+  },
+  {
+    "ChampionsId": 32,
+    "TraitsId": 24
+  },
+  {
+    "ChampionsId": 33,
+    "TraitsId": 9
+  },
+  {
+    "ChampionsId": 33,
+    "TraitsId": 25
+  },
+  {
+    "ChampionsId": 34,
+    "TraitsId": 16
+  },
+  {
+    "ChampionsId": 34,
+    "TraitsId": 27
+  },
+  {
+    "ChampionsId": 35,
+    "TraitsId": 19
+  },
+  {
+    "ChampionsId": 35,
+    "TraitsId": 37
+  },
+  {
+    "ChampionsId": 36,
+    "TraitsId": 42
+  },
+  {
+    "ChampionsId": 37,
+    "TraitsId": 13
+  },
+  {
+    "ChampionsId": 37,
+    "TraitsId": 18
+  },
+  {
+    "ChampionsId": 38,
+    "TraitsId": 32
+  },
+  {
+    "ChampionsId": 39,
+    "TraitsId": 13
+  },
+  {
+    "ChampionsId": 39,
+    "TraitsId": 26
+  },
+  {
+    "ChampionsId": 40,
+    "TraitsId": 14
+  },
+  {
+    "ChampionsId": 40,
+    "TraitsId": 19
+  },
+  {
+    "ChampionsId": 40,
+    "TraitsId": 28
+  },
+  {
+    "ChampionsId": 41,
+    "TraitsId": 31
+  },
+  {
+    "ChampionsId": 41,
+    "TraitsId": 33
+  },
+  {
+    "ChampionsId": 42,
+    "TraitsId": 14
+  },
+  {
+    "ChampionsId": 42,
+    "TraitsId": 31
+  },
+  {
+    "ChampionsId": 43,
+    "TraitsId": 15
+  },
+  {
+    "ChampionsId": 43,
+    "TraitsId": 29
+  },
+  {
+    "ChampionsId": 44,
+    "TraitsId": 9
+  },
+  {
+    "ChampionsId": 44,
+    "TraitsId": 23
+  },
+  {
+    "ChampionsId": 45,
+    "TraitsId": 20
+  },
+  {
+    "ChampionsId": 45,
+    "TraitsId": 37
+  },
+  {
+    "ChampionsId": 46,
+    "TraitsId": 8
+  },
+  {
+    "ChampionsId": 46,
+    "TraitsId": 21
+  },
+  {
+    "ChampionsId": 47,
+    "TraitsId": 28
+  },
+  {
+    "ChampionsId": 47,
+    "TraitsId": 33
+  },
+  {
+    "ChampionsId": 48,
+    "TraitsId": 13
+  },
+  {
+    "ChampionsId": 48,
+    "TraitsId": 27
+  },
+  {
+    "ChampionsId": 49,
+    "TraitsId": 16
+  },
+  {
+    "ChampionsId": 49,
+    "TraitsId": 24
+  },
+  {
+    "ChampionsId": 50,
+    "TraitsId": 15
+  },
+  {
+    "ChampionsId": 50,
+    "TraitsId": 18
+  },
+  {
+    "ChampionsId": 51,
+    "TraitsId": 17
+  },
+  {
+    "ChampionsId": 51,
+    "TraitsId": 25
+  },
+  {
+    "ChampionsId": 52,
+    "TraitsId": 19
+  },
+  {
+    "ChampionsId": 52,
+    "TraitsId": 36
+  },
+  {
+    "ChampionsId": 53,
+    "TraitsId": 14
+  },
+  {
+    "ChampionsId": 53,
+    "TraitsId": 23
+  },
+  {
+    "ChampionsId": 54,
+    "TraitsId": 16
+  },
+  {
+    "ChampionsId": 54,
+    "TraitsId": 26
+  },
+  {
+    "ChampionsId": 55,
+    "TraitsId": 15
+  },
+  {
+    "ChampionsId": 55,
+    "TraitsId": 31
+  },
+  {
+    "ChampionsId": 56,
+    "TraitsId": 13
+  },
+  {
+    "ChampionsId": 56,
+    "TraitsId": 24
+  },
+  {
+    "ChampionsId": 56,
+    "TraitsId": 35
+  },
+  {
+    "ChampionsId": 57,
+    "TraitsId": 5
+  },
+  {
+    "ChampionsId": 57,
+    "TraitsId": 28
+  },
+  {
+    "ChampionsId": 57,
+    "TraitsId": 43
+  },
+  {
+    "ChampionsId": 58,
+    "TraitsId": 38
+  },
+  {
+    "ChampionsId": 59,
+    "TraitsId": 9
+  },
+  {
+    "ChampionsId": 59,
+    "TraitsId": 26
+  },
+  {
+    "ChampionsId": 59,
+    "TraitsId": 46
+  },
+  {
+    "ChampionsId": 60,
+    "TraitsId": 39
+  },
+  {
+    "ChampionsId": 61,
+    "TraitsId": 11
+  },
+  {
+    "ChampionsId": 61,
+    "TraitsId": 18
+  },
+  {
+    "ChampionsId": 62,
+    "TraitsId": 21
+  },
+  {
+    "ChampionsId": 62,
+    "TraitsId": 33
+  },
+  {
+    "ChampionsId": 62,
+    "TraitsId": 40
+  },
+  {
+    "ChampionsId": 63,
+    "TraitsId": 45
+  },
+  {
+    "ChampionsId": 64,
+    "TraitsId": 41
+  }
+]

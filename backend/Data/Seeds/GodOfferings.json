@@ -1,0 +1,218 @@
+[
+  {
+    "Id": 1,
+    "Stage": "Stage 2",
+    "Offerings": "6 gold, 8 XP, 5 Rerolls, 6 gold maybe +1",
+    "GodId": 5
+  },
+  {
+    "Id": 2,
+    "Stage": "Stage 3",
+    "Offerings": "8 gold, 10 XP, 7 Rerolls, 8 gold maybe +2",
+    "GodId": 5
+  },
+  {
+    "Id": 4,
+    "Stage": "Stage 4",
+    "Offerings": "12 gold, 8 Rerolls, 12 gold maybe +3",
+    "GodId": 5
+  },
+  {
+    "Id": 5,
+    "Stage": "Stage 4-7 Perk",
+    "Offerings": " Gain 2 gold, 2 XP, and 2 rerolls each round",
+    "GodId": 5
+  },
+  {
+    "Id": 6,
+    "Stage": "Stage 2",
+    "Offerings": "Reach 50 gold to gain component anvil + 4 gold, Field 6 non-unique traits to get a random emblem and a reforger",
+    "GodId": 6
+  },
+  {
+    "Id": 11,
+    "Stage": "Stage 3",
+    "Offerings": "Star up a unit to get 10 gold, Field 6 non-unique traits to get a random emblem and a reforger",
+    "GodId": 6
+  },
+  {
+    "Id": 12,
+    "Stage": "Stage 4",
+    "Offerings": "Reach level 9 to get 20 gold",
+    "GodId": 6
+  },
+  {
+    "Id": 14,
+    "Stage": "Stage 4-7 Perk",
+    "Offerings": "Choose one of three trials to prove yourself to Aurelion Sol",
+    "GodId": 6
+  },
+  {
+    "Id": 15,
+    "Stage": "Stage 2",
+    "Offerings": "Fire Hex (18% dmg, burn/wound), Wood Hex (10% dmg, 30 HP), Wind Hex (30% AS), Ice Hex (15% heal), Electric Hex (2s stun), Socialite Hex (2 mana regen)",
+    "GodId": 7
+  },
+  {
+    "Id": 17,
+    "Stage": "Stage 3",
+    "Offerings": "Fire Hex(18% dmg, burn/wound), Wind Hex (30% AS), Ice Hex (15% heal), Electric Hex (2s stun), Socialite Hex (2 mana regen)",
+    "GodId": 7
+  },
+  {
+    "Id": 21,
+    "Stage": "Stage 4",
+    "Offerings": "Fire Hex (18% dmg, burn/wound), Wind Hex (30% AS), Ice Hex (15% heal), Electric Hex (2s stun), Socialite Hex (2 mana regen)",
+    "GodId": 7
+  },
+  {
+    "Id": 23,
+    "Stage": "Stage 4-7 Perk",
+    "Offerings": "Increase the power of Yasuo's hexes by 50%. If you only have 2 hexes, gain 12 gold.",
+    "GodId": 7
+  },
+  {
+    "Id": 24,
+    "Stage": "Stage 2",
+    "Offerings": "2 & 3 Cost, Owned 3 cost, 2 Tiny Dupes, 3 cost shop",
+    "GodId": 8
+  },
+  {
+    "Id": 25,
+    "Stage": "Stage 3",
+    "Offerings": "3 & 4 Cost, Lesser Dupe, Owned 3 cost, 4 cost shop",
+    "GodId": 8
+  },
+  {
+    "Id": 26,
+    "Stage": "Stage 4",
+    "Offerings": "4 & 5 Cost, Lesser Dupe + 3g, 1 Lesser Duplicator + 5 Tiny Duplicators, Owned 4 cost, 1% 5 cost odds",
+    "GodId": 8
+  },
+  {
+    "Id": 28,
+    "Stage": "Stage 4-7 Perk",
+    "Offerings": "Your team gains 10 health for each total star level in your army. Increase your 5 cost odds by 4%",
+    "GodId": 8
+  },
+  {
+    "Id": 32,
+    "Stage": "Stage 2",
+    "Offerings": "8g, Lose 1 HP per 2* 2-cost, \r\n2* 2-cost, -1 HP, \r\n2x lesser dupe, no shop 2 rounds",
+    "GodId": 9
+  },
+  {
+    "Id": 33,
+    "Stage": "Stage 3",
+    "Offerings": "11g, Lose 1 HP per, Random emblem, -3 HP, 15 gold, no shop 2 rounds, 2* 3-cost and -2 HP, 3* 1-cost and -2 HP",
+    "GodId": 9
+  },
+  {
+    "Id": 34,
+    "Stage": "Stage 4",
+    "Offerings": "14g, Lose 1 HP per, 2* 4-cost and -3 HP, Completed item, -5 HP, 18 gold, no shop 2 rounds",
+    "GodId": 9
+  },
+  {
+    "Id": 35,
+    "Stage": "Stage 4-7 Perk",
+    "Offerings": "Your team gains 10% Durability. Lose an additional 1 health when you lose combat.",
+    "GodId": 9
+  },
+  {
+    "Id": 37,
+    "Stage": "Stage 2",
+    "Offerings": "Random + 2g, Random loot (EV 7)",
+    "GodId": 10
+  },
+  {
+    "Id": 38,
+    "Stage": "Stage 3",
+    "Offerings": "Random + 3g, Random loot (EV 9)",
+    "GodId": 10
+  },
+  {
+    "Id": 40,
+    "Stage": "Stage 4",
+    "Offerings": "Random + 5g, Random loot (EV 10)",
+    "GodId": 10
+  },
+  {
+    "Id": 41,
+    "Stage": "Stage 4-7 Perk",
+    "Offerings": "After each player combat, roll a die. Gain rewards based on the result.",
+    "GodId": 10
+  },
+  {
+    "Id": 42,
+    "Stage": "Stage 2",
+    "Offerings": "Random Component, Sparring Glove, Recurve Bow, Tear of the Goddess",
+    "GodId": 11
+  },
+  {
+    "Id": 43,
+    "Stage": "Stage 3",
+    "Offerings": "Random Component, B.F. Sword, Chain Vest, Needlessly Large Rod, Negatron Cloak",
+    "GodId": 11
+  },
+  {
+    "Id": 44,
+    "Stage": "Stage 4",
+    "Offerings": "Random Component, Sparring Glove, Recurve Bow, Tear of Goddess, B.F. Sword, Chain Vest, Needlessly Large Rod, Negatron Cloak",
+    "GodId": 11
+  },
+  {
+    "Id": 45,
+    "Stage": "Stage 4-7 Perk",
+    "Offerings": "Upgrade a random completed item to Radiant",
+    "GodId": 11
+  },
+  {
+    "Id": 46,
+    "Stage": "Stage 2",
+    "Offerings": "Scuttle Puddle (+blue orb & 3 gold), Blessing at 30 HP (25g value), Spat in 4 rounds, Artifact in 8 rounds, 4-cost in 3 rounds   ",
+    "GodId": 12
+  },
+  {
+    "Id": 48,
+    "Stage": "Stage 3",
+    "Offerings": "Scuttle Puddle (+blue orb & 4 gold), Implant (20% AS), 2x 5-cost in 4 rounds, Component anvil in 3 rounds ",
+    "GodId": 12
+  },
+  {
+    "Id": 49,
+    "Stage": "Stage 4",
+    "Offerings": "Artifact in 5 rounds, Completed Anvil in 4 rounds,  2 gold every turn, Full 5-cost shop in 3 rounds, Implant (20% AS) ",
+    "GodId": 12
+  },
+  {
+    "Id": 50,
+    "Stage": "Stage 4-7 Perk",
+    "Offerings": "Gain the Anomaly item, which provides unique bonuses based on role",
+    "GodId": 12
+  },
+  {
+    "Id": 51,
+    "Stage": "Stage 2",
+    "Offerings": "8 HP, maybe 3g, 12 HP, Giant's Belt",
+    "GodId": 13
+  },
+  {
+    "Id": 52,
+    "Stage": "Stage 3",
+    "Offerings": "8 HP, maybe 5g, 12 HP, Giant's Belt, Implant (350 HP)",
+    "GodId": 13
+  },
+  {
+    "Id": 54,
+    "Stage": "Stage 4",
+    "Offerings": "8 HP, maybe 5g, 12 HP, Giant's Belt, Implant (350 HP)",
+    "GodId": 13
+  },
+  {
+    "Id": 55,
+    "Stage": "Stage 4-7 Perk",
+    "Offerings": "Team gains 2 HP per missing Tactician health. +1 current and max health Tactician each round.",
+    "GodId": 13
+  }
+]

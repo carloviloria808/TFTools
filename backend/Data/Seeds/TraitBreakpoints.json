@@ -1,0 +1,506 @@
+[
+  {
+    "Id": 1,
+    "UnitsRequired": 3,
+    "Bonus": "Start Researching!",
+    "TraitId": 5
+  },
+  {
+    "Id": 2,
+    "UnitsRequired": 6,
+    "Bonus": "Gain a loot Orb upon win",
+    "TraitId": 5
+  },
+  {
+    "Id": 3,
+    "UnitsRequired": 2,
+    "Bonus": "Choose a cause and effect for your law",
+    "TraitId": 8
+  },
+  {
+    "Id": 5,
+    "UnitsRequired": 3,
+    "Bonus": "Effects are stronger",
+    "TraitId": 8
+  },
+  {
+    "Id": 6,
+    "UnitsRequired": 1,
+    "Bonus": "Summon a placeable relic that grants adjacent allies a 18% max Health shield and 20% Attack Speed at combat start",
+    "TraitId": 11
+  },
+  {
+    "Id": 7,
+    "UnitsRequired": 1,
+    "Bonus": "Gain a random Command Mod every 2 rounds; Command Mods last 2 player combats",
+    "TraitId": 40
+  },
+  {
+    "Id": 8,
+    "UnitsRequired": 1,
+    "Bonus": "Allies take 5% less ability damage; increased to 10% while Morgana is in Dark Form",
+    "TraitId": 39
+  },
+  {
+    "Id": 9,
+    "UnitsRequired": 2,
+    "Bonus": "Dark Stars create a black hole that consumes enemies at 10% max Health",
+    "TraitId": 9
+  },
+  {
+    "Id": 10,
+    "UnitsRequired": 4,
+    "Bonus": "AND they gain 30% AD",
+    "TraitId": 9
+  },
+  {
+    "Id": 11,
+    "UnitsRequired": 6,
+    "Bonus": "AND the strongest Dark Star unit goes supermassive, gaining 100% effectiveness from Dark Star, and creates 2 minor Black Holes",
+    "TraitId": 9
+  },
+  {
+    "Id": 13,
+    "UnitsRequired": 9,
+    "Bonus": "All Dark Stars are supermassive. At level 10, CONSUME EVERYONE",
+    "TraitId": 9
+  },
+  {
+    "Id": 14,
+    "UnitsRequired": 1,
+    "Bonus": "You heal for 15% of player damage you deal. Fiora always wins a one on one duel.",
+    "TraitId": 43
+  },
+  {
+    "Id": 15,
+    "UnitsRequired": 1,
+    "Bonus": "Combat Start: Mark all enemies with Doom. The first time enemies are damaged each combat, their Doom is consumed, stealing 8% Attack Damage and Ability Power from them and granting it to your strongest Vex.",
+    "TraitId": 45
+  },
+  {
+    "Id": 16,
+    "UnitsRequired": 1,
+    "Bonus": "Enemies have 14% less Armor and Magic Resist.",
+    "TraitId": 46
+  },
+  {
+    "Id": 17,
+    "UnitsRequired": 1,
+    "Bonus": "After combat, open an armory to buy a permanent upgrade for your strongest Graves; every 3 upgrades adds one round delay",
+    "TraitId": 38
+  },
+  {
+    "Id": 18,
+    "UnitsRequired": 1,
+    "Bonus": "Gun Goddess",
+    "TraitId": 42
+  },
+  {
+    "Id": 19,
+    "UnitsRequired": 1,
+    "Bonus": "Galaxy Hunter",
+    "TraitId": 41
+  },
+  {
+    "Id": 20,
+    "UnitsRequired": 3,
+    "Bonus": "Energy Cells: Mechas gain 20% AD & AP",
+    "TraitId": 14
+  },
+  {
+    "Id": 22,
+    "UnitsRequired": 4,
+    "Bonus": "\r\nOverclocked Cells: Increased to 35% AD & AP",
+    "TraitId": 14
+  },
+  {
+    "Id": 23,
+    "UnitsRequired": 6,
+    "Bonus": "Precision Engineering: +1 max team size",
+    "TraitId": 14
+  },
+  {
+    "Id": 28,
+    "UnitsRequired": 3,
+    "Bonus": "2% Meep power, 125 Health",
+    "TraitId": 15
+  },
+  {
+    "Id": 29,
+    "UnitsRequired": 5,
+    "Bonus": "3% Meep power, 250 Health",
+    "TraitId": 15
+  },
+  {
+    "Id": 30,
+    "UnitsRequired": 7,
+    "Bonus": "4% Meep power, 400 Health. Create a Cloning Slot on your bench. Gain gold and a 1-star copy of the champion placed there when cloning completes",
+    "TraitId": 15
+  },
+  {
+    "Id": 31,
+    "UnitsRequired": 10,
+    "Bonus": "6% Meep power, 1000 Health. SUMMON THE FOUR MEEPLORDS!",
+    "TraitId": 15
+  },
+  {
+    "Id": 32,
+    "UnitsRequired": 2,
+    "Bonus": "6 seconds into combat, N.O.V.A. grant a power surge to allies based on champions",
+    "TraitId": 37
+  },
+  {
+    "Id": 33,
+    "UnitsRequired": 5,
+    "Bonus": "Gain a Striker selector. The chosen N.O.V.A. activates their Strike during the power surge. (Aatrox: 30% Shred/Sunder, Caitlyn: 20% AS to allies, Akali: Precision, Maokai: 15% max Health heal, Kindred: 800 shield on strongest Tank, Emblem: 10% stacking bonus true damage)",
+    "TraitId": 37
+  },
+  {
+    "Id": 34,
+    "UnitsRequired": 1,
+    "Bonus": "Every 3 rounds, Tahm Kench grants a reward",
+    "TraitId": 36
+  },
+  {
+    "Id": 35,
+    "UnitsRequired": 1,
+    "Bonus": "Below 45% Health, become untargetable and repair 15% max Health/sec; if fully healed, enter The Groove and fire bolts 4x as fast",
+    "TraitId": 35
+  },
+  {
+    "Id": 36,
+    "UnitsRequired": 2,
+    "Bonus": "Dealing damage spawns Swarmlings based on Primordian star level",
+    "TraitId": 34
+  },
+  {
+    "Id": 37,
+    "UnitsRequired": 3,
+    "Bonus": "Spawn even more Swarmlings! Each round, gain a random 1 or 2-cost champion",
+    "TraitId": 34
+  },
+  {
+    "Id": 38,
+    "UnitsRequired": 2,
+    "Bonus": "Gain the first Psionic item",
+    "TraitId": 33
+  },
+  {
+    "Id": 39,
+    "UnitsRequired": 4,
+    "Bonus": "Gain the second Psionic item; Psionic items gain extra effects on Psionic units",
+    "TraitId": 33
+  },
+  {
+    "Id": 41,
+    "UnitsRequired": 1,
+    "Bonus": "\r\nPer non-unique active trait: 2%/3%/4% Attack Speed and 2/3/4 Armor & MR (scales with Rhaast's star level)",
+    "TraitId": 32
+  },
+  {
+    "Id": 42,
+    "UnitsRequired": 3,
+    "Bonus": "Summon Bia",
+    "TraitId": 21
+  },
+  {
+    "Id": 43,
+    "UnitsRequired": 5,
+    "Bonus": "Summon Bayin",
+    "TraitId": 21
+  },
+  {
+    "Id": 44,
+    "UnitsRequired": 7,
+    "Bonus": "Bia and Bayin's bond grows deeper",
+    "TraitId": 21
+  },
+  {
+    "Id": 45,
+    "UnitsRequired": 1,
+    "Bonus": "\r\nGroovians can enter the Groove, gaining Attack Speed and max Health Regen",
+    "TraitId": 13
+  },
+  {
+    "Id": 46,
+    "UnitsRequired": 3,
+    "Bonus": "\r\nAll Groovians start combat in the Groove for 3 seconds",
+    "TraitId": 13
+  },
+  {
+    "Id": 47,
+    "UnitsRequired": 5,
+    "Bonus": "\r\nEach second spent in the Groove grants 3% stacking Attack Damage and Ability Power",
+    "TraitId": 13
+  },
+  {
+    "Id": 48,
+    "UnitsRequired": 7,
+    "Bonus": "\r\nIncrease these effects by 20%",
+    "TraitId": 13
+  },
+  {
+    "Id": 49,
+    "UnitsRequired": 10,
+    "Bonus": "\r\nthe Groove",
+    "TraitId": 13
+  },
+  {
+    "Id": 50,
+    "UnitsRequired": 3,
+    "Bonus": "First constellation tier bonuses active",
+    "TraitId": 16
+  },
+  {
+    "Id": 51,
+    "UnitsRequired": 5,
+    "Bonus": "Second constellation tier bonuses active",
+    "TraitId": 16
+  },
+  {
+    "Id": 52,
+    "UnitsRequired": 7,
+    "Bonus": "Third constellation tier bonuses active",
+    "TraitId": 16
+  },
+  {
+    "Id": 53,
+    "UnitsRequired": 2,
+    "Bonus": "When you lose, gain free rerolls. When you win, store XP in a Temporal Core",
+    "TraitId": 17
+  },
+  {
+    "Id": 54,
+    "UnitsRequired": 3,
+    "Bonus": "AND Allies gain 15% Attack Speed",
+    "TraitId": 17
+  },
+  {
+    "Id": 55,
+    "UnitsRequired": 4,
+    "Bonus": "\r\nAND Timebreakers gain an additional 50% Attack Speed",
+    "TraitId": 17
+  },
+  {
+    "Id": 57,
+    "UnitsRequired": 2,
+    "Bonus": "16 Armor & MR",
+    "TraitId": 18
+  },
+  {
+    "Id": 58,
+    "UnitsRequired": 4,
+    "Bonus": "\r\n35 Armor & MR",
+    "TraitId": 18
+  },
+  {
+    "Id": 59,
+    "UnitsRequired": 6,
+    "Bonus": "\r\n55 Armor & MR; Non-Bastions gain an additional 20 Armor & MR",
+    "TraitId": 18
+  },
+  {
+    "Id": 60,
+    "UnitsRequired": 2,
+    "Bonus": "+25% maximum Health",
+    "TraitId": 19
+  },
+  {
+    "Id": 61,
+    "UnitsRequired": 4,
+    "Bonus": "+45% maximum Health",
+    "TraitId": 19
+  },
+  {
+    "Id": 62,
+    "UnitsRequired": 6,
+    "Bonus": "\r\n+65% maximum Health",
+    "TraitId": 19
+  },
+  {
+    "Id": 63,
+    "UnitsRequired": 2,
+    "Bonus": "15% AS",
+    "TraitId": 20
+  },
+  {
+    "Id": 64,
+    "UnitsRequired": 3,
+    "Bonus": "22% AS",
+    "TraitId": 20
+  },
+  {
+    "Id": 66,
+    "UnitsRequired": 4,
+    "Bonus": "30% AS",
+    "TraitId": 20
+  },
+  {
+    "Id": 68,
+    "UnitsRequired": 5,
+    "Bonus": "40% AS",
+    "TraitId": 20
+  },
+  {
+    "Id": 69,
+    "UnitsRequired": 2,
+    "Bonus": "\r\n1% Mana Regen | 3% Channeler Mana Regen\r\n",
+    "TraitId": 31
+  },
+  {
+    "Id": 71,
+    "UnitsRequired": 3,
+    "Bonus": "1% Mana Regen | 4% Channeler Mana Regen",
+    "TraitId": 31
+  },
+  {
+    "Id": 72,
+    "UnitsRequired": 4,
+    "Bonus": "\r\n2% Mana Regen | 6% Channeler Mana Regen",
+    "TraitId": 31
+  },
+  {
+    "Id": 73,
+    "UnitsRequired": 5,
+    "Bonus": "2% Mana Regen | 7% Channeler Mana Regen",
+    "TraitId": 31
+  },
+  {
+    "Id": 74,
+    "UnitsRequired": 2,
+    "Bonus": "Chance effects on abilities are Lucky",
+    "TraitId": 29
+  },
+  {
+    "Id": 75,
+    "UnitsRequired": 4,
+    "Bonus": "Gain 20% Crit Chance and 10% Crit Damage. Critical strikes are also Lucky",
+    "TraitId": 29
+  },
+  {
+    "Id": 76,
+    "UnitsRequired": 2,
+    "Bonus": "5% Omnivamp, 20% AD",
+    "TraitId": 28
+  },
+  {
+    "Id": 77,
+    "UnitsRequired": 4,
+    "Bonus": "7% Omnivamp, 30% AD",
+    "TraitId": 28
+  },
+  {
+    "Id": 78,
+    "UnitsRequired": 6,
+    "Bonus": "10% Omnivamp, 40% AD",
+    "TraitId": 28
+  },
+  {
+    "Id": 79,
+    "UnitsRequired": 2,
+    "Bonus": "\r\n25% strength on repeat",
+    "TraitId": 27
+  },
+  {
+    "Id": 80,
+    "UnitsRequired": 4,
+    "Bonus": "\r\n50% strength on repeat",
+    "TraitId": 27
+  },
+  {
+    "Id": 81,
+    "UnitsRequired": 2,
+    "Bonus": "15% AD & AP",
+    "TraitId": 25
+  },
+  {
+    "Id": 82,
+    "UnitsRequired": 3,
+    "Bonus": "30% AD & AP",
+    "TraitId": 25
+  },
+  {
+    "Id": 83,
+    "UnitsRequired": 4,
+    "Bonus": "45% AD & AP",
+    "TraitId": 25
+  },
+  {
+    "Id": 84,
+    "UnitsRequired": 5,
+    "Bonus": "60% AD & AP",
+    "TraitId": 25
+  },
+  {
+    "Id": 85,
+    "UnitsRequired": 2,
+    "Bonus": "18% DA; +2% DA per hex",
+    "TraitId": 26
+  },
+  {
+    "Id": 86,
+    "UnitsRequired": 3,
+    "Bonus": "\r\n24% DA; +3% DA per hex",
+    "TraitId": 26
+  },
+  {
+    "Id": 87,
+    "UnitsRequired": 4,
+    "Bonus": "28% DA; +4% DA per hex",
+    "TraitId": 26
+  },
+  {
+    "Id": 88,
+    "UnitsRequired": 5,
+    "Bonus": "32% DA; +5% DA per hex",
+    "TraitId": 26
+  },
+  {
+    "Id": 89,
+    "UnitsRequired": 2,
+    "Bonus": "16% max Health shield",
+    "TraitId": 24
+  },
+  {
+    "Id": 91,
+    "UnitsRequired": 4,
+    "Bonus": "28% max Health shield",
+    "TraitId": 24
+  },
+  {
+    "Id": 92,
+    "UnitsRequired": 6,
+    "Bonus": "40% max Health shield",
+    "TraitId": 24
+  },
+  {
+    "Id": 93,
+    "UnitsRequired": 2,
+    "Bonus": "175 Shield; 9% DA",
+    "TraitId": 23
+  },
+  {
+    "Id": 94,
+    "UnitsRequired": 3,
+    "Bonus": "250 Shield; 15% DA",
+    "TraitId": 23
+  },
+  {
+    "Id": 95,
+    "UnitsRequired": 4,
+    "Bonus": "350 Shield; 18% DA",
+    "TraitId": 23
+  },
+  {
+    "Id": 96,
+    "UnitsRequired": 5,
+    "Bonus": "500 Shield; 22% DA",
+    "TraitId": 23
+  },
+  {
+    "Id": 97,
+    "UnitsRequired": 6,
+    "Bonus": "700 Shield; 27% DA",
+    "TraitId": 23
+  }
+]

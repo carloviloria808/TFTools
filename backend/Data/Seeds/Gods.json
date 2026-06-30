@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 5,
+    "Name": "Ahri",
+    "Specialty": "God of Opulence",
+    "ImageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/ebc83fe16b5eda244d817fa5dea982b902a40c26-800x800.png"
+  },
+  {
+    "Id": 6,
+    "Name": "Aurelion Sol",
+    "Specialty": "God of Wonders",
+    "ImageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2c497150be7a305a776b53224ef3d0dd7831c449-800x800.png"
+  },
+  {
+    "Id": 7,
+    "Name": "Yasuo",
+    "Specialty": "God of the Abyss",
+    "ImageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5889c75974c9aa9e2d6d11ef38b78195f4f4c751-800x800.png"
+  },
+  {
+    "Id": 8,
+    "Name": "Varus",
+    "Specialty": "God of Love",
+    "ImageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e142690ed342c22dd2fbb6cb560758a506de09b9-800x800.png"
+  },
+  {
+    "Id": 9,
+    "Name": "Evelynn",
+    "Specialty": "God of Temptation",
+    "ImageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f208d197f0e823b2b9ff0ec0be184501eb68a7db-800x800.png"
+  },
+  {
+    "Id": 10,
+    "Name": "Thresh",
+    "Specialty": "God of Pacts",
+    "ImageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/cc01d2af8a1ca3de86ce513f7ca34261e8b40596-800x800.png"
+  },
+  {
+    "Id": 11,
+    "Name": "Kayle",
+    "Specialty": "God of Order",
+    "ImageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b2422b8bf1679f10d0e642fb6ebffa241ed4b962-800x800.png"
+  },
+  {
+    "Id": 12,
+    "Name": "Ekko",
+    "Specialty": "God of Time",
+    "ImageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4c3157efdcb09e79c2882fbc167c52a727d7656c-800x800.png"
+  },
+  {
+    "Id": 13,
+    "Name": "Soraka",
+    "Specialty": "God of the Stars",
+    "ImageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5290323ec83e76ae4dcce502e0242f6b8095eb8a-800x800.png"
+  }
+]

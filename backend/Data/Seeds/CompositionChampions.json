@@ -1,0 +1,2261 @@
+[
+  {
+    "Id": 1,
+    "CompositionId": 1,
+    "ChampionId": 40,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 2,
+    "CompositionId": 1,
+    "ChampionId": 16,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 3,
+    "CompositionId": 1,
+    "ChampionId": 35,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 4,
+    "CompositionId": 1,
+    "ChampionId": 15,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 5,
+    "CompositionId": 1,
+    "ChampionId": 18,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 6,
+    "CompositionId": 1,
+    "ChampionId": 41,
+    "Row": 1,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 7,
+    "CompositionId": 1,
+    "ChampionId": 47,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 22,
+    "CompositionId": 4,
+    "ChampionId": 56,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 23,
+    "CompositionId": 4,
+    "ChampionId": 49,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 24,
+    "CompositionId": 4,
+    "ChampionId": 25,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 25,
+    "CompositionId": 4,
+    "ChampionId": 4,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 26,
+    "CompositionId": 4,
+    "ChampionId": 32,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 27,
+    "CompositionId": 4,
+    "ChampionId": 41,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 28,
+    "CompositionId": 4,
+    "ChampionId": 62,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 29,
+    "CompositionId": 4,
+    "ChampionId": 63,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 37,
+    "CompositionId": 6,
+    "ChampionId": 9,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 38,
+    "CompositionId": 6,
+    "ChampionId": 26,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 39,
+    "CompositionId": 6,
+    "ChampionId": 50,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 40,
+    "CompositionId": 6,
+    "ChampionId": 51,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 41,
+    "CompositionId": 6,
+    "ChampionId": 24,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 42,
+    "CompositionId": 6,
+    "ChampionId": 31,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 43,
+    "CompositionId": 6,
+    "ChampionId": 14,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 44,
+    "CompositionId": 6,
+    "ChampionId": 43,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 45,
+    "CompositionId": 7,
+    "ChampionId": 53,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 46,
+    "CompositionId": 7,
+    "ChampionId": 10,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 47,
+    "CompositionId": 7,
+    "ChampionId": 35,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 48,
+    "CompositionId": 7,
+    "ChampionId": 29,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 49,
+    "CompositionId": 7,
+    "ChampionId": 23,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 50,
+    "CompositionId": 7,
+    "ChampionId": 27,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 51,
+    "CompositionId": 7,
+    "ChampionId": 44,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 52,
+    "CompositionId": 7,
+    "ChampionId": 40,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 53,
+    "CompositionId": 8,
+    "ChampionId": 21,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 54,
+    "CompositionId": 8,
+    "ChampionId": 49,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 55,
+    "CompositionId": 8,
+    "ChampionId": 25,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 56,
+    "CompositionId": 8,
+    "ChampionId": 11,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 57,
+    "CompositionId": 8,
+    "ChampionId": 34,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 58,
+    "CompositionId": 8,
+    "ChampionId": 54,
+    "Row": 1,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 59,
+    "CompositionId": 8,
+    "ChampionId": 13,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 68,
+    "CompositionId": 10,
+    "ChampionId": 49,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 69,
+    "CompositionId": 10,
+    "ChampionId": 26,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 70,
+    "CompositionId": 10,
+    "ChampionId": 35,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 71,
+    "CompositionId": 10,
+    "ChampionId": 7,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 72,
+    "CompositionId": 10,
+    "ChampionId": 14,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 73,
+    "CompositionId": 10,
+    "ChampionId": 48,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 74,
+    "CompositionId": 10,
+    "ChampionId": 13,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 75,
+    "CompositionId": 10,
+    "ChampionId": 34,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 76,
+    "CompositionId": 11,
+    "ChampionId": 4,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 77,
+    "CompositionId": 11,
+    "ChampionId": 35,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 78,
+    "CompositionId": 11,
+    "ChampionId": 32,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 79,
+    "CompositionId": 11,
+    "ChampionId": 24,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 80,
+    "CompositionId": 11,
+    "ChampionId": 51,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 81,
+    "CompositionId": 11,
+    "ChampionId": 48,
+    "Row": 1,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 82,
+    "CompositionId": 11,
+    "ChampionId": 5,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 90,
+    "CompositionId": 14,
+    "ChampionId": 4,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 91,
+    "CompositionId": 14,
+    "ChampionId": 25,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 92,
+    "CompositionId": 14,
+    "ChampionId": 32,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 93,
+    "CompositionId": 14,
+    "ChampionId": 7,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 94,
+    "CompositionId": 14,
+    "ChampionId": 62,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 95,
+    "CompositionId": 14,
+    "ChampionId": 44,
+    "Row": 0,
+    "Col": 2,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 96,
+    "CompositionId": 14,
+    "ChampionId": 46,
+    "Row": 0,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 97,
+    "CompositionId": 15,
+    "ChampionId": 37,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 98,
+    "CompositionId": 15,
+    "ChampionId": 56,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 99,
+    "CompositionId": 15,
+    "ChampionId": 8,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 100,
+    "CompositionId": 15,
+    "ChampionId": 20,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 101,
+    "CompositionId": 15,
+    "ChampionId": 48,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 102,
+    "CompositionId": 15,
+    "ChampionId": 12,
+    "Row": 1,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 103,
+    "CompositionId": 15,
+    "ChampionId": 39,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 104,
+    "CompositionId": 16,
+    "ChampionId": 56,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 105,
+    "CompositionId": 16,
+    "ChampionId": 25,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 106,
+    "CompositionId": 16,
+    "ChampionId": 32,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 107,
+    "CompositionId": 16,
+    "ChampionId": 49,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 108,
+    "CompositionId": 16,
+    "ChampionId": 41,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 109,
+    "CompositionId": 16,
+    "ChampionId": 18,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 110,
+    "CompositionId": 16,
+    "ChampionId": 58,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 111,
+    "CompositionId": 16,
+    "ChampionId": 63,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 112,
+    "CompositionId": 17,
+    "ChampionId": 56,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 113,
+    "CompositionId": 17,
+    "ChampionId": 49,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 114,
+    "CompositionId": 17,
+    "ChampionId": 25,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 115,
+    "CompositionId": 17,
+    "ChampionId": 32,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 116,
+    "CompositionId": 17,
+    "ChampionId": 40,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 117,
+    "CompositionId": 17,
+    "ChampionId": 41,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 118,
+    "CompositionId": 17,
+    "ChampionId": 28,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 119,
+    "CompositionId": 17,
+    "ChampionId": 42,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 120,
+    "CompositionId": 18,
+    "ChampionId": 4,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 121,
+    "CompositionId": 18,
+    "ChampionId": 25,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 122,
+    "CompositionId": 18,
+    "ChampionId": 35,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 123,
+    "CompositionId": 18,
+    "ChampionId": 7,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 124,
+    "CompositionId": 18,
+    "ChampionId": 33,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 125,
+    "CompositionId": 18,
+    "ChampionId": 48,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 126,
+    "CompositionId": 18,
+    "ChampionId": 59,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 127,
+    "CompositionId": 18,
+    "ChampionId": 44,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 128,
+    "CompositionId": 19,
+    "ChampionId": 9,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 129,
+    "CompositionId": 19,
+    "ChampionId": 50,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 130,
+    "CompositionId": 19,
+    "ChampionId": 26,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 131,
+    "CompositionId": 19,
+    "ChampionId": 31,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 132,
+    "CompositionId": 19,
+    "ChampionId": 23,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 133,
+    "CompositionId": 19,
+    "ChampionId": 48,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 134,
+    "CompositionId": 19,
+    "ChampionId": 7,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 135,
+    "CompositionId": 19,
+    "ChampionId": 14,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 143,
+    "CompositionId": 21,
+    "ChampionId": 56,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 144,
+    "CompositionId": 21,
+    "ChampionId": 25,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 145,
+    "CompositionId": 21,
+    "ChampionId": 32,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 146,
+    "CompositionId": 21,
+    "ChampionId": 18,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 147,
+    "CompositionId": 21,
+    "ChampionId": 27,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 148,
+    "CompositionId": 21,
+    "ChampionId": 28,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 149,
+    "CompositionId": 21,
+    "ChampionId": 62,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 150,
+    "CompositionId": 21,
+    "ChampionId": 41,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 158,
+    "CompositionId": 23,
+    "ChampionId": 56,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 159,
+    "CompositionId": 23,
+    "ChampionId": 25,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 160,
+    "CompositionId": 23,
+    "ChampionId": 32,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 161,
+    "CompositionId": 23,
+    "ChampionId": 49,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 162,
+    "CompositionId": 23,
+    "ChampionId": 41,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 163,
+    "CompositionId": 23,
+    "ChampionId": 42,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 164,
+    "CompositionId": 23,
+    "ChampionId": 46,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 165,
+    "CompositionId": 23,
+    "ChampionId": 28,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 166,
+    "CompositionId": 24,
+    "ChampionId": 49,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 167,
+    "CompositionId": 24,
+    "ChampionId": 25,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 168,
+    "CompositionId": 24,
+    "ChampionId": 56,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 169,
+    "CompositionId": 24,
+    "ChampionId": 41,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 170,
+    "CompositionId": 24,
+    "ChampionId": 18,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 171,
+    "CompositionId": 24,
+    "ChampionId": 61,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 172,
+    "CompositionId": 24,
+    "ChampionId": 57,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 173,
+    "CompositionId": 24,
+    "ChampionId": 64,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 174,
+    "CompositionId": 25,
+    "ChampionId": 21,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 175,
+    "CompositionId": 25,
+    "ChampionId": 50,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 176,
+    "CompositionId": 25,
+    "ChampionId": 61,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 177,
+    "CompositionId": 25,
+    "ChampionId": 31,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 178,
+    "CompositionId": 25,
+    "ChampionId": 23,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 179,
+    "CompositionId": 25,
+    "ChampionId": 14,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 180,
+    "CompositionId": 25,
+    "ChampionId": 43,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 181,
+    "CompositionId": 25,
+    "ChampionId": 9,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 182,
+    "CompositionId": 26,
+    "ChampionId": 4,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 183,
+    "CompositionId": 26,
+    "ChampionId": 35,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 184,
+    "CompositionId": 26,
+    "ChampionId": 40,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 185,
+    "CompositionId": 26,
+    "ChampionId": 16,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 186,
+    "CompositionId": 26,
+    "ChampionId": 26,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 187,
+    "CompositionId": 26,
+    "ChampionId": 41,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 188,
+    "CompositionId": 26,
+    "ChampionId": 27,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 189,
+    "CompositionId": 26,
+    "ChampionId": 18,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 190,
+    "CompositionId": 27,
+    "ChampionId": 32,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 191,
+    "CompositionId": 27,
+    "ChampionId": 56,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 192,
+    "CompositionId": 27,
+    "ChampionId": 25,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 193,
+    "CompositionId": 27,
+    "ChampionId": 30,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 194,
+    "CompositionId": 27,
+    "ChampionId": 28,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 195,
+    "CompositionId": 27,
+    "ChampionId": 46,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 196,
+    "CompositionId": 27,
+    "ChampionId": 61,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 197,
+    "CompositionId": 27,
+    "ChampionId": 6,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 198,
+    "CompositionId": 28,
+    "ChampionId": 56,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 199,
+    "CompositionId": 28,
+    "ChampionId": 37,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 200,
+    "CompositionId": 28,
+    "ChampionId": 25,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 201,
+    "CompositionId": 28,
+    "ChampionId": 20,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 202,
+    "CompositionId": 28,
+    "ChampionId": 48,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 203,
+    "CompositionId": 28,
+    "ChampionId": 39,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 204,
+    "CompositionId": 28,
+    "ChampionId": 12,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 205,
+    "CompositionId": 28,
+    "ChampionId": 8,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 206,
+    "CompositionId": 29,
+    "ChampionId": 29,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 207,
+    "CompositionId": 29,
+    "ChampionId": 23,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 208,
+    "CompositionId": 29,
+    "ChampionId": 53,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 209,
+    "CompositionId": 29,
+    "ChampionId": 44,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 210,
+    "CompositionId": 29,
+    "ChampionId": 18,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 211,
+    "CompositionId": 29,
+    "ChampionId": 41,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 212,
+    "CompositionId": 29,
+    "ChampionId": 62,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 213,
+    "CompositionId": 29,
+    "ChampionId": 27,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 221,
+    "CompositionId": 31,
+    "ChampionId": 49,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 222,
+    "CompositionId": 31,
+    "ChampionId": 21,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 223,
+    "CompositionId": 31,
+    "ChampionId": 25,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 224,
+    "CompositionId": 31,
+    "ChampionId": 13,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 225,
+    "CompositionId": 31,
+    "ChampionId": 34,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 226,
+    "CompositionId": 31,
+    "ChampionId": 54,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 227,
+    "CompositionId": 31,
+    "ChampionId": 33,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 228,
+    "CompositionId": 31,
+    "ChampionId": 59,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 229,
+    "CompositionId": 32,
+    "ChampionId": 49,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 230,
+    "CompositionId": 32,
+    "ChampionId": 50,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 231,
+    "CompositionId": 32,
+    "ChampionId": 26,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 232,
+    "CompositionId": 32,
+    "ChampionId": 13,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 233,
+    "CompositionId": 32,
+    "ChampionId": 11,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 234,
+    "CompositionId": 32,
+    "ChampionId": 34,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 235,
+    "CompositionId": 32,
+    "ChampionId": 54,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 236,
+    "CompositionId": 32,
+    "ChampionId": 21,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 237,
+    "CompositionId": 33,
+    "ChampionId": 9,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 238,
+    "CompositionId": 33,
+    "ChampionId": 50,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 239,
+    "CompositionId": 33,
+    "ChampionId": 31,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 240,
+    "CompositionId": 33,
+    "ChampionId": 14,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 241,
+    "CompositionId": 33,
+    "ChampionId": 43,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 242,
+    "CompositionId": 33,
+    "ChampionId": 29,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 243,
+    "CompositionId": 33,
+    "ChampionId": 53,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 244,
+    "CompositionId": 33,
+    "ChampionId": 23,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 245,
+    "CompositionId": 34,
+    "ChampionId": 21,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 246,
+    "CompositionId": 34,
+    "ChampionId": 50,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 247,
+    "CompositionId": 34,
+    "ChampionId": 61,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 248,
+    "CompositionId": 34,
+    "ChampionId": 3,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 249,
+    "CompositionId": 34,
+    "ChampionId": 45,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 250,
+    "CompositionId": 34,
+    "ChampionId": 35,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 251,
+    "CompositionId": 34,
+    "ChampionId": 49,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 252,
+    "CompositionId": 34,
+    "ChampionId": 1,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 253,
+    "CompositionId": 35,
+    "ChampionId": 4,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 254,
+    "CompositionId": 35,
+    "ChampionId": 35,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 255,
+    "CompositionId": 35,
+    "ChampionId": 32,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 256,
+    "CompositionId": 35,
+    "ChampionId": 7,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 257,
+    "CompositionId": 35,
+    "ChampionId": 41,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 258,
+    "CompositionId": 35,
+    "ChampionId": 44,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 259,
+    "CompositionId": 35,
+    "ChampionId": 59,
+    "Row": 1,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 260,
+    "CompositionId": 35,
+    "ChampionId": 25,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 261,
+    "CompositionId": 22,
+    "ChampionId": 32,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 262,
+    "CompositionId": 22,
+    "ChampionId": 35,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 263,
+    "CompositionId": 22,
+    "ChampionId": 6,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 264,
+    "CompositionId": 22,
+    "ChampionId": 38,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 265,
+    "CompositionId": 22,
+    "ChampionId": 23,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 266,
+    "CompositionId": 22,
+    "ChampionId": 29,
+    "Row": 1,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 267,
+    "CompositionId": 22,
+    "ChampionId": 30,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 268,
+    "CompositionId": 36,
+    "ChampionId": 37,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 269,
+    "CompositionId": 36,
+    "ChampionId": 35,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 270,
+    "CompositionId": 36,
+    "ChampionId": 38,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 271,
+    "CompositionId": 36,
+    "ChampionId": 16,
+    "Row": 2,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 272,
+    "CompositionId": 36,
+    "ChampionId": 60,
+    "Row": 2,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 273,
+    "CompositionId": 36,
+    "ChampionId": 40,
+    "Row": 1,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 274,
+    "CompositionId": 36,
+    "ChampionId": 36,
+    "Row": 0,
+    "Col": 3,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 275,
+    "CompositionId": 2,
+    "ChampionId": 52,
+    "Row": 3,
+    "Col": 0,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 276,
+    "CompositionId": 2,
+    "ChampionId": 4,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 277,
+    "CompositionId": 2,
+    "ChampionId": 49,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 278,
+    "CompositionId": 2,
+    "ChampionId": 25,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 279,
+    "CompositionId": 2,
+    "ChampionId": 53,
+    "Row": 3,
+    "Col": 6,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 280,
+    "CompositionId": 2,
+    "ChampionId": 59,
+    "Row": 0,
+    "Col": 0,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 281,
+    "CompositionId": 2,
+    "ChampionId": 33,
+    "Row": 0,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 282,
+    "CompositionId": 2,
+    "ChampionId": 44,
+    "Row": 0,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 283,
+    "CompositionId": 2,
+    "ChampionId": 55,
+    "Row": 0,
+    "Col": 6,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 298,
+    "CompositionId": 39,
+    "ChampionId": 22,
+    "Row": 0,
+    "Col": 0,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 299,
+    "CompositionId": 39,
+    "ChampionId": 45,
+    "Row": 1,
+    "Col": 0,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 300,
+    "CompositionId": 39,
+    "ChampionId": 16,
+    "Row": 2,
+    "Col": 0,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 301,
+    "CompositionId": 39,
+    "ChampionId": 15,
+    "Row": 3,
+    "Col": 0,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 302,
+    "CompositionId": 39,
+    "ChampionId": 21,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 303,
+    "CompositionId": 39,
+    "ChampionId": 30,
+    "Row": 3,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 304,
+    "CompositionId": 39,
+    "ChampionId": 1,
+    "Row": 3,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 332,
+    "CompositionId": 30,
+    "ChampionId": 5,
+    "Row": 0,
+    "Col": 0,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 333,
+    "CompositionId": 30,
+    "ChampionId": 44,
+    "Row": 0,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 334,
+    "CompositionId": 30,
+    "ChampionId": 33,
+    "Row": 0,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 335,
+    "CompositionId": 30,
+    "ChampionId": 59,
+    "Row": 0,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 336,
+    "CompositionId": 30,
+    "ChampionId": 7,
+    "Row": 0,
+    "Col": 6,
+    "IsCarry": true,
+    "StarLevel": 3
+  },
+  {
+    "Id": 337,
+    "CompositionId": 30,
+    "ChampionId": 26,
+    "Row": 3,
+    "Col": 0,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 338,
+    "CompositionId": 30,
+    "ChampionId": 25,
+    "Row": 3,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 339,
+    "CompositionId": 30,
+    "ChampionId": 53,
+    "Row": 3,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 340,
+    "CompositionId": 30,
+    "ChampionId": 4,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 3
+  },
+  {
+    "Id": 350,
+    "CompositionId": 20,
+    "ChampionId": 48,
+    "Row": 0,
+    "Col": 0,
+    "IsCarry": true,
+    "StarLevel": 1
+  },
+  {
+    "Id": 351,
+    "CompositionId": 20,
+    "ChampionId": 20,
+    "Row": 0,
+    "Col": 1,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 352,
+    "CompositionId": 20,
+    "ChampionId": 51,
+    "Row": 1,
+    "Col": 0,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 353,
+    "CompositionId": 20,
+    "ChampionId": 61,
+    "Row": 1,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 354,
+    "CompositionId": 20,
+    "ChampionId": 52,
+    "Row": 3,
+    "Col": 2,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 355,
+    "CompositionId": 20,
+    "ChampionId": 56,
+    "Row": 3,
+    "Col": 3,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 356,
+    "CompositionId": 20,
+    "ChampionId": 37,
+    "Row": 3,
+    "Col": 4,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 357,
+    "CompositionId": 20,
+    "ChampionId": 49,
+    "Row": 3,
+    "Col": 5,
+    "IsCarry": false,
+    "StarLevel": 1
+  },
+  {
+    "Id": 358,
+    "CompositionId": 20,
+    "ChampionId": 26,
+    "Row": 3,
+    "Col": 6,
+    "IsCarry": false,
+    "StarLevel": 1
+  }
+]

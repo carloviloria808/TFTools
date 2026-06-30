@@ -1,0 +1,2114 @@
+[
+  {
+    "Id": 1,
+    "Name": "AFK",
+    "Description": "You cannot perform actions for the next 3 rounds. Afterwards, gain 20 gold.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/afk1.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 2,
+    "Name": "Augmented Power",
+    "Description": "Your next augment is one tier higher.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/powerup_i.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 3,
+    "Name": "Backup Bows",
+    "Description": "Gain a Recurve Bow. After your team attacks 1000 times, gain 2 more. Attacks:",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/backup-bows.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 5,
+    "Name": "Band of Thieves",
+    "Description": "Gain 1 Thief's Gloves.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/bandofthieves1.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 6,
+    "Name": "Best Friends I",
+    "Description": "Allies isolated in pairs gain 10% Attack Speed and 13 Armor at the start of combat.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/bestfriends1.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 7,
+    "Name": "Bonk!",
+    "Description": "\r\nGain a Nasus. Your strongest Nasus becomes an Attack Fighter with a single target Ability that gets stronger with each kill.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft17_augment_nasuscarry.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 8,
+    "Name": "\r\nBoxing Lessons",
+    "Description": "Your team gains 30 Health for each ally that starts combat in the front row.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/boxing-lessons.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 9,
+    "Name": "Branching Out",
+    "Description": "Gain a random Emblem.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/branching-out-i.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 10,
+    "Name": "Branching Out+",
+    "Description": "Gain a random Emblem and a Reforger.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/branching-out-i.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 11,
+    "Name": "Caretaker's Ally",
+    "Description": "Gain a random 2-cost champion now. Gain the same one again every time you level up.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/caretakers-ally.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 13,
+    "Name": "Carve a Path",
+    "Description": "Gain a B.F. Sword. After your team deals 65000 physical damage, gain 2 more.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/carve-a-path.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 14,
+    "Name": "Charge Transfer I",
+    "Description": "Your team gains 5% Damage Amp. 50% of overkill damage is dealt to the nearest enemy as magic damage.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_chargetransfer1.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 16,
+    "Name": "\r\nClimb The Ladder I",
+    "Description": "Each time an ally dies, allies that share at least one trait with them gain 3% Ability Power, 3% Attack Damage, 3 Armor, and 3 Magic Resist.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/climbtheladder_i.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 17,
+    "Name": "Cognitive Tax",
+    "Description": "Gain 8 gold and 1 XP.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_cognitivetaxplus.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 18,
+    "Name": "Cognitive Tax+",
+    "Description": "Gain 12 gold and 3 XP.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_cognitivetaxplus.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 19,
+    "Name": "Continuous Conjuration",
+    "Description": "Gain a Needlessly Large Rod. After your team deals 38000 magic damage, gain 2 more.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/continuous-conjuration.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 20,
+    "Name": "Corrosion",
+    "Description": "Enemy champions in the first two rows lose 4 Armor and Magic Resist every 2 seconds.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/corrosion_i.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 21,
+    "Name": "Crafted Crafting",
+    "Description": "Whenever you craft a completed item, gain 2 rerolls.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/craftedcrafting_i.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 22,
+    "Name": "Critical Success",
+    "Description": "Gain a Sparring Glove. After your team's attacks critically strike 320 times, gain 2 more.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/critical-success.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 24,
+    "Name": "Dummify",
+    "Description": "Lose all champions on your board and bench. Gain a Training Dummy with 60% of their combined Health. The Training Dummy gains 1000 Health per stage. Gain a non-Tank 2-star 2-cost champion.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/dummify_i.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 25,
+    "Name": "Electrocharge I",
+    "Description": "Every 4 attacks an ally takes, they deal 30-90 (based on current Stage) magic damage to nearby enemies (1 second cooldown).",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/electrocharge1.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 27,
+    "Name": "Exiles I",
+    "Description": "Your champions that start combat with no adjacent champions gain a 20% max Health shield for 10 seconds.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/exiles1.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 28,
+    "Name": "Expedition",
+    "Description": "At the start of every round, lose the champion in the rightmost bench slot. After losing 1 gold of champions in this way, gain a powerful reward. Gain a 3-cost champion now.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_expedition.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 29,
+    "Name": "Extra Buckles",
+    "Description": "Gain a Giant's Belt. After your team takes 75000 damage, gain 2 more.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/extra-buckles.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 30,
+    "Name": "Feeling Lucky",
+    "Description": "Gain 12 gold, then flip a coin. If heads, gain 4 more gold.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_feelinglucky.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 31,
+    "Name": "Find Your Center",
+    "Description": "\r\nYour champion that starts combat in the center of the front row gains 15% Damage Amp and 25% max Health.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/find-your-center.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 32,
+    "Name": "Firesale",
+    "Description": "Each round, steal a random 3-cost or lower champion from the shop. Gain 1 gold.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/firesale_i.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 33,
+    "Name": "Flowing Tears",
+    "Description": "Gain a Tear of the Goddess. After your team spends 6500 Mana, gain 2 more.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/flowing-tears.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 34,
+    "Name": "Focused Fire",
+    "Description": "Your team gains 10% Attack Damage. Every 5 seconds, they gain 5% more.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/focused-fire.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 35,
+    "Name": "Forge a Friend",
+    "Description": "The next 1-cost champion you buy is 3-star. Gain 2 gold.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/t1.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 36,
+    "Name": "Glass Cannon I",
+    "Description": "\r\nAllies that start combat in the back row begin combat at 80% Health but gain 16% Damage Amp.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/glasscannon_i.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 37,
+    "Name": "\r\nGood For Something I",
+    "Description": "Champions that aren't holding items have a 40% chance to drop 1 gold on death.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/good-for-something-i.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 38,
+    "Name": "Group Hug I",
+    "Description": "Combat start: Allies grant other adjacent allies 7 Armor and Magic Resist. This effect stacks.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_grouphug1.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 39,
+    "Name": "Healing Orbs I",
+    "Description": "When an enemy dies, the nearest ally is healed for 220.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/healing-orbs-i.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 40,
+    "Name": "Iron Assets",
+    "Description": "Gain a component anvil and 3 gold.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/iron-assets-i.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 41,
+    "Name": "Item Grab Bag",
+    "Description": "Gain 1 random completed item.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/item-grab-bag-1.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 42,
+    "Name": "Kick Start",
+    "Description": "Gain a random 2-star 2-cost champion and 1 gold.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_kickstart.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 43,
+    "Name": "Late Game Specialist",
+    "Description": "When you reach Level 9, gain 36 gold.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/lategamespecialist1.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 44,
+    "Name": "Latent Forge",
+    "Description": "After 8 player combats, gain an Artifact anvil.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/latentforge1.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 45,
+    "Name": "Lineup",
+    "Description": "Your team gains 2 Armor and Magic Resist for each ally that starts combat in the front two rows.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/lineup-i.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 46,
+    "Name": "Lunch Money",
+    "Description": "Every 8 damage you deal to enemy tacticians gives you 2 gold. ",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/lunch-money.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 47,
+    "Name": "Makeshift Armor I",
+    "Description": "Allies without items equipped gain 30 Armor and Magic Resist.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/makeshift.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 48,
+    "Name": "Missed Connections",
+    "Description": "Gain a copy of each 1-cost champion.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/missed-connections-i.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 49,
+    "Name": "\r\nOn a Roll",
+    "Description": "Whenever you star up a champion that you fielded last combat, gain 2 free Shop rerolls. Gain 2 gold.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/on-a-roll-i.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 50,
+    "Name": "One, Two, Five!",
+    "Description": "Gain 1 random component, 2 gold, and 1 random 5-cost champion.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/one-two-five-i.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 51,
+    "Name": "\r\nOne Two Three",
+    "Description": "Gain 1 1-cost champion, 1 2-cost champion, and 1 3-cost champion.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/onetwosthree1.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 52,
+    "Name": "Pandora's Items",
+    "Description": "Round start: items on your bench are randomized. Gain 1 random component.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/pandora.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 53,
+    "Name": "Partial Ascension",
+    "Description": "After 12 seconds of combat, your team gains 20% Damage Amp.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/ascension1.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 54,
+    "Name": "Patience is a Virtue",
+    "Description": "Each round, gain 2 free rerolls if you did not buy a champion last round.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/patience-is-a-virtue.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 55,
+    "Name": "Recombobulator",
+    "Description": "Champions on your board permanently transform into random champions 1 cost tier higher (max 5). Gain 2 Magnetic Removers.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/recombobulator1.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 57,
+    "Name": "Restart Mission",
+    "Description": "Remove all champions on your board and bench. Gain 2 random 2-star 3-costs, 3 2-star 2-costs, and 1 2-star 1-cost champion.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/restartmission_i.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 59,
+    "Name": "Risky Moves",
+    "Description": "Your Tactician loses 20 Health, but after 7 player combats, gain 30 gold.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/risky-moves-i.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 60,
+    "Name": "Rolling For Days I",
+    "Description": "Gain 10 free Shop rerolls.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/rolling-for-days-1.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 61,
+    "Name": "Second Wind",
+    "Description": "After 10 seconds of combat, your team heals 40% of their missing Health.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/secondwind1.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 62,
+    "Name": "\r\nSilver Spoon",
+    "Description": "Gain 10 XP.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/silver-spoon-i.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 65,
+    "Name": "Size Matters",
+    "Description": "Gain a Giant's Belt. After a champion starts combat with more than max Health, gain a Warmog's Armor.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_sizematters.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 66,
+    "Name": "Slice of Life",
+    "Description": "Twice per stage, gain a random champion. Its cost increases by Stage. This effect ends after receiving 1 5-cost champion.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_sliceoflife.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 67,
+    "Name": "Slightly Magic Roll",
+    "Description": "Roll a die. Gain rewards based on the number rolled.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/slightly-magic-roll.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 68,
+    "Name": "Small Grab Bag",
+    "Description": "Gain 2 random item components.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/small-grab-bag.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 69,
+    "Name": "Stand United",
+    "Description": "Gain 1.5% Attack Damage and 1.5% Ability Power for each non-unique Trait active across your team.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/standunited1.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 70,
+    "Name": "Stellar Combo",
+    "Description": "Gain an Aatrox. Your strongest Aatrox becomes an Attack Fighter with an ability that swaps between three different strikes.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft17_augment_aatroxcarry.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 71,
+    "Name": "Survivor",
+    "Description": "Gain 4 gold. After 3 players are eliminated, gain 100 more gold.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/lonesurvivor_i.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 72,
+    "Name": "Team Building",
+    "Description": "Gain a Lesser Champion Duplicator. Gain another after 5 player combats.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/building-an-army-i.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 73,
+    "Name": "Teaming Up",
+    "Description": "Gain 1 random component and 2 random 3-cost champions.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/teaming-up-1-new.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 74,
+    "Name": "Termeepnal Velocity",
+    "Description": "Gain a Poppy. Your strongest Poppy becomes a ranged Attack Caster that flings a high-velocity Meep at her target.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft17_augment_poppycarry.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 75,
+    "Name": "The Tower",
+    "Description": "Gain 450/700/1250/1600 Health based on round. Also grants holder 15% Critical Strike Chance.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_thetower.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 76,
+    "Name": "\r\nTiny Titans",
+    "Description": "Increase your current and max player health by 30.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tinytitans1.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 77,
+    "Name": "Twin Guardians",
+    "Description": "If you have exactly 2 allies in your first row, grant them 100 bonus Health, 45 Armor, and 45 Magic Resist.",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/twin-guardians.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 78,
+    "Name": "Vampiric Vitality I",
+    "Description": "You heal for 12% of the damage you deal to enemy Tacticians. Your team gains 10% Omnivamp.\r\n\r\n",
+    "Tier": "1",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/t1.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 79,
+    "Name": "Advanced Loan",
+    "Description": "Gain 20 Gold. Your next augment is one tier lower.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/advanced-loan.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 80,
+    "Name": "Advanced Loan+",
+    "Description": "Gain 33 Gold. Your next augment is one tier lower.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/advanced-loan.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 81,
+    "Name": "A Magic Roll",
+    "Description": "Roll 3 dice. Gain rewards based on their total. ",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/a-magical-roll-ii.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 82,
+    "Name": "Anima Commander",
+    "Description": "Gain a Briar, a Jinx, and an Illaoi. Increase your current and max player Health by 10.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft17_augment_animasquad_commander.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 83,
+    "Name": "Apotheotic Forge",
+    "Description": "Choose 1 of 4 Divine Artifacts.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft17_augment_apotheoticforge.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 84,
+    "Name": "\r\nArcane Viktor-y",
+    "Description": "After 8 seconds of combat, stun the enemy team for 1.5 seconds. Repeat this after 18 seconds of combat. TFT Macao Open, 2024",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/arcane-viktor-y.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 85,
+    "Name": "Ascension",
+    "Description": "After 12 seconds of combat, your team gains 35% Damage Amp.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/ascension2.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 86,
+    "Name": "\r\nAura Farming",
+    "Description": "Gain a 2-star 5-cost champion holding a recommended item. You cannot field it until Stage 4-3.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/aurafarming_ii.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 87,
+    "Name": "Backline Blueprint",
+    "Description": "Gain a 3-cost non-Tank champion and an Emblem that matches their last-listed trait.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_backlineblueprint.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 88,
+    "Name": "Best Friends II",
+    "Description": "Allies isolated in pairs gain 15% Attack Speed and 22 Armor at the start of combat.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/bestfriends2.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 89,
+    "Name": "Big Grab Bag",
+    "Description": "Gain 3 random components, 2 gold, and 1 Reforger.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/big-grab-bag.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 90,
+    "Name": "\r\nBirthday Reunion",
+    "Description": "Gain a random 2-star 2-cost champion. When you reach Level 7, gain a Thief's Gloves. When you reach Level 9, gain a random 2-star 5-cost champion. Inkborn Fables Tactician's Crown, 2024",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/birthday-reunion.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 91,
+    "Name": "Blood Offering",
+    "Description": "Gain a Bloodthirster. Combat start: Allies holding Bloodthirsters lose 20% Health but gain a 30% Health shield and 10% Attack Damage.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/blood-offering.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 92,
+    "Name": "Bodyguard Training",
+    "Description": "Allies gain 10 Armor and Magic Resist, increased by 3 per player level. Gizmos & Gadgets Championship, 2022",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/bodyguard-training.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 93,
+    "Name": "Booster Pack",
+    "Description": "Gain 10 gold of random champions. (At least one 3-cost guaranteed!)",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_boosterpackplusplus.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 94,
+    "Name": "Booster Pack+",
+    "Description": "Gain 18 gold of random champions. (At least one 4-cost guaranteed!)",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_boosterpackplusplus.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 95,
+    "Name": "\r\nBooster Pack++",
+    "Description": "Gain 26 gold of random champions. (At least one 5-cost guaranteed!)",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_boosterpackplusplus.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 96,
+    "Name": "Bronze For Life I",
+    "Description": "Your team gains 2.5% Damage Amp for each Bronze-tier trait. Damage Amp Bonus:",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/bronzeforlife_ii.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 97,
+    "Name": "Calculated Loss",
+    "Description": "After losing your combat, gain 2 gold and a free Shop reroll.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/calculatedloss2.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 98,
+    "Name": "Care Package",
+    "Description": "Now and at the start of the next 2 Stages, receive a care package with loot and 3 gold.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/carepackage_ii.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 99,
+    "Name": "Charge Transfer II",
+    "Description": "Your team gains 8% Damage Amp. 80% of overkill damage is dealt to the nearest enemy as magic damage.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_chargetransfer2.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 100,
+    "Name": "Clear Mind",
+    "Description": "If there are no champions on your bench at the end of player combat, gain 3 XP.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/clearmind2.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 101,
+    "Name": "Climb The Ladder II",
+    "Description": "Each time an ally dies, allies that share at least one trait with them gain 5% Ability Power, 5% Attack Damage, 5 Armor, and 5 Magic Resist.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/climbtheladder_ii.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 102,
+    "Name": "\r\nClockwork Accelerator",
+    "Description": "Your team gains 10% Attack Speed every 3 seconds in combat.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/clockwork-accelerator.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 103,
+    "Name": "Cluttered Mind",
+    "Description": "Gain 4 random 1-cost champions now. If your bench is full at the end of player combat, gain 3 XP.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/clutteredmind2.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 104,
+    "Name": "Cognitive Overload",
+    "Description": "Gain 7 gold, 1 2-star 1-cost champion, 1 2-cost champion, 1 3-cost champions, 1 XP, and 2 Shop reroll.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_cognitiveoverload.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 105,
+    "Name": "Contract Killer",
+    "Description": "\r\nGain a Pyke. Your strongest Pyke becomes an Attack Fighter, generates gold on team takedown, and gains a reset on-kill Ability.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft17_augment_pykecarry.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 106,
+    "Name": "Cosmic Restart",
+    "Description": "Reroll your shop 8 times. Gain a random component.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_cosmicrestart.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 107,
+    "Name": "\r\nCrash Test Dummies",
+    "Description": "Gain 2 Training Dummies. Combat start: Your Training Dummies launch themselves towards a group of enemies and Stun them for 1 seconds.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/crashdummies.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 108,
+    "Name": "Cry Me A River",
+    "Description": "Gain a Tear of the Goddess. Your team gains 1 Mana Regen. After 12 seconds in combat, increase this to 3.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/cry-me-a-river.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 109,
+    "Name": "Cybernetic Implants\r\n",
+    "Description": "Allies holding an item gain 100 Health and 20% Attack Damage. Gain a B.F. Sword.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/cybernetic2.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 110,
+    "Name": "Cybernetic Uplink II",
+    "Description": "\r\nYour champions holding an item gain 120 Health and restore 2 Mana per second.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/cyberneticuplink2.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 111,
+    "Name": "Duo Queue",
+    "Description": "Gain 2 random 5-cost champions and 2 copies of a random component.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/duo-queue.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 112,
+    "Name": "Early Learnings",
+    "Description": "\r\nYour team gains 8% Attack Damage & Ability Power. This increases by 1% after each player combat. 1-cost champions gain double. TFT Vegas Open, 2023",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/early-learnings.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 113,
+    "Name": "Electrocharge II",
+    "Description": "Every 4 attacks an ally takes, they deal 50-140 (based on current Stage) magic damage to nearby enemies (1 second cooldown).",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/electrocharge2.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 114,
+    "Name": "Epic Rolldown",
+    "Description": "When you reach Level 8, gain 20 Shop rerolls. Runeterra Reforged Championship, 2023",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/epic-rolldown.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 115,
+    "Name": "Epoch",
+    "Description": "\r\nNow, and at the start of every stage, gain 4 XP and 2 free rerolls.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/epoch.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 116,
+    "Name": "Epoch+",
+    "Description": "\r\nNow, and at the start of every stage, gain 8 XP and 2 free rerolls.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/epoch.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 117,
+    "Name": "Exclusive Customization",
+    "Description": "Gain a Lucky Item Chest, a Magnetic Remover, and 10 gold.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/exclusivecustomization_ii.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 118,
+    "Name": "Exiles II",
+    "Description": "Your champions that start combat with no adjacent champions gain a 30% max Health shield for 10 seconds.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/exiles2.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 119,
+    "Name": "Explosive Growth",
+    "Description": "Now and at the start of the next 3 rounds, gain 7 XP.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/explosive-growth.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 120,
+    "Name": "Explosive Growth+",
+    "Description": "Now and at the start of the next 3 rounds, gain 10 XP.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/explosive-growth.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 121,
+    "Name": "Feed the Flames",
+    "Description": "Gain a Sunfire Cape. Your team gains 12% Omnivamp when attacking Burning enemies.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_feedtheflames.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 123,
+    "Name": "Forward Thinking",
+    "Description": "Lose all your gold. After 1 player combats, gain back the original amount and another 70 gold.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/forwardthinking_ii.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 125,
+    "Name": "Frontline Foundation",
+    "Description": "Gain a 2-star 1-cost Tank champion and an Emblem that matches their last-listed trait.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_frontlinefoundation.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 126,
+    "Name": "Gain 21 Gold",
+    "Description": "Gain 21 gold.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/gain-21-gold.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 127,
+    "Name": "Gilded Steel",
+    "Description": "Gain 2 non-Tank 5-cost champions. If you field at least one 5-cost champion, your 1 to 4-cost champions gain 8% Durability. K.O. Coliseum Tactician's Crown, 2025",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/t2.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 128,
+    "Name": "Glass Cannon II",
+    "Description": "Allies that start combat in the back row begin combat at 80% Health but gain 25% Damage Amp.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/glasscannon_ii.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 129,
+    "Name": "Group Hug II",
+    "Description": "Combat start: Allies grant other adjacent allies 10 Armor and Magic Resist. This effect stacks.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_grouphug2.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 130,
+    "Name": "Healing Orbs II",
+    "Description": "When an enemy dies, the nearest ally is healed for 500.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/healing-orbs-ii.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 131,
+    "Name": "Heart of Steel",
+    "Description": "Gain a Steadfast Heart. Every 10 seconds of combat its holder survives, Steadfast Heart gains additional permanent max Health.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/heart-of-steel.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 132,
+    "Name": "Heavy Is the Crown",
+    "Description": "Gain a Crown of Demacia, which provides significant bonuses to the wearer. If the holder dies, lose the round.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/t2.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 133,
+    "Name": "Heroic Grab Bag",
+    "Description": "Gain 2 Lesser Champion Duplicators and 5 gold.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/heroic-grab-bag.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 136,
+    "Name": "Heroic Grab Bag+",
+    "Description": "Gain 2 Lesser Champion Duplicators and 8 gold.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/heroic-grab-bag.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 137,
+    "Name": "\r\nHeroic Grab Bag++",
+    "Description": "Gain 2 Lesser Champion Duplicators and 14 gold.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/heroic-grab-bag.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 138,
+    "Name": "High Voltage",
+    "Description": "Gain an Ionic Spark. Your Ionic Sparks have +3 hex radius and do 20% more damage.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/high-voltage.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 139,
+    "Name": "Hustler",
+    "Description": "You no longer gain interest but gain 3 gold at the start of every player combat round. Gain 3 gold now.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/hustler2.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 140,
+    "Name": "Indiscriminate Killer",
+    "Description": "Gain a Giant Slayer. Giant Slayers gain their Damage Amp against all enemies instead of just Tanks.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/indiscriminate-killer.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 141,
+    "Name": "Infinity Protection",
+    "Description": "Gain 3 gold now. On Stage 3-7, gain an Infinity Force. Infinity Force gives allies in the same row a 12% Health shield. Monsters Attack Championship, 2023",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/infinity-protection.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 142,
+    "Name": "Invader Zed",
+    "Description": "Gain a Spear of Shojin. On Stage 4-2, gain a Zed. After receiving Zed, he can then appear in your shops. Zed is a 5-cost Attack Fighter that creates clones of himself.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft17_augment_invaderzed.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 143,
+    "Name": "Jeweled Lotus I",
+    "Description": "Your team gains 20% Critical Strike Chance and Precision.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/jeweledlotus2.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 144,
+    "Name": "\r\nKahunahuna",
+    "Description": "Every 5th attack deals bonus true damage equal to 150% Basic Attack Damage.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/t2.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 145,
+    "Name": "Know Your Enemy",
+    "Description": "You can see who you will fight next. Your team gains 8% Damage Amp, increased to 15% if you and your opponent have any of the same traits active.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/know-your-enemy-ii.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 146,
+    "Name": "\r\nLast Second Save",
+    "Description": "The first time each ally falls below 35% Health, they restore 20% maximum Health.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/last-second-save.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 147,
+    "Name": "Late Game Scaling",
+    "Description": "Gain 2 XP at the start of player combat rounds. Your 5-cost champions gain 12% Health and 12% Attack Speed. Cyber City Tactician's Crown, 2025",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/late-game-scaling.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 148,
+    "Name": "Legion of Threes",
+    "Description": "Gain a random Emblem. Your 3-cost champions and all allies equipped with an Emblem gain 150 Health and 12% Attack Speed. Reckoning Championship, 2021",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/legion-of-threes.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 149,
+    "Name": "Little Buddies",
+    "Description": "Your 4-cost and 5-cost champions gain 55 Health and 6% Attack Speed for every 1-cost and 2-cost champion on your board.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/little-buddies.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 150,
+    "Name": "Mace's Will",
+    "Description": "Holder gains 25% Critical Strike Chance. Attacks deal bonus true damage.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/will-of-the-flail-ii.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 151,
+    "Name": "Makeshift Armor II\r\n",
+    "Description": "Allies without items equipped gain 50 Armor and Magic Resist.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/makeshift2.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 152,
+    "Name": "Malicious Monetization",
+    "Description": "Gain 4 gold. For the next 2 rounds, enemy champions drop 2 gold when killed.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/mirroredmonetization_ii.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 153,
+    "Name": "\r\nMay the Fours Be With You",
+    "Description": "Gain 144 Health and a 2-cost champion.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_maythefoursbewithyou.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 154,
+    "Name": "\r\nMisfits",
+    "Description": "Your team gains 55 Health for each active Unique trait. Gain a Rhaast and a Miss Fortune.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_misfits.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 155,
+    "Name": "Money Hungry",
+    "Description": "Gain 7 gold now, then 7 gold at the start of every stage. Picking up gold makes your Tactician larger.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/t2.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 156,
+    "Name": "NO SCOUT NO PIVOT",
+    "Description": "Champions that fight in player combat cannot be benched or sold. Your team gains 1% Health, and 1.5% Attack Damage and Ability Power after player combat.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/noscoutnopivot_ii.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 157,
+    "Name": "\r\nPandora's Bench",
+    "Description": "\r\nAt the start of every round, champions on the 3 rightmost bench slots transform into random champions of the same cost. Gain 6 gold.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/pandorasbench2.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 158,
+    "Name": "Pandora's Items II",
+    "Description": "Round start: items on your bench are randomized. Gain 2 random components.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/pandorasitems2.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 159,
+    "Name": "Patient Study",
+    "Description": "After player combat, gain 2 XP if you won or 3 XP if you lost.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/patientstudy2.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 160,
+    "Name": "\r\nPilfer",
+    "Description": "\r\nEach round, gain a 1-star copy of the first champion you killed last combat. The first time you gain 21 gold worth of champions in this way, gain a Thief's Gloves.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/pilfer_ii.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 161,
+    "Name": "\r\nPlot Armor",
+    "Description": "Your team gains 8 Armor and Magic Resist. After falling below 50% Health, increase this to 40 for the rest of combat.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/plot-armor.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 162,
+    "Name": "Portable Forge",
+    "Description": "Choose 1 of 4 Artifacts.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/portable-forge2.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 163,
+    "Name": "\r\nPrizefighter",
+    "Description": "Gain 2 item components. Every 5 wins gives you an item component.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/prizefighter.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 164,
+    "Name": "\r\nPyromaniac",
+    "Description": "Gain a Red Buff. Your Burns deal 50% increased damage.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/pyromaniac_ii.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 165,
+    "Name": "Reach for the Stars",
+    "Description": "Gain a Jax. Your strongest Jax becomes a Magic Fighter that deal bonus magic damage on attack and gains stacking Attack Speed on cast.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft17_augment_jaxcarry.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 166,
+    "Name": "ReinFOURcement",
+    "Description": "The next 4-cost champion you buy with gold is instantly upgraded to 2-star. Gain 5 gold.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/reinfourcement.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 167,
+    "Name": "Replication",
+    "Description": "Choose 1 of 3 components. For the next 2 rounds, gain a copy of that component.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/replication-ii.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 169,
+    "Name": "Salvage Bin",
+    "Description": "Gain 1 random completed item now, and 1 component after 8 player combats. Selling champions breaks completed items into components (excluding Tactician's items and Emblems).",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/salvagebin2.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 170,
+    "Name": "\r\nSalvage Bin+",
+    "Description": "Gain 1 random completed item now, and 1 component after 4 player combats. Selling champions breaks completed items into components (excluding Tactician's items and Emblems).",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/salvagebin2.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 171,
+    "Name": "\r\nSavings Account",
+    "Description": "After you earn 50 gold in interest, gain 30 gold. Your max interest is increased to 7. Gain 4 gold now. ",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/savings-account.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 172,
+    "Name": "Second Wind II",
+    "Description": "After 10 seconds of combat, your team heals 60% of their missing Health.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/secondwind2.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 173,
+    "Name": "\r\nSeraphim's Staff",
+    "Description": "Gain an Archangel's Staff. Archangel's Staff grants 2 additional Mana Regen if its holder has 90% or more Ability Power.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/seraphim's-staff.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 174,
+    "Name": "Side Effects",
+    "Description": "When an ally is healed, they deal 50% of the healing to their target as magic damage. Every 5 seconds, allies heal for 4% of their max Health.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_sideeffects.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 175,
+    "Name": "Slammin'",
+    "Description": "Gain 3 gold. After each player combat, if there are no items on your bench (other than consumables), gain 2 XP.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/slammin.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 176,
+    "Name": "Slammin'+",
+    "Description": "Gain 8 gold and 10 XP now. After each player combat, if there are no items on your bench (other than consumables), gain 2 XP.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/slammin.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 177,
+    "Name": "Solo Leveling",
+    "Description": "For the next 5 combats, your team size is 1 but the champion you field has massively increased stats. Gain 1 XP for every kill they get. Afterwards, gain 2 item components.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/solo-leveling.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 178,
+    "Name": "Solo Plate",
+    "Description": "Gain a Gargoyle Stoneplate. Combat start: Allies holding Gargoyle Stoneplate gain 20% max Health if they're the only one in their row.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/solo-plate.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 179,
+    "Name": "Speedy Double Kill",
+    "Description": "Gain a Guinsoo's Rageblade. When 2 players are eliminated, gain 40 gold. Fates Championship, 2021",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/speedy-double-kill.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 180,
+    "Name": "Spirit of Redemption",
+    "Description": "Gain a Spirit Visage. Every 5 seconds, Spirit Visage heals allies within 1 hex for 7.5% of their missing Health.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/spirit-of-redemption.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 181,
+    "Name": "\r\nSpreading Roots",
+    "Description": "Gain 2 random Emblems and 1 gold.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/spreading-roots.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 182,
+    "Name": "Spreading Roots+",
+    "Description": "Gain 2 random Emblems, a Reforger, and 2 gold.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/spreading-roots.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 183,
+    "Name": "Staffsmith",
+    "Description": "Gain 2 random completed items that build from Needlessly Large Rod.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/staffsmith.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 184,
+    "Name": "Sunfire Board",
+    "Description": "Combat Start: Burn all enemies for 15% of their max Health over 15 seconds and reduce healing received by 33%.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/sunfireboard.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 185,
+    "Name": "Swordsmith",
+    "Description": "Gain 2 random completed items that build from B.F. Sword.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/swordsmith.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 186,
+    "Name": "\r\nThe Big Bang",
+    "Description": "Gain a Meepsie. Your strongest Meepsie becomes a Magic Fighter that leaps to a nearby hex to deal damage in a large radius.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/t2.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 187,
+    "Name": "Tons of Stats!",
+    "Description": "Your team gains 44 Health, 4% Attack Damage, 4% Ability Power, 4 Armor, 4 Magic Resist, 4% Attack Speed, and 4 Mana.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tons-of-stats-ii.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 188,
+    "Name": "Trade Sector",
+    "Description": "Gain a free Shop reroll every round. Gain 2 gold.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tradesector2.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 189,
+    "Name": "Treasure Hunt",
+    "Description": "Gain a locked chest each Stage between now and Stage. Unlock each chest when you spend gold on Shop rerolls. These chests persist until opened.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/treasurehunt_ii.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 190,
+    "Name": "Trifecta I",
+    "Description": "\r\nGain 2 3-cost champions. Combat Start: 3 random 3-cost champions gain 220 Health and 20% Attack Speed.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/trifecta-ii.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 191,
+    "Name": "Two Much Value",
+    "Description": "Gain 1 reroll for every 2 unique 2-cost champions fielded last player combat. Gain 1 2-cost champions.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/twomuchvalue_ii.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 192,
+    "Name": "\r\nTwo Tanky",
+    "Description": "When you field exactly 2 copies of a champion, they both gain 600 Health. When one copy dies, the other gains a 40% max Health Shield for 12 seconds. When you 3-star, gain a 2-star copy.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/two-tanky-ii.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 193,
+    "Name": "U.R.F",
+    "Description": "Gain a Spatula. Champions holding Spatula or Frying Pan items gain 15% Attack Speed and 2 Mana Regen.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/u.r.f..webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 195,
+    "Name": "Urf's Gambit",
+    "Description": "If you win your next player combat, gain a Spatula. If you lose, gain a Frying Pan. Gain a component anvil and 6 gold now.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_urfsgambit.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 197,
+    "Name": "Warlord's Honor",
+    "Description": "Every round, your team gain 5% Attack Damage and Ability Power. Champions start with 1 stack of this effect, and can stack up to 4 times.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_unforgotten.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 198,
+    "Name": "Warpath",
+    "Description": "Gain a 2-star 2-cost champion. After dealing 80 player damage, gain a chest of high cost champions and items.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/warpath_ii.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 200,
+    "Name": "Worth the Wait",
+    "Description": "Gain a random 1-cost champion. Gain another copy of them at the start of each round for the rest of the game.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/worth-the-wait.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 201,
+    "Name": "Woven Magic",
+    "Description": "Gain a random item component. Every 2200 Mana your team spends grants an additional component (max /3).",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/woven-magic.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 202,
+    "Name": "You Have My Bow",
+    "Description": "Gain a Recurve Bow. Your team gains 12% Attack Speed.",
+    "Tier": "2",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/you-have-my-bow-ii.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 203,
+    "Name": "An Exalted Adventure",
+    "Description": "Gain three 2-cost champions. If you 3-star two of them, gain an orb filled with loot. Gain a Lesser Champion Duplicator at the start of next 2 stages. ",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/exaltedadventure_iii.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 205,
+    "Name": "At What Cost",
+    "Description": "\r\nImmediately go to level 6 and gain 12 XP. You don't get to choose your future augments.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/at-what-cost.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 206,
+    "Name": "Band of Thieves II",
+    "Description": "Gain 2 Thief's Gloves. After 8 player combats, gain another.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/band-of-thieves-ii.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 207,
+    "Name": "Band of Thieves II+",
+    "Description": "Gain 2 Thief's Gloves. After 6 player combats, gain another.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/band-of-thieves-ii.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 208,
+    "Name": "Band of Thieves II++",
+    "Description": "Gain 2 Thief's Gloves. After 3 player combats, gain another.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/band-of-thieves-ii.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 209,
+    "Name": "Baron's Lair",
+    "Description": "Gain a random Tank item. After 8 seconds of combat, your team gains 5% bonus Attack Damage and Ability Power every second for the rest of combat. TFT Paris Open, 2025",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_thebaronslair.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 210,
+    "Name": "Belt Overflow",
+    "Description": "Gain 4 Giant's Belts. Your Giant's Belts grant +85 bonus Health.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/beltoverflow_iii.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 212,
+    "Name": "Birthday Present",
+    "Description": "Gain a 2-star champion and 1 gold every time you level up. The champion's cost tier is your level minus 4 (max: 5-cost).",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/birthdaypresent3.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 213,
+    "Name": "Bronze For Life II",
+    "Description": "\r\nYour team gains 2.5% Damage Amp and 4 Armor and Magic Resist for each Bronze-tier trait.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/bronzeforlife_iii.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 214,
+    "Name": "Build a Bud",
+    "Description": "Gain a random 3-star 1-cost champion. Gain 8 gold.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/build-a-bud.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 215,
+    "Name": "Buried Treasures\r\n",
+    "Description": "Earn interest on gold for 4 rounds.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/buriedtreasures3.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 216,
+    "Name": "Call to Chaos",
+    "Description": "Gain a powerful and random reward. ",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/call-to-chaos.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 217,
+    "Name": "Celestial Blessing III\r\n",
+    "Description": "Your team gains 25% Omnivamp. Excess healing is converted to a shield up to 1000 Health.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/celestialblessing3.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 219,
+    "Name": "\r\nComeback Story",
+    "Description": "Your team gains 5 Health and 0.4% Attack Speed per missing player Health.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/comeback-story.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 220,
+    "Name": "Commerce Core",
+    "Description": "Gain 16 free Shop rerolls now and 3 every round for the rest of the game.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft6_augment_tradesector2.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 221,
+    "Name": "Component Heist",
+    "Description": "After 6 player combats, gain 1 of every item component. Gain a random component now.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/component-heist.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 223,
+    "Name": "Construct a Companion",
+    "Description": "The next 1-cost champion you buy is 3-star. Gain 2 gold.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/construct-a-companion.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 225,
+    "Name": "Cursed Crown",
+    "Description": "Gain +2 max team size and your team gains 4% Durability, but you take double player damage when you lose a player combat.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/cursedcrown3.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 226,
+    "Name": "Deadlier Blades",
+    "Description": "Gain a Deathblade. Deathblades permanently gain 1% Attack Damage whenever their holders score a takedown.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/t3.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 227,
+    "Name": "Deadlier Caps",
+    "Description": "Gain a Rabadon's Deathcap. Rabadon's Deathcaps permanently gain Ability Power whenever their holders score a takedown.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/t3.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 230,
+    "Name": "Exclusive Customization II",
+    "Description": "Gain 7 gold. Get a random component.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/t3.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 232,
+    "Name": "\r\nExpected Unexpectedness",
+    "Description": "\r\nNow and at the start of the next 2 stages, roll 3 dice. Gain various rewards based on their total.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/addicted-to-rolling-iii.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 233,
+    "Name": "\r\nFive-Pointed Star",
+    "Description": "Now and at the start of each stage, the first champion you buy with a cost equal to the stage number is 2-star. Gain 2 gold and a 2-star 1-cost champion now.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/t3.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 234,
+    "Name": "Flexible",
+    "Description": "HP Per Emblem: 30.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/flexible_3.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 235,
+    "Name": "\r\nForged in Strength",
+    "Description": "Gain 1 random Artifact. When you drop below 40 Health, gain 3 more random Artifacts. Remix Rumble Championship, 2023",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/forged-in-strength.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 236,
+    "Name": "Giant and Mighty",
+    "Description": "Your team becomes large, gaining 200 Health and 10% max Health.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/giantandmighty_iii.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 237,
+    "Name": "Going Long",
+    "Description": "You no longer gain interest. Gain 13 gold now. Round start: gain 4 XP.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/going-long.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 238,
+    "Name": "Golden Gamble",
+    "Description": "Gain 1 gold and flip a coin. If heads, gain a Radiant Lucky Item Chest. If tails, gain Completed item anvils.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_goldengamble.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 239,
+    "Name": "Golden Gamble+",
+    "Description": "Gain 2 gold. Gain a random component after each combat.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_goldengamble.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 240,
+    "Name": "Golden Gamble++",
+    "Description": "Gain 6 gold. Gain a random component after each combat.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_goldengamble.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 242,
+    "Name": "\r\nHard Commit",
+    "Description": "Gain a random Emblem. Now and at the start of each Stage, gain a 1-star champion of that trait with a cost equal to the Stage (max 5) and 4 gold.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/hardcommit_iii.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 243,
+    "Name": "Hedge Fund",
+    "Description": "Gain 25 gold. Your max interest is increased to 10.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/hedge-fund-iii.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 244,
+    "Name": "Hedge Fund+",
+    "Description": "Gain 30 gold. Your max interest is increased to 10.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/hedge-fund-iii.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 245,
+    "Name": "Hold the Line",
+    "Description": "Allies in your back 2 rows gain 10% Ability Power and 9% Attack Damage for each ally that starts combat in your front row.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/hold-the-line.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 247,
+    "Name": "Invested+",
+    "Description": "Gain 26 gold. After every combat, gain 1 Shop reroll for every 10 gold above 50 (max 80 gold).",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/invested.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 248,
+    "Name": "Jeweled Lotus II",
+    "Description": "Gain Precision. Precision: Ability damage can critically strike. Critical Strike Chance: 10%.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/jeweledlotus3.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 249,
+    "Name": "\r\nJust Hit",
+    "Description": "\r\nGain a Champion Duplicator, 18 Shop rerolls, and 3 gold.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/t3.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 250,
+    "Name": "Level Up!",
+    "Description": "When you buy XP, gain an additional 2. Gain 10 immediately.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/levelup.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 251,
+    "Name": "Living Forge",
+    "Description": "Gain an Artifact anvil now and after every 8 player combats.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/livingforge3.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 252,
+    "Name": "Lucky Gloves",
+    "Description": "Thief's Gloves will always give your champions ideal items. Gain 2 Sparring Gloves.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/luckygloves3.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 253,
+    "Name": "Lucky Gloves+",
+    "Description": "Thief's Gloves will always give your champions recommended items. Gain 2 Sparring Gloves now, then another after 4 player combats.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/luckygloves3.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 254,
+    "Name": "\r\nLuxury Subscription",
+    "Description": "Gain a package containing a 5-cost champion, a 2-star 1-cost champion, and 5 gold. At the start of the next 2 stages, gain the package again.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/luxury-subscription.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 255,
+    "Name": "\r\nMin-Max",
+    "Description": "Gain a Golden Item Remover and 4 random components.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/min-max.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 257,
+    "Name": "Money Monsoon",
+    "Description": "Gain 7 gold now and every round for the rest of the game.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/money-monsoon.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 258,
+    "Name": "New Recruit",
+    "Description": "Gain +1 max team size and a Champion Duplicator.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/newrecruit.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 259,
+    "Name": "Nine Lives",
+    "Description": "\r\nSet your current and max player Health to 9. On combat loss, you only lose 1 health and gain loot. You can't gain health.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/nine-lives.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 260,
+    "Name": "One Buff, Two Buff",
+    "Description": "Gain a Red Buff, a Blue Buff, and a Champion Duplicator.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/onebufftwobuff_iii.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 262,
+    "Name": "Pandora's Items III",
+    "Description": "Round start: items on your bench are randomized. Gain 1 random Radiant item.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/pandorasbox3.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 263,
+    "Name": "\r\nPrismatic Ticket",
+    "Description": "Each time your Shop is rerolled, you have a 50% chance to gain a free reroll.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/goldenticket.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 264,
+    "Name": "Radiant Rascal",
+    "Description": "Gain a Rascal's Gloves item. This equips 2 random Radiant items every round.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/roll-the-dice-iii.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 265,
+    "Name": "Retribution",
+    "Description": "Gain 2 Hands of Justice. Allies equipped with Hand of Justice gain Precision.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/retribution.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 266,
+    "Name": "\r\nShimmerscale Essence\r\n",
+    "Description": "Gain a Mogul's Mail. In 6 rounds, gain a Gamblers Blade.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/shimmerscale-essence.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 267,
+    "Name": "Shopping Spree",
+    "Description": "When you level up, gain a number of free shop refreshes equal to your level+1. Gain 2 gold.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/shopping-spree.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 268,
+    "Name": "\r\nSoul Awakening",
+    "Description": "Combat start: Your team gains 1.5% Attack Damage and Ability Power per second for 10 seconds. At max stacks, deal 12% bonus true damage.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft_augment_awakenedsoul.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 270,
+    "Name": "Spoils of War III",
+    "Description": "Enemies have a 40% chance to drop loot when killed.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/spoils-of-war-3.webp?v=72",
+    "TierRating": "D"
+  },
+  {
+    "Id": 271,
+    "Name": "Subscription Service",
+    "Description": "Now and at the start of each Stage, open a Shop of 4 unique 4-cost champions and gain 6 gold.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/subscription-service.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 272,
+    "Name": "Sweet Treats",
+    "Description": "Gain an Artifact anvil. Your team gains 20 Health for each item equipped on champions. Health Gained: Magic N' Mayhem Tactician's Crown, 2024",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/sweet-treats.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 273,
+    "Name": "\r\nSword Overflow",
+    "Description": "\r\nGain 4 B.F. Swords. Your B.F. Swords grant +4% Attack Speed.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/bladeoverflow_iii.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 274,
+    "Name": "Tactician's Kitchen",
+    "Description": "Gain a random Emblem. After 3 rounds, gain a Tactician's Cape.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tacticianskitchen_iii.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 275,
+    "Name": "The Golden Egg",
+    "Description": "\r\nGain a golden egg that hatches in 11 turns for a huge amount of loot. Winning player combat speeds up the hatch timer by an extra turn.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/thegolden-egg3.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 276,
+    "Name": "The Trait Tree",
+    "Description": "Gain 3 random Emblems, a Reforger, and 2 gold.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/the-trait-tree.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 277,
+    "Name": "The Trait Tree+",
+    "Description": "Gain 3 random Emblems, a Reforger, and 4 gold.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/the-trait-tree.webp?v=72",
+    "TierRating": "S"
+  },
+  {
+    "Id": 278,
+    "Name": "Tiniest Titan",
+    "Description": "Gain 2 player Health and 1 gold after every player combat. Your Tactician also moves faster.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tiniesttitan3.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 279,
+    "Name": "Tiny, but Deadly",
+    "Description": "Your team becomes small, gaining 30% Attack Speed and Movement Speed.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tiny-but-deadly.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 281,
+    "Name": "Trifecta II",
+    "Description": "Gain 3 tier-3 champions. Allies gain 5% Attack Speed. Combat Start: 3 random tier-3 champions gain 300 Health and 25% Attack Speed.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/trifecta-iii.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 282,
+    "Name": "Upward Mobility",
+    "Description": "Buying XP costs 1 less. Gain 2 Health and 2 free rerolls whenever you level up.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/upward-mobility.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 283,
+    "Name": "Urf's Grab Bag",
+    "Description": "Gain 1 Spatula, 3 random components, and 5 gold.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/tft7_augment_urfsgrabbag2.webp?v=72",
+    "TierRating": "B"
+  },
+  {
+    "Id": 284,
+    "Name": "Wand Overflow",
+    "Description": "Gain 4 Needlessly Large Rods. Your Needlessly Large Rods grant +5% Attack Speed.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/wandoverflow_iii.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 285,
+    "Name": "\r\nWe Stick Together",
+    "Description": "Gain a random Emblem and a completed item anvil. Allies that share a trait with that Emblem gain 30% Attack Speed. Into The Arcane Tactician's Crown, 2025",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/we-stick-together.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 286,
+    "Name": "Win Out",
+    "Description": "When you reach level 9, immediately level to 10 and gain 8 free Shop rerolls. Gain 6 XP now.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/win-out.webp?v=72",
+    "TierRating": "C"
+  },
+  {
+    "Id": 287,
+    "Name": "Wise Spending",
+    "Description": "\r\nYou can no longer buy XP. Every time you spend gold to reroll your Shop, gain 2 XP. Gain 3 gold now.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/wisespending.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 288,
+    "Name": "Worth the Wait II",
+    "Description": "Gain 2 copies of a random 2-cost champion. Gain another copy of them at the start of each round for the rest of the game.",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.mobalytics.gg/assets/tft/images/hextech-augments/set17/worth-the-wait-ii.webp?v=72",
+    "TierRating": "A"
+  },
+  {
+    "Id": 289,
+    "Name": "Shieldmaiden",
+    "Description": "Gain a Leona. Your strongest Leona becomes an Attack Fighter that dashes through enemies to deal physical damage, stunning the first target hit.",
+    "Tier": "1",
+    "ImageUrl": "https://assets.tftacademy.com/augments/TFT17_Augment_LeonaCarry.webp",
+    "TierRating": "A"
+  },
+  {
+    "Id": 290,
+    "Name": "Invested++",
+    "Description": "Gain 40 gold. After every combat, gain 1 Shop reroll for every 10 gold above 50 (max 80 gold).",
+    "Tier": "3",
+    "ImageUrl": "https://cdn.metatft.com/file/metatft/augments/invested-iii.png",
+    "TierRating": "B"
+  },
+  {
+    "Id": 291,
+    "Name": "Concentration",
+    "Description": "Conduit Abilities last 25% to 50% longer, depending on the Ability. Gain Zoe and Mordekaiser.",
+    "Tier": "3",
+    "ImageUrl": "",
+    "TierRating": ""
+  },
+  {
+    "Id": 292,
+    "Name": "Heart of the Swarm",
+    "Description": "All 3-star champions count toward Swarmling power. At level 9 with 6 unique 3-star champions, Primordians summon Apex Primordian. Gain Briar, Bel'veth, and 2-star Rek'sai.",
+    "Tier": "3",
+    "ImageUrl": "",
+    "TierRating": ""
+  },
+  {
+    "Id": 293,
+    "Name": "Loot Singularity",
+    "Description": "Dark Star Black Holes consume enemies turning them into space matter for loot. Gain Cho'gath and Lissandra. Space matter and loot quality increases per Dark Star breakpoint.",
+    "Tier": "3",
+    "ImageUrl": "",
+    "TierRating": ""
+  },
+  {
+    "Id": 294,
+    "Name": "Tour of the Galaxy",
+    "Description": "Voyagers gain 130 Health, 13% AD, and 13% AP, increased by 10% per new player fought. Prefer fighting players not recently faced. Gain Pyke and Meepsie.",
+    "Tier": "2",
+    "ImageUrl": "",
+    "TierRating": ""
+  },
+  {
+    "Id": 295,
+    "Name": "Timestream",
+    "Description": "Timebreakers gain 2 Health and 0.25% Attack Speed per reroll. Gain Ezreal and Pantheon.",
+    "Tier": "2",
+    "ImageUrl": "",
+    "TierRating": ""
+  }
+]
