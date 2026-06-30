@@ -339,18 +339,18 @@
     ]
   },
   {
-    “name”: “Anima Reroll”,
-    “playstyle”: “Reroll”,
-    “difficulty”: “Medium”,
-    “tips”: “Roll at Stage 3-2 for 3-star Diana, Illaoi, and Aurora — all three need to hit 3-star to carry.\nActivate 4 Anima with Illaoi, Aurora, Diana, and Rhaast for the HP scaling bonus.\nDiana fights in melee — let Illaoi and Leona absorb the initial pressure before she dives.\nDiana items: Guinsoo's Rageblade, Bloodthirster, Titan's Resolve.”,
-    “champions”: [
-      { “championName”: “Illaoi”,  “row”: 3, “col”: 1, “isCarry”: false, “items”: [] },
-      { “championName”: “Maokai”,  “row”: 3, “col”: 3, “isCarry”: false, “items”: [] },
-      { “championName”: “Leona”,   “row”: 3, “col”: 5, “isCarry”: false, “items”: [] },
-      { “championName”: “Rhaast”,  “row”: 2, “col”: 2, “isCarry”: false, “items”: [] },
-      { “championName”: “Meepsie”, “row”: 2, “col”: 4, “isCarry”: false, “items”: [] },
-      { “championName”: “Aurora”,  “row”: 1, “col”: 3, “isCarry”: false, “items”: [] },
-      { “championName”: “Diana”,   “row”: 0, “col”: 3, “isCarry”: true,  “items”: [“Guinsoo's Rageblade”, “Bloodthirster”, “Titan's Resolve”] }
+    "name": "Anima Reroll",
+    "playstyle": "Reroll",
+    "difficulty": "Medium",
+    "tips": "Roll at Stage 3-2 for 3-star Diana, Illaoi, and Aurora — all three need to hit 3-star to carry.\nActivate 4 Anima with Illaoi, Aurora, Diana, and Rhaast for the HP scaling bonus.\nDiana fights in melee — let Illaoi and Leona absorb the initial pressure before she dives.\nDiana items: Guinsoo's Rageblade, Bloodthirster, Titan's Resolve.",
+    "champions": [
+      { "championName": "Illaoi",  "row": 3, "col": 1, "isCarry": false, "items": [] },
+      { "championName": "Maokai",  "row": 3, "col": 3, "isCarry": false, "items": [] },
+      { "championName": "Leona",   "row": 3, "col": 5, "isCarry": false, "items": [] },
+      { "championName": "Rhaast",  "row": 2, "col": 2, "isCarry": false, "items": [] },
+      { "championName": "Meepsie", "row": 2, "col": 4, "isCarry": false, "items": [] },
+      { "championName": "Aurora",  "row": 1, "col": 3, "isCarry": false, "items": [] },
+      { "championName": "Diana",   "row": 0, "col": 3, "isCarry": true,  "items": ["Guinsoo's Rageblade", "Bloodthirster", "Titan's Resolve"] }
     ]
   },
   {
