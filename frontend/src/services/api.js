@@ -1,8 +1,9 @@
 import axios from 'axios'
 
 // This is the base URL of your backend API
-// All requests will start with this
-const API_BASE_URL = 'http://localhost:5232/api'
+// All requests will start with this. Set VITE_API_URL on Vercel to your
+// Render backend; falls back to localhost for local development.
+const API_BASE_URL = import.meta.env.VITE_API_URL ?? 'http://localhost:5232/api'
 
 const api = axios.create({
     baseURL: API_BASE_URL

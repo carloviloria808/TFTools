@@ -4,16 +4,25 @@ using Scalar.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Registers the DbContext and tells it to use SQL Server with the connection string
-builder.Services.AddDbContext<TFToolsDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+// On Render, DATABASE_URL is a postgres:// URL; locally we use the key-value
+// ConnectionStrings:DefaultConnection from appsettings.json.
+var databaseUrl = builder.Configuration["DATABASE_URL"];
+var connectionString = string.IsNullOrEmpty(databaseUrl)
+    ? builder.Configuration.GetConnectionString("DefaultConnection")
+    : BuildNpgsqlConnectionString(databaseUrl);
 
-// Allows the React frontend to communicate with this API without being blocked
+builder.Services.AddDbContext<TFToolsDbContext>(options =>
+    options.UseNpgsql(connectionString));
+
+var allowedOrigins = builder.Configuration
+    .GetSection("AllowedOrigins")
+    .Get<string[]>() ?? ["http://localhost:5173"];
+
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReactApp", policy =>
     {
-        policy.WithOrigins("http://localhost:5173") // Default React/Vite port
+        policy.WithOrigins(allowedOrigins)
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
@@ -34,11 +43,12 @@ builder.Services.AddOpenApi();
 
 var app = builder.Build();
 
-// ── Run composition seed on startup ──────────────────────────────────────────
+// ── Apply migrations + seed on startup ───────────────────────────────────────
 using (var scope = app.Services.CreateScope())
 {
     var db     = scope.ServiceProvider.GetRequiredService<TFToolsDbContext>();
     var logger = scope.ServiceProvider.GetRequiredService<ILogger<Program>>();
+    db.Database.Migrate();
     await TFTools.API.Data.SeedService.SeedCompositionsAsync(db, logger);
 }
 
@@ -50,7 +60,12 @@ if (app.Environment.IsDevelopment())
     app.MapScalarApiReference();
 }
 
-app.UseHttpsRedirection();
+// Render terminates TLS at its proxy and forwards plain HTTP to the container,
+// so only redirect to HTTPS during local development.
+if (app.Environment.IsDevelopment())
+{
+    app.UseHttpsRedirection();
+}
 
 // Must be placed BEFORE UseAuthorization - order matters in ASP.NET!
 app.UseCors("AllowReactApp");
@@ -61,3 +76,20 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+// Converts a postgres://user:pass@host:port/db URL (Render's format) into the
+// key-value connection string Npgsql expects.
+static string BuildNpgsqlConnectionString(string databaseUrl)
+{
+    var uri = new Uri(databaseUrl);
+    var userInfo = uri.UserInfo.Split(':', 2);
+    return new Npgsql.NpgsqlConnectionStringBuilder
+    {
+        Host = uri.Host,
+        Port = uri.Port > 0 ? uri.Port : 5432,
+        Username = Uri.UnescapeDataString(userInfo[0]),
+        Password = userInfo.Length > 1 ? Uri.UnescapeDataString(userInfo[1]) : "",
+        Database = uri.AbsolutePath.TrimStart('/'),
+        SslMode = Npgsql.SslMode.Require,
+    }.ToString();
+}
